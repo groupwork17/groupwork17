@@ -1,2 +1,5 @@
 "#groupwork17"
-The 17th group in python data science class. 
+The 17th group in python data science class.
+
+goup members:
+ 
