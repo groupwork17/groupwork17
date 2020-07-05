@@ -1,0 +1,5053 @@
+author,times,average
+Linus Torvalds ,174,266246
+Hauke Mehrtens ,59,853094
+Luuk Paulussen ,2,26549028
+Christopher Covington ,3,9654648
+Linus Walleij ,758,67667
+Thomas Falcon ,24,2213722
+Florian Fainelli ,254,196695
+Peng Tao ,36,1316994
+Arjun V ,1,0
+Helge Deller ,82,487775
+Gao Feng ,30,419458
+Dan Carpenter ,537,94769
+Roger Shimizu ,17,2798397
+Daniele Palmas ,11,3351622
+추지호 ,1,0
+Jeff Layton ,112,425484
+Stephan Mueller ,47,1122175
+Kefeng Wang ,65,548457
+Matthew Wilcox ,75,609724
+Sergey Senozhatsky ,71,709371
+Nicolai Stange ,51,924811
+Stefan Agner ,147,336854
+Jorik Jonker ,7,1448416
+stephen hemminger ,33,1185161
+Alex ,2,1797501
+Alex Deucher ,536,90610
+tim ,8,5466810
+Horia Geantă ,13,2987150
+Romain Perier ,35,1367300
+Marc Kleine-Budde ,29,1791361
+John David Anglin ,12,4049092
+Dan Williams ,310,156302
+Vishal Verma ,30,1577140
+Mohamad Haj Yahia ,36,533074
+Saeed Mahameed ,79,615478
+Kamal Heib ,12,2125677
+Nikita Yushchenko ,9,812819
+Venkat Duvvuru ,6,8889302
+Andy Lutomirski ,347,148437
+Marcelo Ricardo Leitner ,71,696785
+Jonas Gorski ,31,1537418
+Niklas Cassel ,19,2349288
+Miklos Szeredi ,156,297183
+Dmitry Vyukov ,21,1909117
+David Carrillo-Cisneros ,12,1422140
+Peter Zijlstra (Intel) ,10,5548052
+Piotr Luc ,6,863991
+Jiri Slaby ,77,658221
+Herbert Xu ,393,131128
+"Mintz, Yuval ",6,685913
+Pan Bian ,11,14095
+Kees Cook ,149,316628
+Suraj Deshmukh ,1,0
+Alexander Duyck ,228,221388
+Michal Hocko ,157,301013
+Nicolas Pitre ,78,646647
+Eric Dumazet ,481,104870
+Sabrina Dubroca ,36,1220606
+Michal Kubeček ,11,4245143
+Chris Brandt ,11,2550007
+Kristian Evensen ,6,5718121
+Artem Savkov ,6,7900656
+Sowmini Varadhan ,73,660685
+Eli Cooper ,12,2452006
+Philip Pettersson ,1,0
+Lino Sanfilippo ,12,1960520
+Arnd Bergmann ,1059,46458
+Sudeep Holla ,131,383969
+Johan Hovold ,655,87126
+Tobias Klauser ,29,1840144
+Thomas Gleixner ,480,106422
+Sven Eckelmann ,183,262553
+allan ,1,0
+Stephane Grosjean ,3,18493631
+Nicholas Piggin ,67,147838
+Andrew Donnellan ,40,1043621
+Kirill A. Shutemov ,171,290997
+Chris Wilson ,816,65039
+Takashi Iwai ,331,156170
+Jérémy Lefaure ,2,3749396
+Jeremy Linton ,27,1725631
+Jason Wang ,35,1226162
+Grygorii Strashko ,101,490684
+Josef Bacik ,69,702872
+Hongxu Jia ,1,0
+Guillaume Nault ,32,1312706
+Hariprasad Shenai ,155,322496
+Mike Rapoport ,184,223673
+Haishuang Yan ,15,1552855
+Ping Cheng ,20,2671006
+Daniele Di Proietto ,1,0
+David Michael ,1,0
+Harsh Jain ,2,13311241
+Tobias Brunner ,4,3573367
+Matthew Auld ,16,1411048
+Yi Zhao ,1,0
+Michel Dänzer ,37,1327021
+Arnaldo Carvalho de Melo ,533,94302
+Jiri Pirko ,220,223742
+Zumeng Chen ,1,0
+Cyrille Pitchen ,71,665670
+Amir Vadai ,37,1317538
+Florian Westphal ,223,224448
+Jan Glauber ,36,703717
+Yuriy Kolerov ,6,8072506
+Uwe Kleine-König ,149,327124
+Aaron Lu ,13,3933291
+Peter Wu ,12,2799685
+Benjamin Herrenschmidt ,75,590244
+Eryu Guan ,16,2960928
+Sachin Prabhu ,13,3732392
+Rex Zhu ,222,147897
+Michael Holzheu ,31,1629382
+David Ahern ,154,327143
+Tushar Dave ,13,3476026
+Jack Morgenstein ,18,2494815
+Tariq Toukan ,41,818355
+Roi Dayan ,3,14712340
+Borislav Petkov ,269,191279
+Vineet Gupta ,273,177715
+Julian Wollrath ,1,0
+Martin Blumenstingl ,35,1387717
+Daniel Borkmann ,210,238859
+Ben Hutchings ,56,896737
+Josh Poimboeuf ,157,214814
+Peter Foley ,1,0
+Jon Paul Maloy ,117,419623
+Al Viro ,637,76883
+Geliang Tang ,233,202972
+Miroslav Lichvar ,1,0
+Andrew Lunn ,194,256008
+Rafael J. Wysocki ,229,216416
+Jarkko Nikula ,98,483027
+Robin Murphy ,108,441106
+Mauricio Faria de Oliveira ,11,3375388
+Viresh Kumar ,769,86235
+Matt Redfearn ,64,629294
+Paul Burton ,266,170384
+Michael Ellerman ,180,273595
+Aneesh Kumar K.V ,179,259183
+Andrey Ryabinin ,65,740386
+Arvind Yadav ,12,1201422
+Roman Mashak ,4,2848362
+Andy Gospodarek ,11,4866358
+Radim Krčmář ,58,859968
+Nicolas Schichan ,19,2711190
+Paolo Abeni ,46,784514
+Russell King ,460,113882
+Liping Zhang ,66,320219
+Anders K. Pedersen ,2,3276835
+Laura Garcia Liebana ,36,699927
+Marc Zyngier ,352,132907
+Matthias Brugger ,13,3645161
+Jitao Shi ,3,11517715
+Bibby Hsieh ,10,1032221
+Oliver O'Halloran ,16,1383703
+Dmitry Safonov ,25,1592164
+Mike Galbraith ,6,8273083
+WANG Cong ,74,657943
+Zhang Shengju ,19,1400138
+Christophe Jaillet ,34,1470718
+Randy Dunlap ,38,1198720
+Kirill Esipov ,2,1440491
+Johannes Thumshirn ,61,815867
+Icenowy Zheng ,17,762925
+Chris Metcalf ,64,788214
+Song Hongyan ,3,776015
+Benjamin Tissoires ,69,719589
+Oliver Hartkopp ,16,3071689
+Loic Pallardy ,2,682778
+Miroslav Urbanek ,1,0
+Suganath Prabu S ,1,0
+Hannes Reinecke ,163,291866
+Johan Hedberg ,110,438431
+Maxime Ripard ,222,224922
+Peter Zijlstra ,379,132538
+Johannes Weiner ,79,572067
+Oleg Nesterov ,112,417703
+Mika Westerberg ,107,456856
+Chen-Yu Tsai ,229,217714
+Benjamin Coddington ,23,2021456
+Peter Robinson ,6,6296112
+Christoph Hellwig ,578,84903
+Jacob Pan ,13,3426501
+Alexander Shishkin ,114,416044
+Jaehoon Chung ,37,1108738
+Andy Shevchenko ,370,124765
+H.J. Lu ,5,12204816
+Yu-cheng Yu ,12,2010887
+John Johansen ,21,568674
+Theodore Ts'o ,71,680540
+Eric Biggers ,36,1058777
+Alex Hemme ,1,0
+Paolo Bonzini ,203,240533
+Ignacio Alvarado ,1,0
+David Woodhouse ,53,781080
+Alexey Khoroshilov ,43,1168855
+Pavel Machek ,15,3524865
+Babu Moger ,7,3642685
+Trond Myklebust ,349,132893
+Dave Kleikamp ,4,14169709
+Stefan Hajnoczi ,16,3083066
+Michael Walle ,5,10009492
+Felix Hädicke ,4,2451146
+Wei Huang ,13,3727752
+Janakarajan Natarajan ,1,0
+Johannes Berg ,352,142242
+Michael Neuling ,50,941638
+Wei Yongjun ,326,154555
+Cédric Le Goater ,4,15336064
+Dave Airlie ,71,658499
+Tony Lindgren ,210,232700
+Brian Norris ,197,247008
+Abhi Das ,10,5390631
+Andreas Gruenbacher ,111,422245
+Dmitry Torokhov ,112,433934
+Steve Wise ,39,1212991
+Yonatan Cohen ,8,756425
+Matan Barak ,61,771508
+Daniel Jurgens ,14,1817050
+Eli Cohen ,35,1054136
+Moshe Lazer ,3,11236672
+Maor Gottlieb ,69,497953
+Majd Dibbiny ,26,1835334
+Mark Bloch ,21,808091
+Leon Romanovsky ,33,1379726
+Joao Pinto ,23,985997
+Lv Zheng ,190,251841
+Keno Fischer ,1,0
+Keith Busch ,117,405168
+Stephen Boyd ,465,105935
+Sunil Goutham ,64,739208
+Radha Mohan Chintakuntla ,4,13701816
+Mike Marshall ,66,545051
+Paul Jakma ,1,0
+Heikki Krogerus ,66,734663
+Azhar Shaikh ,1,0
+Kan Liang ,63,735481
+David Herrmann ,23,2203356
+Ville Syrjälä ,712,72404
+Pablo Neira ,14,3670753
+Alexander Kochetkov ,9,3177362
+Giuseppe CAVALLARO ,22,1444981
+Hangbin Liu ,5,10240119
+Dennis Dalessandro ,123,314982
+Jianxin Xiong ,21,1079199
+Dasaratharaman Chandramouli ,10,5421451
+Jakub Pawlak ,8,2294549
+Krzysztof Blaszkowski ,2,3
+Ira Weiny ,98,487361
+Easwar Hariharan ,32,1074541
+Tadeusz Struk ,95,506080
+Monk Liu ,47,524020
+Peter Chen ,125,395695
+Jia Jie Ho ,1,0
+Marek Szyprowski ,190,250773
+Benjamin Beichler ,1,0
+Felix Fietkau ,62,787524
+"Pedersen, Thomas ",4,1846935
+Filip Matusiak ,1,0
+Petr Vandrovec ,2,651442
+Ido Schimmel ,198,207715
+Steven Rostedt (Red Hat) ,144,332999
+Alexei Starovoitov ,110,444478
+Xin Long ,73,404379
+Baoquan He ,26,1666631
+Hoan Tran ,11,1244089
+H. Nikolaus Schaller ,35,1415998
+Max Filippov ,78,577116
+Thomas Tai ,2,323588
+Colin Ian King ,282,176405
+Mauro Carvalho Chehab ,1175,41667
+Scott Mayhew ,9,6047761
+Axl-zhang ,1,0
+Sagi Grimberg ,153,309941
+Bart Van Assche ,178,266167
+Dave Jiang ,107,406042
+Nicholas Mc Guire ,76,682204
+Bert Kenward ,20,2019077
+Arkadi Sharshevsky ,1,0
+Yotam Gigi ,19,629148
+Michael Chan ,113,299028
+Mike Frysinger ,5,9310619
+Stephen Suryaputra Lin ,1,0
+Guenter Roeck ,242,192064
+Sven Ebenfeld ,1,0
+Matt Fleming ,63,746950
+Baruch Siach ,40,1230169
+Martin KaFai Lau ,54,914786
+Jens Axboe ,86,566000
+Andrey Grodzovsky ,5,6078627
+Hugh Dickins ,43,923885
+Matias Bjørling ,88,509869
+Fabio Estevam ,286,173131
+Sean Young ,13,3991186
+Jakub Kicinski ,85,548556
+Greg Thelen ,7,7604190
+Mike Kravetz ,28,1618050
+Junxiao Bi ,22,1467414
+Hans de Goede ,350,139728
+Naoya Horiguchi ,38,1180739
+Jann Horn ,26,1565080
+Shiraz Hashim ,1,0
+Alexey Dobriyan ,23,2041008
+Vlastimil Babka ,77,574833
+Tetsuo Handa ,27,1343087
+Mario Kleiner ,37,1337414
+Eugeniy Paltsev ,2,4873417
+Andreas Larsson ,2,16947345
+Peter Rosin ,45,799442
+Wolfram Sang ,473,99295
+Ilya Dryomov ,150,292503
+"Yan, Zheng ",129,352492
+Ram Amrani ,19,1214170
+Shawn Lin ,138,284627
+Lance Richardson ,12,2408242
+Chuck Lever ,199,230021
+Hui Wang ,21,2173581
+Allan Chou ,1,0
+Mathias Krause ,40,1137916
+Richard Weinberger ,109,442180
+John Allen ,6,5183902
+Timur Tabi ,19,2309563
+Adam Ford ,26,1192819
+Sebastian Andrzej Siewior ,93,526219
+Rafał Miłecki ,170,282445
+Benjamin Poirier ,18,2322196
+Maciej Żenczykowski ,4,1166901
+Soheil Hassas Yeganeh ,16,1261070
+Sumit Saxena ,26,1264945
+Yazen Ghannam ,28,1259787
+Namhyung Kim ,231,210385
+Lucas Stach ,137,333596
+Marcin Wojtas ,30,1360400
+Gregory CLEMENT ,67,697642
+Varun Prakash ,45,454971
+Bjorn Helgaas ,280,170703
+Noam Camus ,39,1197828
+Andrew Shadura ,2,20996739
+Joerg Roedel ,197,233280
+Phil Reid ,24,1399210
+Heiko Carstens ,166,288013
+Fabian Mewes ,1,0
+Michael S. Tsirkin ,108,444472
+Nicolae Rosia ,1,0
+Dave Gerlach ,45,1030742
+Shuah Khan ,79,557531
+Anna Schumaker ,20,2346185
+Dhinakaran Pandiyan ,5,1269459
+Lyude ,57,522914
+Christophe JAILLET ,37,1156511
+Ulf Hansson ,97,469966
+Adrian Hunter ,289,167385
+Lukas Wunner ,106,416929
+Marc Dietrich ,1,0
+Paul Fertser ,2,0
+Ian Abbott ,197,245451
+Andrew Jeffery ,18,990136
+Huacai Chen ,25,1917132
+Doug Brown ,1,0
+Oliver Neukum ,72,593828
+David Lechner ,25,745649
+Catalin Marinas ,55,819625
+"Ooi, Joyce ",1,0
+Srinivas Pandruvada ,74,656265
+Even Xu ,3,0
+Axel Haslam ,28,1058120
+Randy Li ,8,1098155
+Tero Kristo ,74,617260
+Lokesh Vutla ,24,1795292
+Vladimir Zapolskiy ,202,233584
+Huy Nguyen ,2,22563010
+Or Gerlitz ,70,663229
+Shih-Wei Li ,1,0
+Andre Przywara ,92,503121
+Archit Taneja ,152,305068
+Stéphan Rafin ,1,0
+James Hogan ,269,173867
+Maciej W. Rozycki ,56,787338
+Guilherme G. Piccoli ,13,3134624
+Alexey Brodkin ,50,887242
+Stefan Richter ,6,6290269
+Gerd Hoffmann ,28,1746810
+Owen Hofmann ,2,21207261
+Dongli Zhang ,2,170884
+Jim Mattson ,4,3199039
+Sylwester Nawrocki ,52,521678
+Rob Clark ,86,518300
+Scott Wood ,46,994385
+Emil Lundmark ,1,0
+Bill Kuzeja ,1,0
+Jason Gunthorpe ,44,958183
+David Jeffery ,2,37284038
+Sreekanth Reddy ,42,912431
+tang.junhui ,3,1542255
+Isaac Boukris ,1,0
+Iyappan Subramanian ,55,881335
+Stephen Hemminger ,33,1422472
+Felipe Balbi ,211,223735
+Laura Abbott ,52,831459
+Alexandre TORGUE ,43,502523
+Patrice Chotard ,37,668237
+Ray Jui ,56,843739
+Masahiro Yamada ,373,125450
+Lars-Peter Clausen ,348,137795
+Lukas Resch ,1,0
+Srinivas Kandagatla ,193,248800
+Jakub Sitnicki ,25,1870522
+Christian König ,461,98438
+Grazvydas Ignotas ,28,1498324
+Alexander Usyskin ,84,547469
+Larry Finger ,74,585443
+Jarkko Sakkinen ,57,775658
+Rob Herring ,103,466481
+Vivek Gautam ,2,3837277
+Mark Lord ,1,0
+Markus Elfring ,259,165196
+Juergen Gross ,57,722683
+Konstantin Neumoin ,2,7789010
+Ladi Prosek ,2,20935191
+Will Deacon ,185,256042
+Jan Kara ,185,257456
+Lorenzo Bianconi ,8,5468373
+Ashok Raj ,9,5517897
+Boris Brezillon ,255,179866
+Geert Uytterhoeven ,916,52061
+pravin shelar ,6,1419601
+Roger Quadros ,103,438446
+Govindarajulu Varadarajan ,14,3272402
+David S. Miller ,86,530300
+Ivan Vecera ,45,1076113
+Eugenia Emantayev ,10,3033838
+Erez Shitrit ,15,2919872
+shamir rabinovitch ,4,5902750
+Willem de Bruijn ,35,1359457
+Ganesh Goudar ,4,3340860
+Yuan Yao ,9,4062646
+Craig Gallek ,27,1666690
+Noa Osherovich ,16,2452273
+Paul Blakey ,5,1527161
+NeilBrown ,119,395795
+Tomasz Majchrzak ,8,1696199
+Shaohua Li ,76,621349
+Jon Medhurst (Tixy) ,5,10012622
+Charles Keepax ,204,234136
+Stephen Barber ,5,10825891
+"Sodhi, VunnyX ",1,0
+Gabriel Krisman Bertazi ,19,2469905
+Jorgen Hansen ,7,5355652
+Gerald Schaefer ,17,2441771
+Martyn Welch ,9,4391532
+Tvrtko Ursulin ,127,384773
+Paulo Zanoni ,116,390026
+Daniel Stone ,24,2029044
+Imre Deak ,236,208805
+Jani Nikula ,290,172203
+Richard Genoud ,4,9357739
+Ido Yariv ,4,14946002
+Imre Palik ,1,0
+Jiri Olsa ,425,111629
+Dimitri Sivanich ,3,7637246
+Daniel Mentz ,4,9108385
+Martin Kepplinger ,41,1033126
+Leon Yu ,2,33637921
+Aristeu Rozanski ,6,7173459
+Aruna Ramakrishna ,1,0
+Joe Perches ,217,221861
+Alexander Polakov ,1,0
+Mark Rutland ,169,274852
+Andrey Konovalov ,10,4336294
+Joonsoo Kim ,82,499291
+Huaibin Wang ,1,0
+Jamal Hadi Salim ,31,1561552
+Guilherme G Piccoli ,2,2051035
+David Ertman ,1,0
+Emil Tantilov ,36,1141415
+Zefir Kurtisi ,11,4193110
+Chris Mason ,23,1849220
+John W. Linville ,15,3288470
+Ulrich Weber ,1,0
+Tony Luck ,38,1195843
+Scot Doyle ,5,11575855
+Francois Berder ,1,0
+Sergei Shtylyov ,230,190272
+Steve Shih ,2,14404699
+Aaron Brice ,2,1237433
+Denys Vlasenko ,110,439378
+Nava kishore Manne ,6,607852
+Valentin Rothberg ,43,1110037
+Marcel Hasler ,1,0
+David Howells ,338,156594
+Ching Huang ,9,3576361
+Ewan D. Milne ,3,10626834
+J. Bruce Fields ,40,1127766
+Vlad Tsyrklevich ,3,571481
+Neeraj Upadhyay ,1,0
+Hanjun Guo ,24,1997826
+Yisheng Xie ,4,537107
+Ming Lei ,55,863602
+Janosch Frank ,15,2042741
+Arnaud Pouliquen ,19,2409432
+Steven Rostedt ,31,1453094
+Felix Monninger ,1,0
+James Clarke ,1,0
+Rusty Russell ,17,2649989
+Jean Delvare ,66,716095
+Javier Martinez Canillas ,553,82803
+Greg Ungerer ,38,1153794
+Ralf Ramsauer ,5,4228789
+Jan Beulich ,51,891690
+David Wu ,18,1309873
+Ruqiang Ju ,1,0
+Stefan Wahren ,71,669333
+Long Li ,2,27607965
+Lorenzo Stoakes ,14,3203300
+Kashyap Desai ,1,0
+Dmitry Tunin ,15,3155378
+Zhengyuan Liu ,2,0
+Amir Goldstein ,1,0
+Atish Patra ,3,1128007
+Arve Hjønnevåg ,3,11040331
+Wang Xiaoguang ,14,817088
+Goldwyn Rodrigues ,29,1418525
+Bard Liao ,51,940300
+Jon Hunter ,186,248836
+Yoshihiro Shimoda ,95,500784
+Punit Agrawal ,17,2907016
+Bryan Paluch ,1,0
+Wenyou Yang ,36,1013846
+Sinan Kaya ,35,755815
+Paul Mackerras ,48,946706
+Darrick J. Wong ,178,239230
+Brian Foster ,85,528879
+Vaibhav Jain ,12,3997042
+Liu Gang ,11,2738925
+Jason A. Donenfeld ,14,3052208
+Sudarsana Reddy Kalluru ,41,535720
+Sandhya Bankar ,93,225967
+Manish Chopra ,33,1310357
+Paul Moore ,24,1769624
+Segher Boessenkool ,2,1854418
+jimqu ,9,3476664
+Evan Quan ,1,0
+Tom St Denis ,119,237059
+Linus Lüssing ,27,1780333
+Sudip Mukherjee ,381,123162
+Axel Lin ,299,157357
+Jiri Bohac ,3,265498
+Rich Felker ,40,799304
+Christian Borntraeger ,74,630080
+Pablo Neira Ayuso ,120,380443
+Nicolas Dichtel ,72,644538
+Mathias Nyman ,65,686315
+Gavin Shan ,145,316320
+Elad Raz ,29,1291904
+Philipp Zabel ,163,288541
+David Arcari ,1,0
+Ard Biesheuvel ,241,191173
+James Morse ,59,671754
+Jacob Siverskog ,5,7226613
+Alex Thorlton ,9,2968117
+Eric Ernst ,1,0
+Roger Willcocks ,1,0
+Eric Sandeen ,42,1069067
+Nicholas Bellinger ,75,591809
+Dinesh Israni ,1,0
+Andy Grover ,16,2614489
+Azael Avalos ,57,820685
+Patrick Scheuring ,1,0
+Toshi Kani ,96,479631
+Michał Narajowski ,12,235107
+Renat Valiullin ,2,1230783
+Eric Garver ,4,4100297
+Lukasz Odzioba ,6,6410100
+Vincent Guittot ,5,9571204
+Stephen Rothwell ,35,1280707
+Heiner Kallweit ,152,289815
+Frederic Barrat ,22,1300730
+Luca Coelho ,41,820429
+LABBE Corentin ,90,504907
+Sara Sharon ,139,315525
+Haim Dreyfuss ,15,2727406
+Andrew Lutomirski ,1,0
+Junzhi Zhao ,3,13
+Mike Snitzer ,117,383680
+Nikolay Aleksandrov ,154,279832
+Tahsin Erdogan ,7,7208808
+John Youn ,80,496411
+Liu Ying ,43,1090117
+Shawn Guo ,42,1059275
+Eric Anholt ,136,334440
+Scott Branden ,1,0
+Jisheng Zhang ,139,323099
+Junjie Mao ,3,18584246
+Dave Hansen ,140,308586
+Heinz Mauelshagen ,63,706666
+Jitendra Bhivare ,62,335162
+Chris Packham ,4,11816573
+Vladimir Murzin ,51,851963
+Tai Nguyen ,6,6857108
+Lorenzo Pieralisi ,53,881878
+Stefan Tauner ,1,0
+Anton Blanchard ,65,679667
+Wang Nan ,260,179148
+Liu Bo ,52,850641
+Alan Stern ,37,1268598
+Haibo Chen ,21,1801516
+Michal Nazarewicz ,22,1928229
+Heiko Stuebner ,135,347589
+Shyam Saini ,3,6949787
+Sebastian Ott ,83,512941
+Alexandre Belloni ,209,214660
+Oleg Drokin ,399,115271
+Aditya Shankar ,2,4895194
+Daniel Vetter ,578,83248
+Jonathan Liu ,4,11267343
+Joonas Lahtinen ,29,1625927
+Nikolay Borisov ,40,1152312
+Dave Jones ,10,2659371
+Vivek Goyal ,27,1426772
+Vegard Nossum ,67,399533
+Brian King ,16,2881292
+Jesse Brandeburg ,83,532510
+Steve French ,46,911366
+Ralf Baechle ,62,681179
+kbuild test robot ,78,614004
+Brenden Blanco ,20,2366897
+Yuval Mintz ,137,303078
+Alexander Alemayhu ,1,0
+Vadim Fedorenko ,1,0
+Longpeng(Mike) ,1,0
+Wanpeng Li ,59,719759
+Pavel Shilovsky ,4,6559747
+Germano Percossi ,1,0
+David Vrabel ,35,1331971
+Tom Herbert ,135,340771
+Bjørn Mork ,38,833560
+Jiri Benc ,99,397117
+Paul Durrant ,18,2067487
+Adam Williamson ,1,0
+Marty Faltesek ,5,7574494
+Jérôme de Bretagne ,2,18707733
+Taesoo Kim ,1,0
+Jaegeuk Kim ,305,148982
+Arindam Nath ,8,2766710
+Marek Olšák ,15,3117912
+Nicolai Hähnle ,16,1814320
+Aaro Koskinen ,128,361361
+Takashi Sakamoto ,203,217478
+Stephen Bates ,5,607036
+Aurelien Aptel ,2,6614257
+Ross Lagerwall ,13,3135527
+Thomas Petazzoni ,137,319708
+Marcin Nowakowski ,11,405592
+Oleksij Rempel ,24,1897100
+Filipe Manana ,123,352195
+Brian Masney ,2,1888455
+Michael Braun ,1,0
+Marcos Paulo de Souza ,2,689367
+Sangwon Jee ,6,4098746
+John Siddle ,1,0
+Jonathan Corbet ,41,1167391
+Petr Mladek ,27,1609207
+Mathieu Maret ,1,0
+Thomas Garnier ,17,782078
+Davidlohr Bueso ,57,806126
+Manfred Spraul ,2,36630601
+Alexander Potapenko ,18,1016148
+Maciej S. Szmigiero ,42,1091953
+Hidehiro Kawai ,17,2182065
+Jason Cooper ,8,574440
+Alexandre Bounine ,46,389720
+Ales Novak ,3,15157730
+Michael Kerrisk (man-pages) ,9,2687369
+Tomohiro Kusumi ,20,1573201
+Ian Kent ,15,1295533
+Ross Zwisler ,67,680152
+Guozhonghua ,4,6541952
+Xose Vazquez Perez ,4,5841092
+Bartosz Golaszewski ,37,1207991
+Andy Whitcroft ,2,36687768
+SeongJae Park ,22,1201276
+Kishon Vijay Abraham I ,68,596840
+murray foster ,1,0
+Laurent Dufour ,10,4899875
+Mark Brown ,82,560983
+Tobias Jakobi ,43,831758
+Emese Revfy ,10,1200363
+Thomas Hellstrom ,62,612249
+Charmaine Lee ,5,9181026
+Baole Ni ,1,0
+Shawn Lee ,1,0
+Baoyou Xie ,91,57501
+Andrej Krutak ,16,282362
+Marek Vasut ,72,634199
+Stefan Christ ,7,2958187
+Steinar H. Gunderson ,3,10295597
+Ioan-Adrian Ratiu ,6,7663851
+Suresh Reddy ,19,2489812
+Sriharsha Basavapatna ,12,3474268
+Paul Gortmaker ,377,119327
+Luis de Bethencourt ,193,206671
+Salah Triki ,38,864050
+Nathan Sullivan ,8,6157615
+Alex Sidorenko ,1,0
+Robert Ho ,2,0
+John Stultz ,53,1209597
+zijun_hu ,9,767991
+zhong jiang ,7,1023988
+Wei Fang ,10,4536378
+Andrea Arcangeli ,52,676084
+Wanlong Gao ,1,0
+Rasmus Villemoes ,141,321051
+Andrew Morton ,48,916778
+Huang Ying ,8,1236440
+Reza Arbab ,5,1579007
+Tim Chen ,5,8914034
+Simon Guo ,10,4761298
+Srikar Dronamraju ,19,2288344
+Xishi Qiu ,11,3629819
+Vladimir Davydov ,76,542637
+Joseph Qi ,42,1012142
+Bhaktipriya Shridhar ,203,125484
+Doug Ledford ,19,2165514
+Yuval Shaia ,5,9744815
+kernel@kyup.com ,1,0
+Aviv Heller ,16,704413
+Yishai Hadas ,24,1517430
+Alex Vesker ,10,1020335
+Prarit Bhargava ,42,1091584
+Jes Sorensen ,352,129444
+Ethan Hsieh ,1,0
+Nelson Chang ,10,392407
+Jon Mason ,67,517398
+Anoob Soman ,1,0
+Mike Looijmans ,19,2357293
+Raju Lakkaraju ,5,1275781
+Laurent Pinchart ,366,119311
+Mugunthan V N ,25,1677715
+Parav Pandit ,10,4856518
+Jaedon Shin ,31,1361714
+Olof Johansson ,11,3859901
+Sathyanarayana Nujella ,5,6331156
+Boris Ostrovsky ,30,1230377
+Ley Foon Tan ,17,2538099
+Amitkumar Karwar ,67,643506
+netmonk@netmonk.org ,1,0
+chris hyser ,2,0
+Nambong Ha ,1,0
+Donghyun Kim ,1,0
+Kim SeonYoung ,1,0
+Mikulas Patocka ,43,979701
+Andi Kleen ,116,394686
+Pierre Morel ,8,5556240
+Ravi Bangoria ,17,1423734
+Julia Lawall ,436,104039
+sylvain.bertrand@gmail.com ,1,0
+Justin Maggard ,6,7295084
+Deepa Dinamani ,26,1236775
+Ben Gamari ,6,6114417
+Rajat Jain ,1,0
+Huang Rui ,76,571518
+Richard Fitzgerald ,58,764409
+Peter Ujfalusi ,279,161381
+Lee Jones ,190,239555
+Marcin Niestroj ,9,1865763
+Steve Twiss ,21,2085913
+Lu Baolu ,21,1908870
+Krzysztof Kozlowski ,483,95739
+Keerthy ,51,758833
+Bin Gao ,6,1763549
+Yang Ling ,5,230769
+Fabian Frederick ,99,457251
+Álvaro Fernández Rojas ,44,1042481
+Naveen N. Rao ,38,1211334
+Cyril Bur ,43,1008226
+Ingo Molnar ,373,120111
+Madalin Bucur ,15,2594732
+Igal Liberman ,20,2224385
+Tomeu Vizoso ,45,1018639
+Emilio López ,17,2219654
+Andrew Collins ,1,0
+Petr Kulhavy ,23,838822
+Laszlo Ersek ,3,14449975
+Stefan Assmann ,14,2739618
+Shmulik Ladkani ,12,1161769
+Sukadev Bhattiprolu ,31,1365744
+Matti Kurkela ,1,0
+John Crispin ,100,285926
+David Sterba ,147,289141
+Omar Sandoval ,41,1055366
+Salil ,8,3750231
+Lijun Ou ,24,0
+Wei Hu (Xavier) ,3,0
+Daode Huang ,24,731882
+Kejian Yan ,28,623455
+lipeng ,3,15317973
+Andreas Gerstmayr ,1,0
+Xie XiuQi ,8,6110490
+Brian Boylston ,3,3347507
+Jacob Keller ,161,255621
+Bjorn Andersson ,156,289824
+Gavin Schenk ,1,0
+Pascal Eberhard ,1,0
+Srinivas Ramana ,1,0
+Ksenija Stanojevic ,42,1081970
+Ivan Safonov ,193,159970
+Ramiro Oliveira ,3,0
+Muraru Mihaela ,1,0
+shyam saini ,1,0
+Georgiana Rodica Chelu ,12,95503
+Fernando Apesteguia ,3,871265
+Bhumika Goyal ,93,226983
+Elizabeth Ferdman ,3,837
+Namrata A Shettar ,22,60637
+Carlos Palminha ,39,534416
+Wayne Porter ,3,467
+Sergio Paracuellos ,120,11820
+Moshe Green ,7,604057
+Tudor Ambarus ,9,4755000
+Gary R Hook ,20,932446
+Marcelo Cerri ,4,141
+Jan Stancek ,10,4013005
+Ondrej Mosnáček ,1,0
+Rui Miguel Silva ,97,558452
+Mark Greer ,20,2486519
+popcornmix ,1,0
+Mike Marciniszyn ,94,374526
+Dean Luick ,110,270443
+Harish Chegondi ,43,587557
+Sebastian Sanchez ,23,1262071
+Tymoteusz Kielan ,2,5244069
+sayli karnik ,23,70823
+Tyler Hicks ,4,11789893
+Jon Bailey ,1,0
+Misael Lopez Cruz ,11,4197069
+Seth Forshee ,14,1333521
+Chao Yu ,239,185958
+Tiezhu Yang ,7,6082464
+Sheng Yong ,7,5114761
+Yunlei He ,16,2828610
+Weichao Guo ,1,0
+Eric Ren ,6,5741142
+Frank Sorenson ,9,788132
+Vishwanath Pai ,5,4019665
+Aaron Conole ,14,2438438
+Niklas Söderlund ,47,563394
+Eric W. Biederman ,264,166927
+Javi Merino ,35,1307571
+Andrzej Hajda ,199,222942
+Milo Kim ,23,1802368
+Cao jin ,2,13398793
+Toke Høiland-Jørgensen ,6,298400
+Ayala Beker ,26,1420997
+David Spinadel ,13,3744128
+KarimAllah Ahmed ,2,39513577
+Frederic Weisbecker ,61,751353
+Dietmar Eggemann ,12,3008620
+Tang Yuantian ,16,2759866
+Sascha Silbe ,9,3520369
+Stefan Haberland ,21,1922073
+Eric Engestrom ,49,384399
+Calvin Owens ,12,3216113
+Eric Whitney ,6,8055740
+David Decotigny ,23,1882725
+Jia He ,9,2916303
+Greg Kroah-Hartman ,485,139405
+gmail ,1,0
+Milton Miller ,1,0
+Vivien Didelot ,211,200855
+Ondrej Zary ,88,413927
+Zang Leigang ,1,0
+Joel Stanley ,18,2579641
+Alistair Popple ,22,2043915
+Kuninori Morimoto ,552,81683
+Richard Guy Briggs ,21,2112126
+Steven J. Hill ,7,2004579
+Olga Kornievskaia ,8,5999946
+Masami Hiramatsu ,127,355904
+Mathieu Poirier ,96,449131
+Simon Que ,2,12165657
+Tejun Heo ,331,130844
+Nicolas Iooss ,39,1177134
+Laurent Georget ,1,0
+Nicolas Ferre ,56,783561
+Masanari Iida ,87,511132
+Balbir Singh ,7,3235313
+Li Zhong ,3,1530831
+Andrey Smirnov ,25,537026
+Yongji Xie ,5,2827182
+Flora Cui ,38,770934
+Mark Fasheh ,10,4571928
+Bastian Hecht ,1,0
+George G. Davis ,1,0
+Aleksey Makarov ,20,2200160
+Leif Lindholm ,4,10140463
+Lawrence Brakmo ,5,3074237
+Jouni Malinen ,14,1986295
+Chaehyun Lim ,557,73773
+Miaoqing Pan ,41,939145
+Rajkumar Manoharan ,70,717286
+Mohammed Shafi Shajakhan ,41,758274
+Darryl T. Agostinelli ,4,44738
+Zach Brown ,6,5211790
+Martin Alonso ,1,0
+Tim Sell ,72,537055
+Hadar Hen Zion ,25,1710215
+Matthew Kilgore ,1,0
+Lee Duncan ,5,7763842
+Kyuho Choi ,1,0
+Todd Fujinaka ,16,2953372
+Jon Derrick ,18,2440154
+Ke Wang ,1,0
+Christoffer Dall ,49,889298
+jbaron@akamai.com ,1,0
+Ben Greear ,20,1519047
+Vasanthakumar Thiagarajan ,42,1201540
+Masaki Ota ,3,4389542
+Philippe Reynes ,117,375938
+Eric Nelson ,13,3471775
+Yannis Damigos ,5,109200
+Daeseok Youn ,52,780026
+Eric Salem ,1,0
+Grygorii Maistrenko ,1,0
+David Binder ,29,519283
+Jon Frisch ,13,107910
+Matt Kilgore ,1,0
+Sabitha George ,1,0
+Matias Mucciolo ,3,647408
+wang di ,58,229269
+Quentin Lambert ,9,5724299
+Bryan O'Donoghue ,136,324849
+Chase Metzger ,5,8975438
+Vaibhav Agarwal ,74,365047
+Thor Thayer ,64,703599
+Sascha Hauer ,73,612254
+Scott Telford ,3,751066
+Anirudha Sarangi ,2,435886
+Alexey Starikovskiy ,1,0
+"Rusk, Mark ",1,0
+Luis R. Rodriguez ,109,404070
+Vitaly Kuznetsov ,149,287010
+Michael Moese ,2,0
+Kyle Jones ,1,0
+Yonglong Wu ,1,0
+Tomi Valkeinen ,199,213340
+Mickaël Salaün ,19,1340865
+Wei Ni ,28,1267650
+dawei.chien@mediatek.com ,3,6854612
+Laxman Dewangan ,221,203629
+Marc Gonzalez ,22,1454855
+Bui Duc Phuc ,3,642428
+Zhang Rui ,6,7834132
+Rocky Hao ,2,0
+Jia Hongtao ,4,4454431
+Caesar Wang ,107,366223
+Eduardo Valentin ,32,1405074
+Rajendra Nayak ,32,1402851
+Thomas Huth ,18,2275579
+Vinod Koul ,220,204599
+Ville Ranki ,1,0
+Siebren Vroegindeweij ,1,0
+Hugh Kang ,1,0
+Vincent Stehlé ,11,3244888
+Gayatri Kammela ,6,4303094
+Yong Zhi ,9,3403512
+Gonçalo Salazar ,1,0
+Emmanuel Grumbach ,127,357538
+Alex Williamson ,55,799799
+Ziyuan Xu ,2,5482645
+Baolin Wang ,19,1949019
+Ai Kyuse ,3,9236883
+Thierry Reding ,392,112995
+Jin Guojun ,1,0
+Guodong Xu ,16,2093707
+Daniel Glöckner ,2,1802537
+Jungseung Lee ,3,11505737
+Michael Weiser ,2,2974334
+Jean-Francois Moine ,12,3401804
+Douglas Anderson ,72,518427
+Christopher Freeman ,1,0
+Uri Yanai ,1,0
+Ben Dooks ,112,392319
+Bamvor Jian Zhang ,25,1425114
+Vasily Averin ,7,6606171
+Sam Van Den Berge ,1,0
+Cathy Luo ,4,14577645
+Anand Jain ,70,611434
+Jeff Mahoney ,50,749561
+Hante Meuleman ,93,475362
+Arend Van Spriel ,9,755059
+彭东林 ,1,0
+Adam Thomson ,51,644438
+Vishal Thanki ,3,7469833
+Danny Milosavljevic ,3,83335
+Qu Wenruo ,59,717357
+Luis Henriques ,14,3334436
+Naohiro Aota ,3,17889683
+Lu Fengqi ,1,0
+Eric Jeong ,1,0
+Ganapathi Bhat ,10,3342384
+Jason Baron ,17,2730616
+Simon Wood ,24,1773710
+Frank Praznik ,13,3659056
+Michel Hermier ,1,0
+Purushottam Kushwaha ,3,3537443
+Robert Jarzmik ,143,305607
+Dave Chinner ,107,391312
+KOVACS Krisztian ,1,0
+Christopher Pezley ,1,0
+Antti Keränen ,1,0
+Claudiu Manoil ,28,1614136
+Christophe Leroy ,62,502627
+Kevin Hao ,17,2593130
+Mitch Williams ,106,375907
+Zhao Qiang ,27,1143621
+Vaishali Thakkar ,76,555234
+Akeem Abodunrin ,1,0
+Bimmy Pujari ,6,2312162
+Henry Tieman ,1,0
+Preethi Banala ,4,4141317
+Alan Brady ,4,1074920
+Harshitha Ramamurthy ,4,4924978
+Kamal Dasu ,10,4533603
+John Keeping ,38,723727
+Sandeep Tayal ,1,0
+Oder Chiou ,34,1322386
+Joonwoo Park ,5,10981739
+Dharageswari R ,13,2095342
+Wonjoon Lee ,1,0
+Jan Remmet ,1,0
+Sean Wang ,31,122046
+Moshe Shemesh ,6,214092
+Peter Griffin ,82,547131
+Shubhrajyoti Datta ,27,1663964
+Sean Paul ,20,2085660
+Vignesh Raman ,1,0
+Dean Jenkins ,15,2644841
+Giedrius Statkevičius ,13,3633583
+zino lin ,1,0
+Alexander Solganik ,1,0
+Chaitanya Kulkarni ,1,0
+James Smart ,77,541144
+Kelvin Cheung ,11,1444167
+Enric Balletbo i Serra ,25,1742961
+Christian Gromm ,147,252597
+Glauber Costa ,1,0
+Jagan Teki ,7,7076209
+Nils Wallménius ,20,904701
+yizhouzhou@ict.ac.cn ,1,0
+Daniel Wagner ,28,1465685
+Andrea Gelmini ,54,201720
+Nilesh Bacchewar ,1,0
+Jannik Becher ,2,2503827
+Johan Svensson ,1,0
+Daniel Schultz ,1,0
+Juliana Rodrigues ,8,2208181
+Eva Rachel Retuya ,56,536998
+Douglas Caetano dos Santos ,1,0
+AKASHI Takahiro ,8,4006747
+David Daney ,59,618247
+Michal Marek ,24,1672112
+Harvey Hunt ,12,2031004
+Kyle Roeschley ,2,17770177
+Han Xu ,9,4941818
+Mark Rustad ,83,535197
+Anssi Hannula ,3,12263970
+Lihong Yang ,1,0
+Sridhar Samudrala ,8,2184409
+Carolyn Wyborny ,21,1884260
+Andrey Vagin ,8,4362913
+Rui Teng ,4,4205907
+Russell Currey ,16,1558486
+Jyri Sarha ,89,501751
+Oren Givon ,26,1514229
+Vadim Pasternak ,3,589768
+Matthias Schwarzott ,21,1331020
+Abylay Ospan ,23,1319246
+Harman Kalra ,3,78645
+Arek Lichwa ,1,0
+Rabin Vincent ,68,641960
+Joe Thornber ,48,885824
+Frank Min ,1,0
+Ole Ernst ,1,0
+Jesper Nilsson ,5,8286756
+Guoqing Jiang ,61,558487
+Antti Palosaari ,126,343607
+Sakari Ailus ,77,584088
+Pan Xinhui ,16,2497819
+Srivatsa Vaddagiri ,1,0
+Cheng Chao ,2,1
+Gustavo Padovan ,168,255151
+Brian Starkey ,8,2265157
+Tom Gundersen ,2,6
+Catalin Vasile ,4,10076211
+Con Kolivas ,1,0
+Rehas Sachdeva ,42,430438
+Katie Dunne ,2,340995
+David Lin ,41,427280
+Richard Groux ,3,195077
+Andrey Shvetsov ,17,54478
+Jan Kiszka ,17,2731888
+Adam Borowski ,7,2117614
+Andrew Banman ,11,2309582
+Kai-Heng Feng ,5,4536855
+Sergei Miroshnichenko ,1,0
+Karol Herbst ,36,800076
+Yuchung Cheng ,36,1089777
+Ilia Mirkin ,23,1661007
+Rana Shahout ,9,5186459
+Rahul Lakkireddy ,8,372435
+Raghavendra Ganiga ,1,0
+Dmitry Bazhenov ,2,370
+Don Brace ,50,844302
+Kiwoong Kim ,2,1069652
+Gabriele Mazzotta ,8,6171747
+Dou Liyang ,3,585228
+Gu Zheng ,5,9823034
+Tang Chen ,4,11024879
+Christian Lamparter ,16,1160939
+Martin Brandenburg ,68,456548
+Yadi.hu ,1,0
+Hans Verkuil ,453,97896
+Simon A. F. Lund ,3,5952790
+Tomasz Figa ,13,3635418
+Valdis Kletnieks ,13,2742649
+Vaibhav Hiremath ,79,479206
+David Kershner ,104,420978
+Jamie Lentin ,13,2922388
+James Simmons ,153,267449
+Nogah Frankel ,16,547212
+hayeswang ,33,1151442
+Neal Cardwell ,13,2710322
+Mahesh Bandewar ,20,2292522
+Alan Cox ,10,2691381
+Richard Sailer ,7,4969959
+Matt Ranostay ,75,543741
+Zhou Wenjian ,2,5
+Kalle Kankare ,2,6101482
+Tyler Baicar ,2,60
+Ladislav Michl ,2,29725255
+Aleksander Alekseev ,1,0
+Vincent Abriou ,36,1160186
+Heinrich Schuchardt ,34,586705
+Ray Strode ,1,0
+Rafael Antognolli ,4,6363627
+Cathal Mullaney ,3,111903
+Hariharan R ,2,700542
+Xavier Roumegue ,1,0
+Anchal Jain ,21,918041
+Nayeemahmed Badebade ,5,8065785
+Fabien Dessenne ,18,2381216
+Benjamin Gaignard ,16,2383949
+Jesper Dangaard Brouer ,52,845826
+Jacek Anaszewski ,46,968821
+Rob Swindell ,8,3296540
+Vincent Bernat ,3,17031403
+Eddie Wai ,1,0
+Deepak Khungar ,1,0
+Steffen Klassert ,11,4380494
+Ashish Samant ,6,3272116
+Santosh Shilimkar ,16,2252643
+Ebru Akagunduz ,9,3442961
+Pratyush Anand ,16,2603125
+Neil Armstrong ,110,287658
+Vinson Lee ,3,7186120
+Ulrich Hecht ,50,875188
+Nick Dyer ,22,1694292
+Georges Savoundararadj ,1,0
+Szymon Janc ,11,3174720
+Loic Poulain ,35,1196864
+Marcel Holtmann ,101,405584
+Frédéric Dalleau ,1,0
+Alexander Aring ,223,190452
+Kieran Bingham ,34,964220
+Edward O'Callaghan ,18,1295938
+Charles-Antoine Couret ,7,889504
+Andrey Utkin ,6,2281682
+Songjun Wu ,18,1692519
+Andy Adamson ,13,1631973
+Amitoj Kaur Chawla ,266,163151
+Johan Fjeldtvedt ,6,222194
+kevin Barnett ,1,0
+Mahesh Rajashekhara ,10,3020773
+Tiffany Lin ,20,1523234
+Bryant G. Ly ,5,1324444
+Marian Krivoš ,1,0
+Nikolai Kondrashov ,8,0
+Ilan Tayari ,1,0
+Lothar Waßmann ,45,412941
+RogerCC Lin ,2,31
+Roee Zamir ,1,0
+Doug Oucharek ,9,2259919
+Sebastien Buisson ,12,2420539
+Quentin Bouget ,1,0
+Ned Bass ,3,6919836
+Mikhail Pershin ,4,4122301
+frank zago ,10,2958427
+Johann Lombardi ,1,0
+Artem Blagodarenko ,1,0
+Bobi Jam ,12,1352102
+Fan Yong ,15,2282043
+John L. Hammond ,83,493659
+Liang Zhen ,32,1030600
+Dmitry Eremin ,55,763587
+Andreas Dilger ,29,1566727
+Alexander Boyko ,7,2061082
+Jinshan Xiong ,38,401960
+Nathaniel Clark ,10,894541
+Amir Shehata ,33,570758
+Bob Glossman ,3,3906753
+Alexey Lyashkov ,1,0
+Yoshifumi Uemura ,1,0
+Niu Yawei ,12,2904354
+Henri Doreau ,5,4933374
+Lai Siyao ,9,1545739
+Jian Yu ,5,4327503
+Yang Sheng ,3,3906358
+Vitaly Fertman ,8,2124534
+Li Xi ,9,3993402
+Stephen Champion ,2,0
+Patrick Farrell ,3,3906358
+Prakash Surya ,5,3091329
+Wang Shilong ,2,6501834
+Kristian H. Kristensen ,2,319569
+Alexander Zarochentsev ,1,0
+Sharon Dvir ,4,8093068
+Arik Nemtsov ,25,1831940
+Avrahams Stern ,1,0
+Steve Longerbeam ,16,644945
+Aviya Erenfeld ,9,4449187
+Liad Kaufman ,41,1099068
+Thadeu Lima de Souza Cascardo ,7,5807966
+Carlos Maiolino ,13,3209893
+Peter Meerwald-Stadler ,21,787767
+Gregor Boirie ,31,595923
+Amitesh Singh ,2,513693
+Ico Doornekamp ,1,0
+Jon Eyolfson ,1,0
+Andrew Kanner ,1,0
+Bob Copeland ,40,1143539
+phil.turnbull@oracle.com ,2,4549185
+Filipe Manco ,1,0
+Gabriel Fernandez ,26,1514246
+Alexandre Courbot ,110,374547
+Jordan Lazare ,3,10415109
+Matthias Kaehlcke ,4,58120
+Mark Salter ,7,6008429
+Laurent Navet ,9,5300513
+Markus Heiser ,29,240289
+Robert Foss ,10,1488392
+Vinay Simha BN ,8,5302299
+Michael Olbrich ,2,5739468
+Luiz Capitulino ,11,4304696
+"Winkler, Tomas ",4,75
+Chanwoo Choi ,131,332498
+Mika Kahola ,31,1431376
+Phil Turnbull ,9,2386361
+Cheng-Yi Chiang ,1,0
+Aihua Zhang ,2,16118768
+Jean-Philippe Brucker ,16,1972409
+Peng Fan ,19,2189611
+Gargi Sharma ,17,15186
+Thomas Richter ,10,5143131
+Ursula Braun ,13,2594830
+Hans Wippel ,4,2624660
+Mark Tomlinson ,3,9136480
+Ivan Mikhaylov ,3,15254968
+Jun Nie ,40,1109217
+Paul E. McKenney ,285,147087
+Tobias Regnery ,6,342807
+Jerome Brunet ,10,11295
+Nishanth Menon ,60,708932
+Yang Li ,1,0
+hotran ,6,965048
+Duc Dang ,49,842196
+Asbjoern Sloth Toennesen ,1,0
+Stefan Roese ,14,2470117
+Beni Lev ,3,8826319
+wangguang ,1,0
+Karl Beldan ,13,267540
+Tomas Winkler ,98,427355
+Deepak M ,12,2244632
+Fabien Lahoudere ,3,1593059
+Liu Xiang ,2,21205951
+Dave Gordon ,77,502824
+David A. Long ,6,997565
+Fan Li ,18,2069089
+Leo Yan ,30,1460000
+Kevin Hilman ,31,1327603
+Grigory Kletsko ,1,0
+Mayurkumar Patel ,3,7
+Junwei Zhang ,13,2780559
+Scott Teel ,7,4464466
+Finn Thain ,108,369402
+Minfei Huang ,25,1747319
+Martin Kaiser ,4,1007414
+Nicolin Chen ,19,2295388
+Samaga Krishna ,1,0
+John Garry ,105,243889
+Matthew R. Ochs ,50,725639
+Jeeja KP ,132,341259
+John Hsu ,17,1006633
+Hsin-Yu Chao ,2,443929
+Rodrigo Vivi ,85,541027
+Simon Horman ,216,201426
+Andreas Kemnade ,9,2383852
+Li Jun ,44,828835
+Deepak ,1,0
+Rik van Riel ,27,1646173
+Alexander Sverdlin ,17,2640006
+Bharat Kumar Gogada ,14,1254979
+Lars Persson ,28,1319355
+Simon Chopin ,1,0
+Ryan Swan ,1,0
+Mike Kofron ,1,0
+Shaily Sangwan ,1,0
+Omri Arad ,1,0
+PrasannaKumar Muralidharan ,14,1122631
+Giovanni Cabiddu ,3,4236764
+Thomas Pedersen ,1,0
+"Agrawal, Nitesh-kumar ",3,1459161
+Darren Stevens ,5,1620669
+Daniel Axtens ,56,772252
+"Navare, Manasi D ",2,285170
+Chris Zhong ,31,1253083
+Al Stone ,10,4161151
+Anisse Astier ,4,13108717
+Chen Yu ,16,2356522
+Maruthi Srinivas Bayyavarapu ,18,2136432
+Po Liu ,4,338
+Tomasz Nowicki ,21,1195543
+Jorge Ramirez-Ortiz ,7,2761230
+Sugar Zhang ,14,2167246
+Matthias Seidel ,2,547518
+Daniel Thompson ,23,1916382
+Maarten Lankhorst ,312,144828
+Stephen Warren ,11,1795079
+Alexander Shiyan ,42,202712
+Erik Arfvidson ,66,655202
+Bryan Thompson ,7,398820
+Claudiu Beznea ,18,936247
+Pavel Andrianov ,3,3231794
+Luca Ceresoli ,45,968370
+Amit Ghadge ,2,9992460
+Raphaël Beamonte ,26,1362784
+Maxim Altshul ,7,800407
+Denis Kenzior ,5,1424757
+Anurag Kumar Vulisha ,6,7948357
+Daniel Lezcano ,146,237644
+Gautham R. Shenoy ,6,6823288
+Suresh Warrier ,19,939758
+Mylène Josserand ,20,776596
+Joshua Scott ,4,13459744
+Rui Wang ,9,2063795
+Maninder Singh ,21,2046638
+Venkat Reddy Talla ,5,1570929
+Frank Wang ,5,519761
+Sekhar Nori ,27,1403114
+Harry Pan ,1,0
+Tommaso Cucinotta ,5,667571
+Bob Moore ,121,343420
+Jim Bride ,5,3183534
+Shaun Tancheff ,7,1355135
+Petr Cvek ,25,1190852
+Ian Campbell ,8,4960956
+Ivan Hu ,1,0
+Ricardo Neri ,2,35157701
+Sylvain Chouleur ,3,15990886
+Jouni Ukkonen ,1,0
+Suzuki K Poulose ,80,216399
+Zhen Lei ,19,2058715
+Jean-Christophe Trotin ,5,59112
+Waiman Long ,37,1176280
+Eric Bentley ,1,0
+Dan Kephart ,2,4472199
+Ashok Raj Nagarajan ,9,5787376
+Harish Jenny K N ,2,18
+Vivek yadav ,1,0
+Uma Krishnan ,10,2365491
+Chunyan Zhang ,15,2604747
+Clemens Gruber ,7,5598447
+Xinming Hu ,57,754153
+thomas.zeitlhofer+lkml@ze-it.at ,1,0
+Quentin Schulz ,5,2384388
+Matt Weber ,1,0
+Thilo Cestonaro ,3,2187131
+Daniel Golle ,5,898446
+Yaogong Wang ,1,0
+Artem Germanov ,1,0
+Thomas F Herbert ,1,0
+Gal Pressman ,30,1355627
+Bodong Wang ,5,7470978
+Lorenzo Colitti ,12,2160588
+Zubair Lutfullah Kakakhel ,14,2164495
+Andrew Bresticker ,14,3265827
+Furquan Shaikh ,2,29813762
+Mark Salyzyn ,3,14656510
+Doug Anderson ,21,2162408
+Shardar Shariff Md ,10,4676551
+Casey Schaufler ,15,2997097
+Zhuo-hao Lee ,1,0
+Wenbo Wang ,1,0
+Meng Yi ,6,4511095
+Andrej Rosano ,2,9
+Alex Ng ,9,4322883
+David Hildenbrand ,191,222325
+Fan Zhang ,3,17321461
+Suravee Suthikulpanit ,51,750961
+Jim Baxter ,1,0
+Shanker Donthineni ,10,2081854
+oliver@schinagl.nl ,1,0
+Allen Hung ,4,8258697
+Takeshi Kihara ,17,2056985
+Vladimir Barinov ,18,2015394
+Wei Yang ,35,1230266
+subashab@codeaurora.org ,4,11777258
+Daniel Baluta ,51,894379
+Somnath Kotur ,12,3828206
+Suraj Jitindar Singh ,14,1259957
+Tomer Tayar ,6,4755995
+Shuoran Liu ,5,4277104
+Carlos Santa ,22,0
+Joachim Eastwood ,161,265261
+Manasi Navare ,2,0
+Durgadoss R ,2,45555362
+Ander Conselvan de Oliveira ,111,414139
+Roger Chen ,4,136921
+Jan Dakinevich ,2,2
+Liang Li ,1,0
+Corentin LABBE ,19,744108
+Maksim Lukoshkov ,2,598055
+Marco Angaroni ,9,1991251
+David Weinehall ,14,3104760
+Dexuan Cui ,30,1445095
+Thinh Nguyen ,1,0
+K. Y. Srinivasan ,50,831277
+Helmut Buchsbaum ,9,5284475
+Woojung Huh ,7,2473203
+Ezequiel Garcia ,57,746892
+Loic PALLARDY ,2,19
+Haixia Shi ,2,18152517
+Akash Goel ,15,2600199
+Torgue Alexandre ,1,0
+Jonathan Austin ,6,0
+Zhi Wang ,12,634607
+Ping Gao ,2,559
+Jan Leupold ,3,19137000
+Dirk Behme ,15,2624893
+Alexander Kuleshov ,56,745724
+Martin Schwidefsky ,115,332758
+Seung-Woo Kim ,8,5921083
+Weiqing Kong ,2,1
+Tal Shorer ,14,3127179
+James Pettigrew ,2,23
+Thiago Jung Bauermann ,4,3807733
+Lin Huang ,10,3740820
+Dmitry Monakhov ,8,5541604
+Kaho Ng ,3,5178008
+Daeho Jeong ,9,4433924
+Crt Mori ,6,7160231
+HungNien Chen ,5,9478438
+David Hsu ,1,0
+Khiem Nguyen ,2,6584119
+Jeffrey Hugo ,4,439
+seokhoon.yoon ,5,2320668
+Byungchul Park ,14,2832570
+Stephane Eranian ,34,1264722
+Paul Kocialkowski ,19,2333057
+Andy Yan ,11,1939207
+Vanessa Maegima ,4,772255
+Michael Trimarchi ,7,4102140
+Yakir Yang ,58,398678
+Shunqian Zheng ,5,1497719
+Joe Stringer ,42,880260
+Pierre-Louis Bossart ,40,851878
+Stanislaw Gruszka ,8,5508642
+Guy Mishol ,8,5061557
+Ismael Luceno ,2,5810180
+Christian Engelmayer ,12,3770330
+William Breathitt Gray ,64,428251
+"Kweh, Hock Leong ",2,11082953
+Alison Schofield ,95,304452
+Christoph Fritz ,6,3235790
+Sien Wu ,1,0
+Sergey Ryazanov ,3,4878003
+Karthik D A ,3,2012847
+Rajan Vaja ,3,20345072
+Raghu Vatsavayi ,53,747308
+Bhushan Shah ,6,166142
+Emanuel Czirai ,1,0
+Lianwei Wang ,2,5774302
+Jubin John ,51,630647
+Sebastian Frias ,7,3002222
+Kevin Barnett ,22,1533718
+"Rosen, Rami ",4,11678479
+Brendan Gregg ,2,2088002
+Raju Rangoju ,1,0
+Jon Masters ,2,6283898
+Maharaja Kennadyrajan ,4,9566658
+Finley Xiao ,5,3017821
+Tamizh chelvam ,8,4014934
+Louie Lu ,3,511749
+Anson Jacob ,31,34329
+Sandeep Patil ,12,1329880
+Philip Yang ,2,3592101
+David Rientjes ,17,2594586
+Mel Gorman ,121,313201
+Alexander Müller ,7,1634650
+Roopa Prabhu ,29,1352385
+Carlo Caione ,35,1210911
+Dave Ertman ,3,692917
+Jaswinder Jassal ,1,0
+Richard Leitner ,3,5933888
+Harsha Priya ,3,17512640
+Teresa Remmet ,8,5040269
+Parthasarathy Bhuvaragan ,22,888165
+Wu Fengguang ,14,3253611
+Stuart Yoder ,39,924240
+MingChia Chung ,1,0
+Matthias Beyer ,2,4147126
+Binoy Jayan ,30,249049
+Didik Setiawan ,2,1471876
+Johanna Abrahamsson ,6,193152
+Ben LeMasurier ,3,605216
+Lokesh Nagappa Jaliminche ,1,0
+Andrew Perepechko ,6,6083986
+Milian Wolff ,7,5654918
+York Sun ,14,3049927
+Steve Muckle ,8,1609820
+Ruchi Kandoi ,2,40684598
+Kyle Walker ,1,0
+Pratyush Patel ,3,3564532
+Andrew F. Davis ,100,352762
+Mateusz Guzik ,9,2573472
+Chunming Zhou ,164,241051
+Ken Wang ,29,1403265
+Maruthi Bayyavarapu ,3,11481658
+Akinobu Mita ,65,646825
+Davide Caratti ,4,1063886
+Jan Östlund ,2,0
+Omer Khaliq ,1,0
+Ananth Jasty ,1,0
+J.D. Schroeder ,3,17963374
+Jimi Damon ,1,0
+Nandor Han ,4,0
+Sebastian Reichel ,59,648854
+Florian Vallee ,2,10987398
+Eddie Huang ,15,2955348
+Bhuvanchandra DV ,11,2687616
+Ludovic Desroches ,71,580148
+Vyacheslav V. Yurkov ,1,0
+Alex Shi ,1,0
+Konstantin Khlebnikov ,61,673728
+Martin Fuzzey ,12,3708576
+Muhammad Falak R Wani ,64,455511
+Xiubo Li ,25,1386093
+Jerome Marchand ,11,2586834
+Wadim Egorov ,11,1893788
+Eli Billauer ,3,16922422
+Zhouyi Zhou ,2,7140283
+Frank Haverkamp ,1,0
+Alexander Kapshuk ,25,1145860
+Ben Werbowyj ,3,0
+Benedikt Spranger ,1,0
+Kim Phillips ,2,38112377
+Xavier Gnata ,1,0
+Andreas Noever ,2,10433740
+Alessio Igor Bogani ,11,1489716
+Aaron Sierra ,9,4245140
+Andreas Werner ,9,3437630
+Jan Viktorin ,1,0
+Olivier Schonken ,3,2500378
+Vic Yang ,2,10
+Lior David ,22,974144
+Michal Kazior ,148,319146
+Robert Baldyga ,109,318937
+Romain Izard ,13,1587112
+Andy Green ,9,2966420
+"Prakash, Prashanth ",10,1670580
+Ashwin Chaugule ,16,2142147
+Carlos Garnacho ,1,0
+Sebastiaan Schalbroeck ,2,711347
+Guenther Wutz ,1,0
+Rask Ingemann Lambertsen ,2,0
+William Roberts ,5,477559
+Vignesh R ,39,1157733
+Nariman Poushin ,6,7099102
+Anson Huang ,23,1783728
+Jose Abreu ,8,1809844
+Shrirang Bagul ,2,2502234
+Quorum Laval ,1,0
+"Peer, Ilan ",1,0
+Vlad Dogaru ,17,2744535
+Wei Jiangang ,7,4128163
+Gwenhael Goavec-Merou ,1,0
+Clifton Barnes ,10,1467125
+Ken Lin ,4,5561908
+Rob Rice ,4,932500
+Vidya Sagar Ravipati ,2,8240440
+Owen Lin ,1,0
+Andrea Merello ,7,3509448
+Eran Ben Elisha ,40,975048
+Mukesh Ojha ,1,0
+Zhu Yanjun ,4,7330637
+Jon Cooper ,7,6845070
+Edward Cree ,32,1324852
+Andrew Rybchenko ,13,518171
+Richard Alpe ,26,1642748
+Subash Abhinov Kasiviswanathan ,2,33578804
+Stefan Müller-Klieser ,1,0
+Andy Gross ,47,660618
+Shiraz Saleem ,10,1149375
+Mustafa Ismail ,15,147277
+Xing Zheng ,63,510063
+Kris Huang ,3,894641
+Simon Baatz ,1,0
+Tyrel Datwyler ,12,1445631
+Anjali Singhai Jain ,58,690528
+Xander Huff ,3,16225270
+Lucas De Marchi ,3,1
+José Roberto de Souza ,1,0
+Weifeng Voon ,6,1161952
+Luiz Augusto von Dentz ,2,0
+Johnny Chuang ,1,0
+Tatyana Nikolova ,8,5034819
+Alex Lyakas ,4,4495011
+Felipe F. Tonello ,26,1160783
+Jaret Cantu ,1,0
+Philipp Gesang ,1,0
+William Wu ,7,1238886
+Jussi Kivilinna ,3,0
+Purna Chandra Mandal ,20,646866
+Mike Christie ,56,360988
+Douglas Fuller ,5,0
+Stanimir Varbanov ,14,2098322
+Stephen Backway ,2,3724839
+Vince Hsu ,6,4879806
+Song Liu ,9,3298991
+"Pandiyan, Dhinakaran ",3,21
+Selvin Xavier ,8,3798543
+Xinliang Liu ,20,533311
+Frederic Dalleau ,1,0
+Dmitry Osipenko ,4,13770336
+Maxime Coquelin ,46,896130
+mhiramat@kernel.org ,2,1
+Florian Echtler ,7,6507839
+Ricardo Ribalda ,37,1113000
+Aleksandr Makarov ,2,340886
+Brian Gerst ,41,1073614
+Dong Jia Shi ,2,18204219
+Pankaj Dubey ,25,1646775
+twp@codeaurora.org ,2,4944370
+Rami Rosen ,8,5262384
+Phil Sutter ,53,708805
+Dong Bo ,1,0
+Alexandre Demers ,6,3937781
+Bharat Potnuri ,1,0
+Mark Yao ,35,923449
+Noralf Trønnes ,20,1843554
+Shreyas NC ,7,1782867
+Mathieu OTHACEHE ,17,1285139
+Ivan Khoronzhuk ,26,1468815
+Dave Watson ,1,0
+Mike Manning ,5,2605398
+Mikko Rapeli ,35,1113695
+Andrew Duggan ,23,1753611
+Mitko Haralanov ,66,399361
+Hugo Grostabussiat ,1,0
+Stefan Mavrodiev ,1,0
+oulijun ,5,59476
+Mengdong Lin ,41,1039631
+Henry Chen ,14,2745276
+CK Hu ,6,1869734
+Ding Tianhong ,3,14515275
+James Hartley ,5,2179512
+Matt Roper ,75,584052
+perr perr ,1,0
+Honghui Zhang ,6,1072270
+Daniel Mack ,8,5430073
+Beniamino Galvani ,3,1659727
+Kwangwoo Lee ,1,0
+Nicolas Saenz Julienne ,3,8330998
+Dinh Nguyen ,50,826200
+Boqun Feng ,26,1423064
+Zhiyong Tao ,2,79
+Jonas Rickert ,1,0
+Shiva Kerdel ,1,0
+Nipun Gupta ,1,0
+Parth Sane ,9,1577671
+Anuradha Weeraman ,1,0
+Rithvik Patibandla ,9,0
+Edward Lipinsky ,3,20362930
+Stefan Wolz ,4,0
+yeongjun Kim ,1,0
+Samuele Baisi ,1,0
+Prit Raj ,1,0
+Ming Yang ,1,0
+Michal Suchanek ,31,1267776
+Chen Feng ,18,1397856
+Kevin McKinney ,3,0
+YU Bo ,1,0
+Joshua Houghton ,3,2741193
+Anthony Sheldon ,1,0
+Ravishankar Karkala Mallikarjunayya ,17,348108
+Cheah Kok Cheong ,2,24130776
+H Hartley Sweeten ,837,49503
+Emoly Liu ,7,1647163
+Hongchao Zhang ,3,8624922
+Andriy Skulysh ,4,3359688
+Brian Behlendorf ,1,0
+Christopher J. Morrone ,1,0
+Gregoire Pichon ,2,26049915
+Chris Horn ,4,5260164
+Ryan Haasken ,1,0
+Giorgio Dal Molin ,1,0
+Jelle van der Waa ,6,5686210
+Aleksei Mamlin ,15,2975535
+Daniel Romell ,1,0
+Don Skidmore ,41,946314
+Veola Nazareth ,2,20301590
+Shrikrishna Khare ,15,2223763
+William Tu ,4,2021693
+Haiyang Zhang ,16,2351681
+Avinash Dayanand ,8,1679345
+Jeff Kirsher ,5,10234943
+Catherine Sullivan ,42,947747
+Shunli Wang ,2,1719
+James Liao ,26,1629715
+Liav Rehana ,1,0
+Bob Liu ,28,1410039
+Luwei Kang ,1,0
+Bandan Das ,9,4611864
+Brendan Jackman ,1,0
+Punnaiah Choudary Kalluri ,4,11736976
+Michal Simek ,40,1044454
+Alexander Graf ,5,2023143
+Maya Erez ,27,846740
+Lazar Alexei ,1,0
+Eduardo Abinader ,6,1435578
+Lucile Quirion ,4,109923
+Daniel Verkamp ,1,0
+Xunlei Pang ,29,1402617
+Gangfeng Huang ,4,0
+Jiri Kosina ,44,963186
+Appana Durga Kedareswara Rao ,4,177658
+shubhrajyoti.datta@xilinx.com ,1,0
+Eric Wheeler ,6,2824722
+Kent Overstreet ,12,3370744
+Elaine Zhang ,15,1079351
+Jessica Yu ,13,1317739
+Eugeniu Rosca ,2,1494938
+baolex.ni ,1,0
+Maik Broemme ,1,0
+Ricardo Ribalda Delgado ,27,1477646
+Clint Taylor ,2,7511175
+Artemy Kovalyov ,3,2420119
+Ann Chen ,2,2298589
+Peter Feiner ,3,12388539
+Andi Shyti ,32,561710
+Morten Rasmussen ,11,2938164
+Madhavan Srinivasan ,14,2949590
+Tillmann Heidsieck ,6,5603018
+Jay Freyensee ,6,5097123
+Emily Deng ,16,52314
+Artur Paszkiewicz ,2,21042172
+Ilya Lesokhin ,2,2917065
+Joshua Clayton ,32,1047061
+Yuta Kobayashi ,1,0
+Pawel Moll ,15,2923679
+Kamlakant Patel ,15,2890836
+Jarod Wilson ,21,1961764
+Kshitiz Gupta ,1,0
+Felix Kuehling ,8,2946239
+Christoph Huber ,1,0
+Tim Harvey ,17,2376990
+Xiaodong Liu ,3,5304473
+Jim Lin ,3,3325492
+Alban Browaeys ,1,0
+sean.wang@mediatek.com ,5,50461
+Jonathan Yong ,1,0
+Laurence Rochfort ,1,0
+Ben Evans ,3,14477310
+He Kuang ,49,853407
+Anders Darander ,1,0
+Bing Sun ,1,0
+Gavin Li ,1,0
+Irina Tirdea ,47,895578
+Breno Lima ,2,44
+Vincent ,1,0
+Gerard Garcia ,1,0
+Øyvind A. Holm ,1,0
+Zyta Szpak ,1,0
+Jerin Jacob ,1,0
+Radoslaw Biernacki ,1,0
+Aaron Yue ,1,0
+Sargun Dhillon ,5,392128
+"Anna, Suman ",13,7
+Grzegorz Jaszczyk ,17,24042
+Jung-uk Kim ,2,0
+Netanel Belgazal ,1,0
+Sven Van Asbroeck ,1,0
+Steffen Maier ,10,0
+Greg Edwards ,1,0
+Riku Voipio ,13,3407361
+Jacopo Mondi ,17,1168661
+Sumit Semwal ,3,19753088
+Marcel Ziswiler ,36,1147978
+Marcus Cooper ,28,1514222
+Julius Niedworok ,2,51
+Michael Turquette ,21,1819517
+Jason Gerecke ,51,823429
+Roman Pen ,5,6977571
+Joe Lawrence ,6,3259166
+Max Staudt ,1,0
+Janusz Dziedzic ,23,1964619
+Xerox Lin ,1,0
+Mathieu Laurendeau ,1,0
+Binyamin Sharet ,1,0
+Winter Wang ,1,0
+Austin Christ ,1,0
+Alexey Kodanev ,2,38157361
+Peter Senna Tschudin ,22,1803240
+Martynas Pumputis ,1,0
+Adam Barth ,2,17557393
+Yinghai Lu ,16,2529628
+Harini Katakam ,8,5666883
+Steve Capper ,6,5430703
+Dave Weinstein ,1,0
+Jay Cornwall ,4,8642373
+Mike Travis ,23,1299993
+Georgi Dobrev ,2,11289734
+pan xinhui ,2,14526279
+Juri Lelli ,5,6958981
+Giovanni Gherdovich ,1,0
+Toshiaki Makita ,12,3418319
+Zefan Li ,1,0
+Tom Yan ,15,427293
+Mathias Koehrer ,1,0
+Nobuo Iwata ,4,3248156
+Jaewon Kim ,4,10525708
+Marc Ohlf ,1,0
+Xiao Han ,1,0
+Cristian Birsan ,6,3429266
+Will Thomas ,4,1
+Govindraj Raja ,3,6991289
+Yanjiang Jin ,2,7951636
+Cornelia Huck ,7,5799473
+Mahesh Salgaonkar ,12,2899837
+Guneshwor Singh ,5,4034965
+Philippe Bergheaud ,8,4257218
+Alastair D'Silva ,3,814141
+"Cooper Jr., Franklin ",8,1177199
+Vittorio Gambaletta (VittGam) ,4,4261697
+Piotr Karasinski ,1,0
+Bartlomiej Zolnierkiewicz ,59,641357
+Tuomas Tynkkynen ,16,2246051
+Simon Wunderlich ,31,1261162
+Matthias Schiffer ,11,2422226
+Markus Pargmann ,79,510295
+Antonio Quartulli ,38,1022563
+Alexey Kardashevskiy ,73,509979
+Dave Carroll ,2,2326651
+Michal Soltys ,7,555630
+Sathya Perla ,10,4388075
+Julian Anastasov ,20,1883725
+Andreas Ziegler ,10,1882740
+Daniel Kurtz ,13,3127869
+Yendapally Reddy Dhananjaya Reddy ,25,884155
+Pali Rohár ,50,796044
+Leo Liu ,15,2663611
+Eric Huang ,75,269408
+Andreas Färber ,22,747356
+Alexander Kurz ,7,1687793
+Alexey Klimov ,18,2022670
+Senthilnathan Veppur ,8,1841589
+Ramesh Babu ,6,8275873
+Kranthi G ,1,0
+Sheng-Hui J. Chu ,1,0
+Robert Deliën ,1,0
+Lubomir Rintel ,11,3680395
+Keith Packard ,3,16802394
+Heiko Stübner ,23,1698868
+Michele Di Giorgio ,3,6312779
+Akshay Adiga ,5,2173432
+Terry Heo ,2,22703916
+Alexey Obitotskiy ,2,1507539
+David Forster ,1,0
+Ian Wienand ,1,0
+Hiraku Toyooka ,4,11375647
+Jackson Chang ,1,0
+Allen Hubbe ,30,1191775
+Logan Gunthorpe ,14,72
+Masashi Honma ,5,779529
+AceLan Kao ,3,2728051
+Yoshinori Sato ,54,747613
+John Pittman ,1,0
+Paolo Valente ,2,21349628
+Hou Tao ,2,1366565
+Moni Shoua ,27,1397258
+Kamil Debski ,8,3981616
+Huang Shijie ,11,2798541
+Roland Dreier ,14,2847789
+Siva Reddy Kallam ,3,7619912
+Satish Baddipadige ,5,4742082
+Jarno Rajahalme ,14,942661
+Mika Penttilä ,4,5462245
+Maital Hahn ,2,1336309
+KT Liao ,2,5390370
+Robert Dolca ,12,2219052
+Petr Tesarik ,2,0
+Vitaly Andrianov ,8,4943994
+Ryusuke Konishi ,38,630267
+Vikram Mulukutla ,1,0
+Chen Gang ,24,1702956
+Minchan Kim ,47,617864
+piaojun ,5,1615791
+Gang He ,7,1914556
+Don Hiatt ,1,0
+Grzegorz Heldt ,1,0
+Antoine Tenart ,56,698886
+Alim Akhtar ,40,714321
+Tom Zanussi ,31,722744
+Slava Shwartsman ,1,0
+Hariprasad S ,55,668847
+Mayeul Cantan ,1,0
+George Spelvin ,16,2264003
+Mikko Perttunen ,12,3582445
+Chun-Hao Lin ,12,1712068
+ZhengYuan Liu ,1,0
+Asias He ,9,2615337
+xypron.glpk@gmx.de ,23,820644
+Sam Bobroff ,2,30001511
+Andrew Jones ,3,2586901
+David Matlack ,6,7699388
+Robbie Ko ,4,52
+Alexander Stein ,19,2215382
+Anshuman Khandual ,39,956455
+Ingo Tuchscherer ,6,6947863
+Maarten ter Huurne ,14,1006470
+Sylvain Etienne ,1,0
+Iosif Harutyunov ,1,0
+Slava Grigorev ,8,2762806
+SF Markus Elfring ,2,28406534
+Nitin Gupta ,4,7715489
+Maxim Patlasov ,3,6924452
+Alexey Kuznetsov ,1,0
+Hans-Christian Noren Egtvedt ,2,0
+Vincent StehlÃ© ,1,0
+Zhou Chengming ,3,11243748
+Dennis Chen ,3,2403302
+Ganesh Mahendran ,8,0
+Scott Bauer ,2,2988093
+Richard Cochran ,52,728090
+Benoît Thébaudeau ,7,4358111
+Cameron Gutman ,5,1319300
+Gjorgji Rosikopulos ,11,1693781
+Hiroyuki Yokoyama ,1,0
+Tony Camuso ,2,15115726
+Libor Pechacek ,2,19816896
+Sam Mendoza-Jonas ,2,2
+Li RongQing ,20,2094390
+nimisolo ,1,0
+He Chunhui ,1,0
+Marcin Mielniczuk ,1,0
+Henning Schild ,1,0
+Song Shan Gong ,1,0
+Chandan Rajendra ,19,1338278
+Hans van Kranenburg ,1,0
+Vasundhara Volam ,5,9576247
+Cathy Avery ,3,12611349
+Georgi Djakov ,18,1953367
+Ritesh Harjani ,1,0
+Dong Aisheng ,49,812483
+Bojan Prtvar ,2,3
+Chaotian Jing ,24,1521510
+Jérôme Forissier ,1,0
+Chuanxiao Dong ,3,8120399
+Al Cooper ,5,7856387
+Pratibhasagar V ,1,0
+Gwendal Grignou ,5,8766238
+"Yuan, Juntao ",1,0
+Mika Kuoppala ,134,306410
+Vedang Patel ,10,2843121
+Christophe Chapuis ,1,0
+Andreas Klinger ,1,0
+Sumit Rai ,1,0
+Kedareswara rao Appana ,32,679698
+Andreas Herrmann ,1,0
+Otto Kekäläinen ,1,0
+Gaurav Minocha ,2,38875211
+Eric Auger ,43,824589
+"Tautschnig, Michael ",1,0
+Tony Nguyen ,4,2277047
+Joshua Hay ,1,0
+Joel Porquet ,7,5545787
+"Lee, Chun-Yi ",4,8455184
+Bob Peterson ,34,1189210
+Tim Gore ,10,2553658
+Petar Jovanovic ,1,0
+Carsten Emde ,1,0
+Damien Le Moal ,5,2321454
+Yigal Korman ,2,21175592
+Michael Welling ,12,3452409
+Ngai-Mint Kwan ,3,3917274
+Feng Li ,1,0
+Ryan Lim ,3,0
+"Reizer, Eyal ",1,0
+Vladimir Kondratiev ,52,760652
+Pang Raymond ,1,0
+Paulo Flabiano Smorigo ,5,9338159
+Douglas Miller ,3,6955887
+Prashant Sreedharan ,8,2121951
+Thierry Escande ,26,53420
+Tigran Mkrtchyan ,3,2722665
+Steve Dickson ,1,0
+Hector Palacios ,1,0
+Eyal Reizer ,4,12591072
+Chris DeBruin ,1,0
+Andrew Zamansky ,1,0
+Andrey Pronin ,1,0
+apronin@chromium.org ,2,0
+Sandeepa Prabhu ,4,1
+William Cohen ,2,15130149
+Pierre Le Magourou ,3,4
+Gaurav Jindal ,1,0
+Ian Munsie ,32,1149068
+Wilfried Klaebe ,1,0
+Vincent Stehle ,1,0
+Leonidas S. Barbosa ,1,0
+Bob Paauwe ,8,4823026
+mathieu.poirier@linaro.org ,1,0
+Prasun Maiti ,3,1705692
+Graham Moore ,4,8436308
+Chen Zhong ,1,0
+Lionel Landwerlin ,10,1267048
+Kazuki Oikawa ,1,0
+Taras Kondratiuk ,1,0
+Ville Viinikka ,1,0
+Tony Makkiel ,2,3445143
+Mat Martineau ,4,4917667
+Lans Zhang ,2,2
+Alexey Kunitskiy ,1,0
+Matthew McClintock ,18,558113
+"Yong, Jonathan ",2,6
+Ji-Ze Hong (Peter Hong) ,2,1894202
+Amadeusz Sławiński ,1,0
+Andrey Gusakov ,2,12254627
+Dongpo Li ,3,0
+Bin Liu ,30,1329087
+"Cao, Lei ",1,0
+Todd Brandt ,1,0
+Grant Grundler ,3,11373163
+James Patrick-Evans ,2,16999
+Daniel Bristot de Oliveira ,10,2664048
+Kinglong Mee ,80,445084
+Himanshu Madhani ,16,2055907
+Sawan Chandak ,9,3496867
+Joe Carnuccio ,20,1562531
+Giridhar Malavali ,1,0
+Manjunath M B ,1,0
+Stefan PÃ¶schel ,1,0
+arun.siluvery@linux.intel.com ,8,1677446
+Shreyas B. Prabhu ,20,1910861
+Stewart Smith ,5,4558146
+Nathan Fontenot ,15,2660744
+Anna-Maria Gleixner ,26,434166
+Abhishek Sahu ,2,657
+Kiran Patil ,10,2786323
+Florian Meier ,2,5425483
+Alex Elder ,345,174705
+Steve Grubb ,1,0
+Alex Hung ,9,1908613
+Liu Shuo ,1,0
+PC Liao ,8,2650395
+Ben Zhang ,11,3628676
+Rhyland Klein ,30,798752
+Fengguang Wu ,17,1895431
+Elad Kanfi ,5,1390414
+Joseph Salisbury ,2,8686524
+Wen Xiong ,3,15089422
+Ben Skeggs ,478,63717
+Roy Spliet ,25,1293618
+Chris Leech ,2,30175617
+Jiancheng Xue ,13,491581
+P L Sai Krishna ,1,0
+Raghav Dogra ,5,4387937
+Jeffrey Lin ,2,4061933
+Tom Haynes ,7,820726
+Andrew Elble ,9,3404454
+Max Kellermann ,8,1212733
+Aayush Gupta ,1,0
+Masayoshi Mizuma ,1,0
+Olli Salonen ,28,1370182
+Saso Slavicic ,1,0
+Jonathan McDowell ,5,6367121
+Nadav Amit ,10,4157045
+Peter Oberparleiter ,13,3074699
+Jim Gill ,1,0
+Manoj N. Kumar ,7,1814989
+Douglas Gilbert ,18,1211649
+Maurizio Lombardi ,9,2808530
+David Tolnay ,1,0
+Matthew Leach ,8,521863
+Ming Lin ,26,1153873
+vchannaiah ,1,0
+Kevin Brodsky ,3,41290
+Christoph Lameter ,19,1818588
+Frank Binns ,4,515239
+Awais Belal ,1,0
+Walter Mack ,1,0
+Mario Limonciello ,7,2236102
+Alexandre Bailon ,29,1678590
+Len Brown ,64,584948
+Jean-Gabriel Gill-Couture ,1,0
+Alexander Popov ,7,5530647
+Luciano Coelho ,48,807093
+Guillermo Rodriguez ,1,0
+Ryo Kodama ,3,8976220
+Hyong Bin Kim ,1,0
+Victor(Weiguo) Pan ,1,0
+Rohith Seelaboyina ,1,0
+Sylvain Lemieux ,16,878039
+Toby DiPasquale ,1,0
+Dan O'Donovan ,6,721414
+Salvatore Benedetto ,11,2046267
+Iwo Mergler ,1,0
+Tien Hock Loh ,1,0
+John Kacur ,1,0
+Zhao Lei ,65,533129
+Soeren Moch ,7,1888002
+Dmitri Epshtein ,4,3350317
+Valentin Longchamp ,1,0
+Sriram Dash ,4,4776406
+Octavian Purdila ,14,2547144
+Dragos Bogdan ,3,10066760
+Guennadi Liakhovetski ,6,2580524
+Antonio Ospite ,29,1348725
+Andrew-CT Chen ,6,2616484
+Sinclair Yeh ,21,1460788
+Benjamin Berg ,6,4
+Shengzhen Li ,11,2719731
+Yvain THONNART ,1,0
+Ricky Liang ,3,17943604
+Tedd Ho-Jeong An ,6,6685371
+"Machani, Yaniv ",2,28737831
+Aravind Gopalakrishnan ,40,950420
+Greg Kurz ,17,2175200
+Franklin S Cooper Jr ,31,1007064
+Anilkumar Kolli ,6,4539032
+Muhammad Hamza Farooq ,7,4190269
+Tanmay Jagdale ,2,7444844
+viresh kumar ,3,14273915
+David Mao ,2,1
+Alex Xie ,3,0
+yanyang1 ,9,4317205
+Edmondo Tommasina ,1,0
+Michal Kubecek ,1,0
+Quentin Armitage ,2,8783190
+Ganapatrao Kulkarni ,5,1793238
+Javier González ,17,1261916
+Wenwei Tao ,23,903159
+Zhangfei Gao ,12,3159482
+Peter Meerwald ,15,2750008
+Ramesh Shanmugasundaram ,15,813929
+Fabien Parent ,15,1903030
+"Sajjan, Vikas C ",2,127
+Matej Groma ,2,652358
+Hugh Sipière ,1,0
+Avraham Stern ,18,2170185
+Ilan Peer ,10,4099167
+Gregory Greenman ,14,2241048
+Shannon Zhao ,41,802832
+Abhilash Kesavan ,1,0
+Golan Ben-Ami ,15,1374231
+striebit ,1,0
+Matti Gottlieb ,21,1894292
+yalin wang ,15,2125645
+Bijosh Thykkoottathil ,3,105753
+Bruno PrÃ©mont ,1,0
+Yijing Wang ,18,2093952
+Lukasz Gemborowski ,2,2228133
+Conor McLoughlin ,2,24883668
+Raveendra Padasalagi ,4,2582169
+Subhransu S. Prusty ,73,491827
+Alexis Dambricourt ,2,16933566
+Chris Smart ,5,1503326
+Pavel Tikhomirov ,2,7924453
+Torsten Hilbrich ,3,1206226
+Garlic Tseng ,10,53714
+Chris Phlipot ,18,596740
+John Fastabend ,21,1743229
+Hemant Kumar ,7,2261891
+Luo Yi ,1,0
+Priit Laes ,27,1444009
+Jonathan Cameron ,18,2174893
+Colin Pitrat ,1,0
+Pranay Kr. Srivastava ,2,25725351
+Raashid Muhammed ,4,772687
+Aaron Campbell ,2,513979
+Zoltan Kuscsik ,1,0
+Peter Antoine ,7,5918957
+Geoff Lansberry ,1,0
+Florian Vaussard ,9,1298983
+Steffen Trumtrar ,10,3808131
+Mars Cheng ,6,6070735
+Oded Gabbay ,30,1223983
+Stefan Hauser ,1,0
+Sergio Valverde ,1,0
+Matt Corallo ,1,0
+Matija Glavinic Pecotic ,1,0
+Sami Tolvanen ,9,3504576
+Roger Lu ,1,0
+João Paulo Rechi Vita ,22,1243398
+Ellen Wang ,5,7740395
+raveendra padasalagi ,2,966022
+Andrei Otcheretianski ,11,3638429
+Moritz Sichert ,1,0
+Wei Chen ,11,3533418
+Shaker Daibes ,1,0
+Matthew Finlay ,11,1102810
+Russell King - ARM Linux ,1,0
+Sony Chacko ,1,0
+Andrey Ulanov ,1,0
+Soohoon Lee ,1,0
+Mateusz Bajorski ,1,0
+"Seymour, Shane M ",7,5671939
+Ashish Sangwan ,1,0
+Martin Willi ,24,1473029
+Marek Lindner ,31,1146272
+Eric Richter ,8,0
+Ivaylo Dimitrov ,20,808195
+Pramod Gurav ,7,6182048
+Ocean He ,1,0
+Amritha Nambiar ,4,2468382
+James Ban ,7,5067735
+Bruno Herrera ,1,0
+Magnus Damm ,46,730157
+Samuel Gauthier ,2,9280533
+David Barroso ,1,0
+Michael Brunner ,2,27889666
+Wei Tang ,9,2348481
+Ben Copeland ,1,0
+"Yu, Ong Hock ",1,0
+Nick Leiten ,1,0
+Michał Kępień ,28,1206542
+Chris Lapa ,7,107
+Iago Abal ,3,811245
+daniel ,1,0
+Helen Fornazier ,1,0
+Wang Sheng-Hui ,5,1356087
+Jay Vosburgh ,4,6727235
+Huang Tao ,2,7
+"Huang, Tao ",2,1
+Tom Goff ,1,0
+Megha Dey ,16,880201
+Diego Dorta ,5,259112
+David Frey ,1,0
+Neerav Parikh ,14,2635417
+Shannon Nelson ,76,392204
+Serey Kong ,2,22722550
+Greg Rose ,13,2854837
+Parth Pancholi ,1,0
+Patrik Jakobsson ,15,2161688
+Sean Nyekjaer ,8,3296526
+Crestez Dan Leonard ,26,295164
+Yannick Brosseau ,6,6461343
+Huw Davies ,19,11
+Joel Fernandes ,3,233586
+Russ Dill ,1,0
+Paul Handrigan ,2,868
+Neeraj Badlani ,1,0
+Geoff Levand ,14,2544205
+Benjamin Marzinski ,9,4568604
+Quentin Casasnovas ,2,18630635
+Marcelo Tosatti ,8,5149036
+Simon Xue ,2,0
+Jan Niehusmann ,1,0
+Peter Jones ,12,3327010
+"Compostella, Jeremy ",2,5189572
+Zev Weiss ,1,0
+Bich Hemon ,7,1756344
+Tina Ruchandani ,15,2375607
+Gil Rockah ,1,0
+Yevgeny Petrilin ,2,0
+Fugang Duan ,14,2561405
+Stephan Linz ,7,100207
+Ioana Radulescu ,1,0
+Bharat Bhushan ,1,0
+Helen Koike ,7,71926
+Yegor Yefremov ,14,2672627
+"Chuah, Kim Tatt ",3,0
+Alexandr Petrenko ,1,0
+Charanya Venkatraman ,1,0
+Hiromitsu Yamasaki ,1,0
+Christophe Ricard ,130,256295
+Stefan Berger ,7,2707793
+Christophe RICARD ,26,609998
+Xiaolong Wang ,1,0
+Anthony Romano ,1,0
+Evgeniy Borisov ,6,1276871
+Jeffrey Carlyle ,8,606955
+Frank Rowand ,4,4355367
+Kumar Gala ,3,18272200
+Weston Andros Adamson ,5,996230
+Jaroslav Kysela ,2,609344
+Zheng Lv ,2,262290
+Arturo Borrero ,1,0
+Woodrow Shen ,6,5790362
+Dmitrii Tcvetkov ,1,0
+Taeung Song ,41,773233
+Michael Scott ,13,3727364
+Haozhong Zhang ,17,1734710
+Faisal Latif ,23,1520053
+Ashutosh Dixit ,18,1337188
+Dotan Barak ,1,0
+Talat Batheesh ,2,0
+Marc MERLIN ,1,0
+Shivani Bhardwaj ,76,305373
+Ed Spiridonov ,3,4798156
+Jimmy Assarsson ,1,0
+Cristina Ciocan ,7,1149097
+Jayachandran B ,8,2025861
+Simon Trimmer ,1,0
+Joonyoung Shim ,56,594137
+Lukasz Luba ,2,1780301
+MyungJoo Ham ,8,3517460
+Cai Zhiyong ,1,0
+Ralf Gerbig ,1,0
+Koehrer Mathias (ETAS/ESW5) ,1,0
+Shaokun Zhang ,1,0
+Kenny Yu ,2,3540
+Christian Gmeiner ,1,0
+Yang Shi ,44,528064
+Zhilong Liu ,1,0
+Gary Bisson ,23,1224360
+Sricharan R ,17,700528
+Guohua Zhong ,1,0
+Michał Winiarski ,8,3593055
+Yann Droneaud ,7,5130586
+Jun He ,1,0
+Qianqian Xie ,11,782315
+Vardan Mikayelyan ,16,719833
+Li Yang ,4,6279218
+Jack Miller ,2,0
+Roman Volkov ,4,4763700
+akam kumar bharathi ,1,0
+Sergey Cheremencev ,1,0
+Alex Zhuravlev ,1,0
+Bruno Faccini ,6,4826901
+Thomas Graziadei ,1,0
+David Miller ,5,7727829
+stuart hayes ,1,0
+Chris J Arges ,7,4815365
+Wei Yuan ,2,11486204
+Jeff Garzik ,1,0
+Konrad Leszczynski ,2,4591837
+Maximilian Schneider ,4,1207704
+Wolfgang Grandegger ,1,0
+Basil Gunn ,1,0
+Naveen Kaje ,1,0
+Fenghua Yu ,4,2812388
+Chris Cesare ,2,0
+Nikita Eshkeev ,2,4243505
+Brian Welty ,2,0
+Zygo Blaxell ,2,3640191
+Janusz Krzysztofik ,2,7336
+Matt Flax ,1,0
+Mika Båtsman ,1,0
+Lakhvich Dmitriy ,3,11631994
+Eugene Crosser ,20,1798679
+Vincent Palatin ,5,5539706
+Fabien Siron ,2,574466
+Arend van Spriel ,54,658724
+Wright Feng ,3,7
+Chris Brand ,10,152387
+Jie Qiu ,3,1768890
+Niklas SÃ¶derlund ,1,0
+Hendrik Brueckner ,24,1239993
+"Ocquidant, Sebastien ",1,0
+Libin Yang ,32,1100910
+Yunhong Jiang ,4,1
+Yang Zhang ,1,0
+Martin Habets ,3,9765704
+Rashmica Gupta ,19,973200
+Ying Xue ,16,2352413
+Philip Prindeville ,1,0
+Christopher Spinrath ,6,894038
+Valentin Raevsky ,1,0
+Liviu Dudau ,28,1248145
+Paul Bolle ,8,3878745
+Wan Zongshun ,7,3268537
+Kailang Yang ,12,3140723
+Rui Zhang ,1,0
+Tan Jui Nee ,1,0
+James Bottomley ,17,2086541
+"Su, Xuemin ",1,0
+Feng Tang ,3,15657396
+Hannes Frederic Sowa ,54,630295
+Greg Hackmann ,10,1319600
+Wei-Ning Huang ,7,4790220
+plr.vincent@gmail.com ,1,0
+Oscar ,1,0
+Bharata B Rao ,3,12099547
+Lars Ellenberg ,46,386828
+Roland Kammerer ,3,8703634
+Philipp Reisner ,9,2175908
+Jean-Michel Hautbois ,4,6828693
+Andres Rodriguez ,1,0
+Xiao Ni ,1,0
+Jérôme Glisse ,8,4320515
+Ruud Derwig ,2,30640496
+Ajit Pandey ,1,0
+Daniel van Gerpen ,1,0
+Junichi Nomura ,10,2591828
+Ankitprasad Sharma ,3,6898145
+Krzysztof Błaszkowski ,8,148793
+Armen Baloyan ,1,0
+Lina Iyer ,9,4442498
+Adriana Reus ,24,1367161
+"Markezana, William ",1,0
+Rajesh Bhagat ,8,2912620
+Juergen Borleis ,12,2808287
+Manuel Lauss ,6,4395561
+Pramod Kumar ,18,1158076
+Zi Shen Lim ,11,1879639
+Manfred Schlaegl ,5,7077841
+Chris Blake ,1,0
+Jayachandran C ,13,2125189
+Weongyo Jeong ,3,3204351
+Jianyu Zhan ,4,2706075
+Jean Guyomarc'h ,1,0
+Claudio Fontana ,1,0
+Robert P. J. Day ,3,16283653
+Marek Belisko ,11,3447683
+Jonghwa Lee ,3,15827431
+Beomho Seo ,2,32415407
+Alexander Yarygin ,6,1622272
+Shahar Klein ,1,0
+Eli Sennesh ,5,3674328
+Marti Bolivar ,5,13872296
+Eric Caruso ,2,20094294
+Zhaoxiu Zeng ,3,2201209
+Cong Wang ,4,9768445
+Damien Riegel ,36,441953
+Alessandro Radicati ,2,66
+Kirtika Ruchandani ,2,31
+Shweta Choudaha ,2,2007
+Alison Wang ,5,7553780
+Murali Karicheri ,29,1123925
+Rafal Krypa ,3,16073974
+Dennis Wassenberg ,1,0
+H. Peter Anvin ,11,7482
+Matthew Gerlach ,2,27816711
+Jeff Moyer ,11,3428152
+Sunad Bhandary ,2,25377623
+Jason Low ,14,2639379
+Helmut Grohne ,1,0
+Iban Rodriguez ,4,7198510
+LEROY Christophe ,46,795447
+hongkun.cao ,2,690955
+Pau Espin Pedrol ,1,0
+Tobin C Harding ,3,25943
+Lidza Louina ,1,0
+Li Dongyang ,2,5965206
+Michał Pecio ,3,13545129
+ayaka ,4,2765
+Nicolas Dufresne ,1,0
+Achiad Shochat ,60,529574
+Max Gurtovoy ,2,1
+Bob Ham ,2,1
+Herve Jourdain ,1,0
+Feifei Xu ,8,48296
+Dr. David Alan Gilbert ,2,22260226
+Mike Danese ,2,226338
+Serge E. Hallyn ,3,1198120
+"Fu, Zhonghui ",7,5427567
+Michal Schmidt ,13,2469533
+Khem Raj ,2,32856493
+Adrian Chadd ,1,0
+Christian Daudt ,3,1029710
+Lauri Kasanen ,1,0
+Venkat Prashanth B U ,1,0
+Yangbo Lu ,13,2654526
+Vitaly Wool ,2,1202665
+Corey Minyard ,17,1480072
+Guillermo Julián Moreno ,1,0
+Andy Deng ,1,0
+Olliver Schinagl ,13,1902920
+Chanho Min ,7,732679
+Kai Huang ,2,18240848
+Jaewon ,1,0
+Yong Li ,6,5137694
+Julien Grall ,68,479599
+Nicholas Krause ,34,994847
+Franky Lin ,13,2691939
+Gaurav Jindal (Gaurav Jindal) ,1,0
+Kangjie Lu ,10,290803
+Yunlong Song ,6,3926323
+Joshua Henderson ,14,953955
+Dmitry Bilunov ,1,0
+Raja Mani ,53,596789
+Masaru Nagai ,4,5715376
+Martin K. Petersen ,28,1259283
+Kazuya Mizuguchi ,15,2268971
+Andrew Goodbody ,5,2570502
+Bastien Nocera ,7,4506677
+"Kumar, Mahesh ",8,3348509
+Roderick Colenbrander ,1,0
+Mathieu Larouche ,3,12185346
+Sagar Arun Kamble ,13,1873786
+wangyunjian ,1,0
+Troy Kisky ,10,3398182
+Chen Haiquan ,1,0
+Anup Patel ,24,870998
+Jean-Jacques Hiblot ,1,0
+Simran Rai ,7,3215467
+Stephen Smalley ,17,1953823
+"Kanchanapally, Vidyullatha ",2,3044581
+Naveen Krishna Chatradhi ,1,0
+Cristian Stoica ,1,0
+Krzysztof Opasiak ,27,1041548
+Vahram Aharonyan ,3,1428380
+Jim Lodes ,4,995874
+Piotr Stankiewicz ,2,0
+Robert Richter ,15,2238332
+Taehee Yoo ,15,2398555
+Akshay Bhat ,16,1087652
+Baozeng Ding ,2,381753
+Pooya Keshavarzi ,1,0
+Benson Leung ,7,5507994
+Antony Pavlov ,18,1462066
+Stephen Just ,3,13324837
+Pavel Rojtberg ,14,2260282
+Rajneesh Bhardwaj ,1,0
+Marco Trevisan (Treviño) ,1,0
+Jaap Jan Meijer ,1,0
+Antonio Murdaca ,5,7736650
+Dan Streetman ,54,622153
+Erico Nunes ,1,0
+Moritz Fischer ,24,1112516
+Glenn Dayton ,1,0
+Zhang Zhuoyu ,1,0
+Nicholas D Steeves ,1,0
+Roman Kagan ,1,0
+Tom Lendacky ,19,1747339
+Honggang Li ,1,0
+Heiko Schocher ,10,3532943
+z00189512 ,1,0
+Stefano Stabellini ,24,1359952
+Dom Cote ,2,0
+Oleksandr Natalenko ,2,5295508
+Wang Xiaoqiang ,6,2227772
+Tomáš Trnka ,1,0
+Matt Gumbel ,1,0
+Ramalingam C ,8,4229789
+Tomas Bzatek ,1,0
+Cristina Moraru ,38,548092
+Tiberiu Breana ,19,1809517
+Nicolas Chauvet ,6,4733553
+Thomas Koeller ,1,0
+Sam Ravnborg ,8,3544036
+Heloise ,1,0
+"Du, Changbin ",15,927550
+René Nyffenegger ,2,1940154
+Janis Danisevskis ,1,0
+Richard W.M. Jones ,2,1362097
+Stefan Bader ,2,12260116
+Yu Zhao ,3,11020291
+Weijie Yang ,2,10905458
+Ming Li ,1,0
+Chen Yucong ,3,4650253
+Neil Horman ,27,1052497
+Rafal Redzimski ,2,3213287
+Soumya PN ,1,0
+Chris Ryder ,2,0
+Matt Evans ,1,0
+Qianyu Gong ,1,0
+Nicolas Boullis ,2,0
+Sergey Yanovich ,1,0
+Andres Lagar-Cavilla ,1,0
+Li Zhang ,4,9459607
+Yaowei Bai ,75,296737
+Li Peng ,2,17708200
+Jun Piao ,2,5624218
+Alden Tondettar ,4,667909
+Daniel Hung-yu Wu ,1,0
+Andy Honig ,1,0
+Pankaj Gupta ,2,28466437
+Shirley Ma ,3,13047874
+Stefan Metzmacher ,4,0
+Dawei Chien ,1,0
+Ulises Brindis ,2,24025288
+Andy Champ ,1,0
+Boris BREZILLON ,138,243601
+Chenhui Zhao ,1,0
+"Samudrala, Sridhar ",3,15751254
+David Bond ,1,0
+tom will ,2,354
+Pantelis Antoniou ,5,7813910
+Ken Sumrall ,1,0
+Scott Talbert ,1,0
+chenhui zhao ,8,2616980
+Hou Zhiqiang ,7,3917006
+Ajit Khaparde ,4,2717776
+Qiang Huang ,1,0
+Knud Poulsen ,3,20
+Nigel Croxon ,1,0
+Ashish Shah ,1,0
+Akeem G Abodunrin ,4,5869798
+Kevin Scott ,4,6100030
+Guy Levi ,1,0
+Hans Westgaard Ry ,3,4086348
+Brian Walsh ,1,0
+Tony Wu ,2,32558
+Lauro Costa ,1,0
+Sashka Nochkin ,1,0
+Aurelien Jarno ,4,6734902
+Emil Velikov ,38,42476
+Leonid Yegoshin ,7,4704077
+Martin Schiller ,3,7127737
+Simon Arlott ,23,804832
+Andrei Pistirica ,4,2133574
+Markos Chandras ,55,522674
+Alban Bedel ,62,540901
+Arnaud Mouiche ,6,0
+Jeremy McDermond ,7,346205
+Dan Fuhry ,1,0
+Nick Hoath ,25,1436642
+Tom O'Rourke ,1,0
+Mans Rullgard ,39,542681
+Jeremy Compostella ,2,458461
+Dmitry V. Levin ,11,1371809
+Riccardo Bortolato ,1,0
+hchrzani ,1,0
+Vik Heyndrickx ,1,0
+Chaitra P B ,6,43
+wang yanqing ,3,448
+Charlie Mooney ,3,14592101
+Clinton Sprain ,1,0
+Aaron Durbin ,1,0
+Gene Chen ,1,0
+Harish Kasiviswanathan ,1,0
+Sonny Jiang ,11,2960800
+Michele Curti ,5,7146097
+Christophe Lombard ,11,1877096
+Lennart Sorensen ,1,0
+Chandan Kumar ,2,1
+Laurent Vivier ,4,5223964
+Petros Koutoupis ,1,0
+Shaohui Xie ,17,1730425
+Dirk Gouders ,3,6729
+Pardha Saradhi K ,1,0
+Azriel Samson ,2,9197615
+Mordechai Goodstein ,1,0
+Wang Hongcheng ,5,1174168
+Julian Scheel ,6,5750071
+Yura Pakhuchiy ,1,0
+Laurence Oberman ,1,0
+Imran Haider ,1,0
+Taku Izumi ,38,605285
+Robin Humble ,1,0
+Michael Thalmeier ,10,288058
+Helmut Schaa ,8,2841347
+Alejandro Torrado ,1,0
+Chris Diamand ,2,8867166
+Michael Haas ,1,0
+Dave Wysochanski ,1,0
+Bruno Carvalho ,2,0
+Alexander Curtin ,14,278514
+Joshua Kinard ,4,9290517
+Andreas Ruprecht ,4,9395493
+Nikolay Martynov ,1,0
+Andreas Gröger ,3,15946324
+Nikita Edward Baruzdin ,1,0
+Alexander Gerasiov ,1,0
+Kenneth Graunke ,1,0
+Tal Zilcer ,1,0
+Courtney Cavin ,6,4792549
+Franck Jullien ,2,2752481
+Satoshi Nagahama ,1,0
+Marc Angel ,1,0
+Jon Maxwell ,3,13043675
+Kevin Fitch ,1,0
+Andrea Adami ,1,0
+Mike Williams ,3,222
+Austin S. Hemmelgarn ,1,0
+Haggai Abramovsky ,4,3036439
+Lawrence Yiu ,1,0
+Howard Cochran ,2,2007835
+Dinko Mironov ,1,0
+Brad Mouring ,2,0
+Wang YanQing ,6,5345410
+Konstantin Shkolnyy ,11,1476906
+Yuyang Du ,16,1589119
+Mitchell Tasman ,1,0
+Moritz Kühner ,2,3
+Mykola Lysenko ,8,1748116
+rezhu ,5,5640832
+Bas Nieuwenhuizen ,2,22563112
+Sai Gurrappadi ,1,0
+Arjun Sreedharan ,1,0
+Florian Euchner ,1,0
+Yury Norov ,3,6668465
+Betty Dall ,3,0
+Sasha Levin ,31,1002443
+Lei Liu ,1,0
+Constantin Musca ,1,0
+Minghuan Lian ,13,1320997
+Mimi Zohar ,31,1004074
+Usha Ketineni ,3,5045795
+KY Srinivasan ,21,1543001
+lei liu ,1,0
+Josh Boyer ,10,2244108
+Peter Hurley ,191,165153
+Li Pengcheng ,3,0
+Pratik Patel ,13,2485140
+Manu Kumar ,6,66433
+Wei Wang ,2,6391310
+Tirumalesh Chalamarla ,8,3700783
+Chunyu Hu ,4,1613607
+Michael Callahan ,1,0
+Schemmel Hans-Christoph ,2,4002293
+Stas Sergeev ,11,2967187
+Gabriele Paoloni ,10,1747354
+Vitaly Prosyak ,6,2296495
+Jérome Glisse ,15,288774
+Serge Hallyn ,4,2187020
+Stanislav Meduna ,1,0
+Praveen Paneri ,2,18
+Dharageswari.R ,7,1626432
+Mousumi Jana ,1,0
+Martin Sperl ,69,476473
+Andreas Fenkart ,20,1559978
+Tim Bingham ,1,0
+Hamish Martin ,3,5921175
+Wang Shanker ,1,0
+Ben Sen ,1,0
+Jacky Boen ,10,0
+Yi Zhang ,3,12834536
+Mariusz Bialonczyk ,1,0
+Brian Bloniarz ,1,0
+Dmitry Kasatkin ,14,2298438
+Jake Oshins ,18,1367647
+Sudeep Dutt ,36,844420
+Maarten Brock ,7,1088873
+Wan Ahmad Zainie ,2,0
+Wills Wang ,2,7206038
+Chunfeng Yun ,16,1192282
+Inki Dae ,19,1514204
+Itai Katz ,10,2003233
+Horia Geanta ,1,0
+han tai ,1,0
+Manav Batra ,1,0
+Nicholas Sim ,10,311382
+Cihangir Akturk ,7,4059062
+Juanma de Hoyos ,1,0
+Ben Marsh ,22,337216
+Markus Böhme ,3,14090222
+Leo Sperling ,1,0
+Joseph T Handzik ,1,0
+Raghava Aditya Renukunta ,20,299499
+Igor Kotrasinski ,19,1061363
+Miroslav Benes ,7,5105751
+Li Bin ,13,1515424
+Michael Heimpold ,2,0
+Yisen.Zhuang\(Zhuangyuzeng\) ,15,21727
+Bruce Rogers ,1,0
+Helen Mae Koike Fornazier ,3,374193
+Caleb Crome ,1,0
+Jiang Qiu ,3,57
+Leo Kim ,462,42946
+Swapnil Pimpale ,4,490924
+James Nunez ,3,2254626
+Bruce Korb ,4,0
+Wang Di ,1,0
+David Müller ,2,237235
+xuejiufei ,10,1161921
+Ananth N Mavinakayanahalli ,2,31143019
+Atsushi Kumagai ,2,0
+Jerry Hoemann ,4,1558783
+David Rivshin ,17,713180
+françois romieu ,12,2833208
+Petko Manolov ,7,2102708
+Mohammad Khan ,1,0
+Chien Tin Tung ,1,0
+"Ismail, Mustafa ",16,0
+Jianqun Xu ,5,1434843
+Chris Bainbridge ,8,4434086
+anish kumar ,4,2645854
+Thomas Renninger ,6,3084882
+Mattia Dongili ,3,4302386
+Fu Wei ,6,1221222
+Linn Crosetto ,2,1
+Kyeongmin Cho ,1,0
+Luke Dashjr ,2,30200735
+Satoru Takeuchi ,3,2059929
+Sevak Arakelyan ,1,0
+Fei Yang ,1,0
+Shilpasri G Bhat ,18,1577370
+Kamil Krawczyk ,2,11804223
+Michal Kosiarz ,2,11803997
+Matthias Reichl ,4,57536
+Andreas Dannenberg ,21,1217902
+Trent Lloyd ,1,0
+Chanho Park ,6,4451829
+Shashank Sharma ,17,2045486
+Rui Salvaterra ,3,587553
+Jakub Wilk ,5,6067541
+Sergio Prado ,4,2174363
+Phil Edworthy ,14,1854881
+cpaul@redhat.com ,2,430375
+Alexandr Ivanov ,3,0
+David Mosberger ,2,0
+Aleksei Fedotov ,2,22109573
+Peter Swain ,2,85584
+Francesco Ruggeri ,4,4981781
+Yetunde Adebisi ,3,442
+Steve deRosier ,4,4028547
+Alan Liu ,2,15555212
+Chun-Yeow Yeoh ,6,6358417
+Akira Tsukamoto ,1,0
+Per Forlin ,1,0
+Jia-Ju Bai ,16,1600577
+Conrad Kostecki ,1,0
+Ivan Babrou ,1,0
+Suman Anna ,67,471185
+Kai Makisara ,2,5355674
+Sebastian Herbszt ,7,3975179
+Glenn Ruben Bakke ,7,4510704
+Knut Wohlrab ,2,3404625
+WEN Pingbo ,3,9118727
+Pontus Fuchs ,17,1702731
+Nazar Mokrynskyi ,1,0
+Philippe Longepe ,10,1522556
+Dr. H. Nikolaus Schaller ,1,0
+Andrew Gabbasov ,9,3164918
+Ashok Kumar ,10,1248828
+Horia Geant? ,15,2149898
+Jens Kuske ,10,3388614
+Jasem Mutlaq ,1,0
+Emmanouil Maroudas ,1,0
+Luke Starrett ,1,0
+Evgeny Voevodin ,1,0
+Andrea Venturi ,1,0
+Zhuang Yuyao ,1,0
+Khalid Aziz ,2,10294721
+Adrian Glaubitz ,2,0
+Lukasz Anaczkowski ,4,7771466
+Peter Heise ,3,253570
+Dave Martin ,6,6063209
+Koro Chen ,20,1410517
+Anju T ,3,0
+Hari Bathini ,3,10640358
+Stefan Schmidt ,25,1206972
+Omer Peleg ,8,338
+Vladis Dronov ,9,1654821
+Kalle Valo ,61,557917
+Krzysztof Hałasa ,8,3569679
+Alex Dai ,22,1128537
+Xiao Guangrong ,62,493177
+Liang Chen ,3,4124782
+Halil Pasic ,3,0
+Jonas Eymann ,1,0
+"Lu, Han ",8,4330078
+Maxim Zhukov ,2,987793
+Petr Štetiar ,7,2395221
+Daniel DeFreez ,1,0
+Sjoerd Simons ,30,749655
+Schuyler Patton ,2,607995
+Max Uvarov ,1,0
+Aubrey Li ,1,0
+Ezequiel García ,13,1755955
+Shubhangi Shrivastava ,10,1478627
+jim.bride@linux.intel.com ,2,13666653
+Moise Gergaud ,14,1007943
+Martin Dummer ,2,121
+Justin Chen ,4,5018651
+Askar Safin ,1,0
+Pavel Fedin ,26,1033974
+Adam Buchbinder ,19,259803
+Sina Hamedian ,1,0
+Ahmed Samy ,1,0
+Slawomir Stepien ,13,100818
+santosh.shilimkar@oracle.com ,32,655249
+Qing Huang ,1,0
+wangweidong ,5,4050054
+Doug Hoyte ,1,0
+Diego Herranz ,2,182571
+Diego Viola ,10,3106075
+Leonid Moiseichuk ,1,0
+Chad Dupuis ,15,1436947
+Jan Höppner ,4,1128094
+Xinwei Kong ,2,1275
+Zhong Kaihua ,3,10
+Dongwon Kim ,3,8855220
+Koji Matsuoka ,9,2504555
+Jack Pham ,5,1753506
+Yingjoe Chen ,18,1824227
+Martin Vajnar ,1,0
+Rameshwar Prasad Sahu ,9,3428551
+Bert Vermeulen ,4,10430577
+Rahul Verma ,1,0
+Petri Gynther ,15,1961857
+Chris Friesen ,2,3168485
+Emrah Demir ,1,0
+Jonas Rabenstein ,4,7462614
+Yoshihiro Kaneko ,2,2235683
+Andrzej Pietrasiewicz ,27,1136578
+Brijesh Singh ,4,6421437
+Robert Dobrowolski ,1,0
+Benjamin LaHaise ,1,0
+Cory Tusar ,13,2268820
+Justin Waters ,5,951752
+Erin Lo ,3,6257786
+Biao Huang ,9,1047259
+Markus Reichl ,5,7356768
+Alexandre Macabies ,3,0
+Hyungwon Hwang ,25,1109795
+Yunhui Cui ,1,0
+Filip Matijević ,2,0
+Kunihiko Hayashi ,1,0
+Kirill Marinushkin ,1,0
+Peter Oh ,32,1126511
+Jan Luebbe ,10,2458794
+Dmitry Ivanov ,2,122803
+Jacek Lawrynowicz ,2,32348
+JC Lafoucriere ,2,6
+Gaurav Mahajan ,1,0
+Aurelien Degremont ,1,0
+Narsimhulu Musini ,8,3664279
+Satish Kharat ,3,0
+Adrian-Ken Rueegsegger ,1,0
+Erik Hugne ,3,8794530
+Vipin K Parashar ,3,11676484
+Harald Geyer ,14,2254617
+YH Huang ,4,5387102
+Paul Cercueil ,3,15078838
+Patrik Flykt ,1,0
+Alan ,16,1980659
+Itai Handler ,1,0
+"Strashko, Grygorii ",2,11169385
+Jozsef Kadlecsik ,20,1501632
+Julian Calaby ,1,0
+Andy Fleming ,2,14972966
+Gabriel Somlo ,7,2679304
+Arika Chen ,1,0
+Deepthi Kavalur ,1,0
+Doron Shikmoni ,1,0
+John Holland ,1,0
+Peter Hutterer ,8,3270648
+John Ogness ,8,4144138
+Dennis Kadioglu ,2,3091980
+Colin King ,2,16375876
+samanthakumar ,2,0
+Jeff Vander Stoep ,5,5769599
+David Disseldorp ,6,4433403
+Janak Desai ,1,0
+Bruce Allan ,22,1038988
+Andrey Vostrikov ,1,0
+Silvan Jegen ,2,28445819
+Yong Wu ,7,574704
+Cosmin-Gabriel Samoila ,2,730577
+Ahsan Atta ,3,10896369
+Arun Siluvery ,47,678487
+Paul Parsons ,3,3132
+Akira Moroo ,1,0
+Will Miles ,1,0
+Rostislav Pehlivanov ,2,21488872
+Bastien Philbert ,1,0
+chas williams ,2,16989337
+Mario Six ,3,0
+Yauhen Kharuzhy ,1,0
+Davide Italiano ,1,0
+Alistair Leslie-Hughes ,1,0
+Przemek Rudy ,1,0
+Konrad Rzeszutek Wilk ,19,689729
+Yusuke Fujimaki ,2,252737
+Weijie Gao ,1,0
+Marc Titinger ,11,1358405
+Lisheng ,3,231539
+Akash Choudhari ,1,0
+Neil Zhang ,2,4652919
+Yuki Shibuya ,1,0
+Vandana Kannan ,14,2378252
+Yao Dongdong ,1,0
+Patrick Uiterwijk ,3,59824
+Kaixu Xia ,7,3377163
+Alfredo Alvarez Fernandez ,4,897090
+Dongsheng Yang ,9,1980942
+Dave Anderson ,1,0
+Ignat Korchagin ,1,0
+John Hammond ,5,0
+Vishal Mahaveer ,3,9116218
+Andres Freund ,1,0
+Sander Eikelenboom ,1,0
+Dima Kogan ,3,6654964
+Chaya Rachel Ivgi ,14,2267159
+Sedat Dilek ,1,0
+Imre Kaloz ,3,13990022
+Qi Zheng ,1,0
+Qipeng Zha ,16,1681484
+YD Tseng ,2,13460005
+Dominique van den Broeck ,2,0
+Aniket Sharma ,1,0
+Adam Baker ,3,913872
+Andrew Price ,4,5446527
+Qais Yousef ,21,465488
+Stephane Bryant ,3,146
+Harald Freudenberger ,2,26691230
+Jiebing Li ,1,0
+Sebastian Siewior ,4,2970307
+Nobuteru Hayashi ,3,0
+Okash Khawaja ,5,6634547
+Parinay Kondekar ,6,927235
+Svetlana Orlik ,8,0
+Kathryn Hampton ,1,0
+Samuel Thibault ,7,4183924
+Leslie Klein ,2,0
+Nik Nyby ,18,1386372
+Heena Sirwani ,1,0
+Dilek Uzulmez ,6,633076
+Sam Horlbeck Olsen ,1,0
+Kyle Kuffermann ,2,1412487
+Roger H. Newell ,5,981881
+JM Friedt ,3,12098148
+Reinder de Haan ,5,3893701
+Xue jiufei ,9,2969460
+jiangyiwen ,9,2192272
+Ryan Ding ,13,1461515
+Anton Protopopov ,13,332934
+Sheng Li ,4,56143
+John Dahlstrom ,1,0
+Souvik Kumar Chakravarty ,7,916499
+Eric Curtin ,2,15803860
+Bobi Mihalca ,3,297
+MaJun ,5,1836054
+Piotr Kwapulinski ,3,11746388
+Stefani Seibold ,1,0
+Aurelien Jacquiot ,2,0
+Claudio Imbrenda ,2,0
+Marta Rybczynska ,1,0
+Lan Tianyu ,7,1
+Huaitong Han ,11,1652465
+Tomas Elf ,7,3637900
+Emil Bartczak ,1,0
+Jakub Jelen ,1,0
+John Lin ,17,1695556
+Sohom Bhattacharjee ,1,0
+Tero Roponen ,1,0
+Jesse Barnes ,13,2447969
+Jordan Justen ,6,2886036
+Vikas Shivappa ,5,0
+Jesse Gross ,9,2203118
+Stefan Eichenberger ,2,52
+Victor Clément ,1,0
+Matias Bjorling ,1,0
+Aaron Young ,4,0
+Cyan Ogilvie ,1,0
+ludovic.desroches@atmel.com ,12,2209189
+Keith Mok ,1,0
+Richard Pospesel ,1,0
+Ivan Delalande ,1,0
+Rob Landley ,1,0
+Dave Young ,4,5445211
+YiPing Xu ,1,0
+Igor Redko ,2,0
+Joshua Hunt ,1,0
+Nate Dailey ,1,0
+Piet Delaney ,1,0
+Alex Estrin ,2,2937720
+Kaike Wan ,12,1570161
+Brent Taylor ,2,24374517
+Philip Elcan ,1,0
+Nicolas Boichat ,23,1190243
+Mihai Mihalache ,1,0
+Nathan Schulte ,1,0
+Slava Bacherikov ,1,0
+Stanislav Kinsburskiy ,2,5759979
+Geyslan G. Bem ,46,196439
+San Mehat ,1,0
+Jiufei Xue ,1,0
+Lada Trimasova ,4,1324037
+Yaniv Gardi ,50,504657
+Bryn M. Reeves ,1,0
+Michael Büsch ,9,592529
+Soren Brinkmann ,21,982031
+Robert Doebbelin ,1,0
+Hans-Christian Egtvedt ,3,11381269
+Aaron Plattner ,3,10237998
+liping.zhang ,1,0
+Xia Yang ,1,0
+Martin Peres ,9,1423433
+Varad Gautam ,1,0
+vikram.jadhav07 ,1,0
+Hubert Chrzaniuk ,4,4870894
+"Chrzaniuk, Hubert ",1,0
+Krzysztof Halasa ,1,0
+James Johnston ,1,0
+Isaac Huang ,2,15440274
+G Pooja Shamili ,3,148
+Derek Yerger ,1,0
+Sandeep Jain ,1,0
+Janani Ravichandran ,71,38490
+Georgiana Chelu ,1,0
+EunTaik Lee ,2,1878512
+Shraddha Barke ,215,91395
+Tapan Prakash T ,5,218372
+Matthew Dawson ,3,2002215
+Zvi Nachmani ,1,0
+Scott Lawson ,1,0
+Pingchao Yang ,9,2570393
+Hector Marco-Gisbert ,1,0
+Sheng Yang ,8,1268634
+Jenny Derzhavetz ,18,901063
+Quinn Tran ,16,1326837
+Malcolm Priestley ,105,262120
+Vennila Megavannan ,9,1465810
+Hari Prasath Gujulan Elango ,45,542447
+Sadanand Warrier ,1,0
+Bryan Morgan ,1,0
+Jim Snow ,5,2130181
+Edward Mascarenhas ,2,2760521
+Josh Hunt ,2,51
+DingXiang ,1,0
+Rajesh Borundia ,3,8855842
+Xiangliang Yu ,4,2915466
+"Wiebe, Wladislav (Nokia - DE/Ulm) ",1,0
+"Luck, Tony ",3,10333838
+Quan Nguyen ,4,582998
+Eliad Peller ,44,635119
+OGAWA Hirofumi ,3,4760096
+Geoffrey Thomas ,1,0
+Harb Abdulhamid ,1,0
+Zhiyi Sun ,1,0
+Philippe Loctaux ,2,343988
+Kaiyen Chang ,1,0
+Xuelin Shi ,2,35936
+Saurabh Sengar ,24,492051
+Huiquan Zhong ,1,0
+Robin H. Johnson ,1,0
+Chen Fan ,1,0
+Bogicevic Sasa ,9,1424031
+Kyeong Yoo ,1,0
+Kostenzer Felix ,1,0
+Luca Abeni ,10,2824304
+Martin Koegler ,1,0
+Grzegorz Bajorski ,2,1128095
+Henry Paulissen ,2,109
+Julien Grossholtz ,5,1186654
+Phil Elwell ,1,0
+Youngmin Nam ,2,1830324
+Wilson Ding ,1,0
+Miodrag Dinic ,2,3342998
+Matwey V. Kornilov ,8,3320310
+yankejian ,8,1793246
+Guo-Fu Tseng ,2,0
+Krzysztof =?utf-8?Q?Ha=C5=82asa?= ,2,20483697
+Yao Yuan ,8,2625197
+Bill Sommerfeld ,1,0
+Ujjal Roy ,3,65
+Anthony Wong ,1,0
+One Thousand Gnomes ,3,2645262
+Dedy Lansky ,2,18500409
+Hamad Kadmany ,6,4698771
+Torsten Duwe ,4,0
+Bernhard Walle ,3,1002968
+Atsushi Nemoto ,3,8001285
+Rasmus Linusson ,2,0
+Reilly Grant ,1,0
+Grégor Boirie ,3,421207
+Joseph McNally ,1,0
+Sanchayan Maity ,15,1412418
+Matthieu Rogez ,3,76866
+Wang Dongsheng ,6,3459688
+Huibin Hong ,1,0
+Dudley Du ,11,1942189
+Milosz Tanski ,1,0
+Eric Laurent ,1,0
+Antti Seppälä ,5,6368183
+Haosdent Huang ,1,0
+Thomas Klausner ,1,0
+Vinayak Menon ,1,0
+Christopher S. Hall ,8,10970
+Nimrod Andy ,3,10987351
+Michael Mogenson ,2,0
+Dmitriy Baranov ,1,0
+Loc Ho ,20,1270622
+Hal Rosenstock ,5,5033606
+RitwikGopi ,1,0
+Jemma Denson ,29,894590
+Craig Stout ,4,0
+Asai Thambi SP ,17,1409790
+Manisha Agrawal ,3,0
+Chaos.Chen ,1,0
+Yu Ning ,2,2956860
+GEORGE ,1,0
+Philippe Valembois ,2,36
+Marc-Antoine Perennou ,1,0
+Aviv Greenberg ,2,7848696
+Simon South ,1,0
+Todd E Brandt ,2,23072619
+Jeremy Filizetti ,1,0
+Frank Zago ,10,1626379
+Alyona Romanenko ,1,0
+Olaf Weber ,2,14637414
+Giuseppe Cavallaro ,15,1481125
+Fabrice Gasnier ,3,0
+Avinash Repaka ,1,0
+Chunhao Lin ,1,0
+Jason Hu ,2,2887464
+Timo Teräs ,4,6847739
+Liu Xue ,2,18152235
+Alexander Gordeev ,11,1993581
+Ben Chen ,1,0
+Timothy Pearson ,1,0
+Tony Cho ,121,155727
+M. Vefa Bicakci ,2,0
+Dan Bogdan Nechita ,1,0
+Michael Hennerich ,3,5551971
+David Windsor ,1,0
+David Gibson ,8,3314523
+Jeffrey Huang ,8,1443633
+Haggai Eran ,32,767988
+Meny Yossefi ,3,0
+jubin.john@intel.com ,2,107
+Mark F. Brown ,2,8865556
+Wesley Post ,1,0
+Rob Kramer ,1,0
+Ivan T. Ivanov ,36,760437
+Devesh Sharma ,16,1268790
+Woojung.Huh@microchip.com ,20,968567
+Insu Yun ,34,357782
+Marina Varshaver ,2,0
+Abhilash Jindal ,8,2455014
+sixiao@microsoft.com ,5,6281390
+Naga Venkata Sai Indubhaskar Jupudi ,1,0
+Vittorio Alfieri ,1,0
+Patrik Halfar ,2,508610
+Kelly Zytaruk ,1,0
+Sushaanth Srirangapathi ,1,0
+Daniel Sanders ,2,21548048
+Shinobu Uehara ,4,7431781
+Linus Luessing ,5,294
+Bai Ping ,14,1038809
+Denis Carikli ,4,6312846
+Frank Li ,39,679404
+Yadan Fan ,1,0
+Suresh E. Warrier ,2,0
+Stafford Horne ,3,1319433
+Avri Altman ,16,1586259
+Eyal Shapira ,12,2390984
+Marcus Meissner ,3,928295
+Zain Wang ,6,1659313
+Daniel Cashman ,6,756336
+MINOURA Makoto / 箕浦 真 ,1,0
+Krzysztof Adamski ,11,156346
+David Lamparter ,1,0
+Sebastian Parschauer ,1,0
+Mehmet Kayaalp ,2,105
+Andrew Pinski ,2,864114
+Miles Chen ,1,0
+Michel Thierry ,51,556745
+benjamin.gaignard@linaro.org ,4,0
+Maximilain Schneider ,1,0
+Benjamin Romer ,21,1303227
+Pascal Huerst ,6,5261844
+Anton Bondarenko ,11,693423
+Kevin Smith ,2,6
+Varadarajan Narayanan ,2,805191
+Jelle de Jong ,2,12910129
+Gabor Juhos ,4,8476469
+Darren Etheridge ,4,1
+Thomas Betker ,3,9424003
+Bruno Randolf ,3,1
+David Henningsson ,19,1391379
+Mike Krinkin ,5,4699203
+Corinna Vinschen ,4,5271361
+Roland Hii ,1,0
+Takuma Ueba ,1,0
+Raanan Avargil ,13,1461298
+ajit.khaparde@broadcom.com ,2,0
+Bradley Pankow ,1,0
+David E. Box ,2,4704484
+waddlesplash ,1,0
+Sathya Prakash M R ,1,0
+Henning Rogge ,3,0
+Sunil Shahu ,6,4012999
+Ola Olsson ,8,1393915
+Jeremy Kerr ,8,3262479
+Andreas Irestål ,5,402269
+Sergei Ianovich ,1,0
+Charles ,3,0
+Suganath prabu Subramani ,12,0
+Tomas Henzl ,10,2699597
+Suganath Prabu Subramani ,1,0
+Jose Castillo ,1,0
+Harish Zunjarrao ,2,0
+Bernie Harris ,2,2155512
+Koen Zandberg ,1,0
+J.J. Meijer ,1,0
+ldewangan ,1,0
+Clément Vuchener ,2,12592389
+Takuya Yoshikawa ,19,624954
+Benoit Parrot ,9,2385651
+Simon Appleby ,1,0
+Hou Pengyang ,5,6032975
+Chris Park ,37,614764
+Ray Bellis ,1,0
+David Brown ,2,480676
+Sai Praneeth ,6,2071488
+Peter Korsgaard ,1,0
+Ken Kawasaki ,2,453750
+"Karicheri, Muralidharan ",13,1555028
+Robert Shearman ,15,1246003
+Gerhard Uttenthaler ,1,0
+Victor Dodon ,1,0
+Dave Penkler ,6,298413
+Lisa Du ,1,0
+Shaun Ren ,8,0
+Hemmo Nieminen ,2,1106763
+Andrew Bradford ,2,759775
+Colin Vidal ,4,0
+Thaissa Falbo ,6,3
+Fu Yong Quah ,1,0
+Shalin Mehta ,1,0
+Eric Long ,2,0
+Laurent FERT ,2,0
+Lucas Tanure ,4,923686
+Leif Liddy ,1,0
+Simon Guinot ,17,1269077
+Harald Hoyer ,1,0
+Wouter van Kesteren ,1,0
+Rainer Weikusat ,10,849337
+Padmanabh Ratnakar ,6,4942246
+Takashi Saito ,1,0
+Wu-Cheng Li ,2,1
+Pandi Kumar Maharajan ,1,0
+John Underwood ,1,0
+Gao Pan ,8,1458660
+Josh Cartwright ,5,5967882
+Felipe Franciosi ,1,0
+David Wragg ,4,240144
+Lior Amsalem ,7,3643727
+Juerg Haefliger ,1,0
+Uma Shankar ,1,0
+Alexandra Yates ,10,1489652
+Anatolij Gustschin ,1,0
+Andrey Skvortsov ,3,12438726
+Xu Jianqun ,1,0
+Byongho Lee ,9,2082607
+Ryo Kataoka ,4,8558913
+Tom Rini ,1,0
+Mahesh Khanwalkar ,1,0
+"Lendacky, Thomas ",31,800761
+Anjali Singhai ,5,3060390
+"Tang, Jianqiang ",1,0
+Pandi Maharajan ,1,0
+"Keller, Jacob E ",3,0
+Graeme Gregory ,3,11575487
+Aditya Kali ,5,0
+José Bollo ,2,11216591
+Andrey Smetanin ,44,458195
+Kevin Cernekee ,10,2766726
+Jason Andryuk ,1,0
+Kirill Tkhai ,3,6734624
+Shota Suzuki ,3,7824863
+Stephan Olbrich ,4,159266
+Ben Widawsky ,9,3318086
+Leslie Lau ,1,0
+Manuel Pégourié-Gonnard ,6,768042
+Bogdan Sikora ,1,0
+Denis Kirjanov ,7,1956720
+Jonathan Tinkham ,3,24
+Tomás Tormo ,1,0
+Joseph Bisch ,1,0
+Rakhi Sharma ,3,296882
+Niranjan Dighe ,5,5610413
+Lijun Pan ,3,4757514
+Sebastian Hesselbarth ,11,2464115
+Michael McConville ,1,0
+Pau Pajuel ,1,0
+Harry Wentland ,7,1471868
+Liguo Zhang ,4,3225234
+Abhay Kumar ,1,0
+Emil Goode ,1,0
+Ryan Ware ,1,0
+Riley Andrews ,1,0
+Haneen Mohammed ,3,90520
+Aybuke Ozdemir ,13,955857
+Daniel Chromik ,1,0
+Thanneeru Srinivasulu ,5,4242268
+Suman Tripathi ,12,2175390
+Tycho Andersen ,4,6072009
+Louis Yu ,2,1442415
+andrew-ct.chen@mediatek.com ,1,0
+Bayi Cheng ,4,2637351
+saurabh ,4,2275071
+Daniele Ceraolo Spurio ,1,0
+James Chao ,1,0
+Eric Yang ,3,2202497
+David Rokhvarg ,3,2202338
+Peter Loeffler ,1,0
+Chris Paterson ,1,0
+Enrico Jorns ,2,11559298
+David Jander ,5,6041241
+Jean Sacren ,19,1354173
+Gabriel Feceoru ,1,0
+Jerry Snitselaar ,3,11804807
+Codarren Velvindron ,1,0
+Stephane Gasparini ,1,0
+Feng Wu ,29,820614
+Nathan Rossi ,1,0
+Tiago Vignatti ,3,3470
+Mario Lange ,1,0
+Sandeep Pillai ,1,0
+Addy Ke ,4,5065111
+Boojin Kim ,1,0
+Marc Andre ,2,94
+Andreas Schwab ,3,5751060
+Ariel D'Alessandro ,16,1546225
+Matthias Lange ,1,0
+Jiaxing Wang ,4,2807353
+Kamal Mostafa ,4,2524518
+Anjali Menon ,9,1599698
+Saatvik Arya ,2,2336
+Benoit Hiller ,1,0
+SirnamSwetha ,4,163
+Amadeusz Pawlik ,1,0
+Christian Colic ,8,122067
+Sean MacLennan ,1,0
+Byeoungwook Kim ,1,0
+Yannik Schmidt ,1,0
+Gavin Thomas Claugus ,3,4920843
+Mauro Dreissig ,1,0
+Michael Hornung ,7,2753128
+Daniil Leshchev ,1,0
+Anatoly Stepanov ,12,1634495
+Jiading Gai ,1,0
+Alexey Mednyy ,2,0
+Ben Gilbert ,1,0
+Nizam Haider ,13,1969767
+J. German Rivera ,36,325931
+Gavin O'Leary ,4,2418076
+Pranjal Bhor ,6,0
+maomao xu ,1,0
+Sergey Lysanov ,1,0
+Alexey Tulia ,2,293
+Chris Elliott ,1,0
+Matej Vasek ,1,0
+Othmar Pasteka ,2,6919162
+Pablo G. Gallardo ,2,0
+Spencer E. Olson ,9,21
+Rohit kumar ,2,11116375
+Bopamo Osaisai ,1,0
+Rajmal Menariya ,1,0
+Colin Cross ,3,11766213
+Rom Lemarchand ,1,0
+Hugo Camboulive ,6,2190286
+Glen Lee ,236,54416
+CHANG FU CHIAO ,2,17828384
+Jakob Østergaard Jensen ,1,0
+Herton R. Krzesinski ,6,4455303
+Melchior FRANZ ,1,0
+Aya Mahfouz ,12,653063
+Anton Wuerfel ,13,0
+Phillip Raffeck ,2,0
+Paul Mcquade ,3,38
+Jeremy McNicoll ,2,762587
+Jeffy Chen ,9,641431
+Jaeden Amero ,4,7025792
+Frederik Völkel ,6,952291
+Kevin Wern ,1,0
+Swapnil Nagle ,2,17043896
+"Gujulan Elango, Hari Prasath (H.) ",14,1875482
+Nachiket Kukade ,2,11844528
+tom.leiming@gmail.com ,4,1109217
+Kim Jones ,1,0
+"Wang, Rui Y ",7,1140134
+Damien Horsley ,2,37
+Marcin Ślusarz ,1,0
+Vishnu Patekar ,12,1947601
+Hersen Wu ,1,0
+Michael Lange ,1,0
+Manish Jaggi ,1,0
+Zidan Wang ,34,700959
+Carol L Soto ,9,2650014
+Greg Bowers ,4,3406955
+Sushuruth Sadagopan ,1,0
+Jianqiang Tang ,1,0
+Seth Jennings ,6,2279374
+Robert Elliott ,22,1019017
+Môshe van der Sterre ,1,0
+Remi Pommarel ,4,1148866
+Mark Kuo ,2,2
+zengtao ,1,0
+Max Stepanov ,1,0
+Rodrigo Freire ,2,1521570
+Hubert Tarasiuk ,1,0
+Ernst Martin Witte ,5,33
+Torbjörn Jansson ,1,0
+Stefan Pöschel ,1,0
+Andrei Koshkosh ,1,0
+Mats Randgaard ,4,5727668
+Jean-Baptiste Theou ,3,9374690
+Nikola Forró ,2,11508651
+"Wu, Xia ",1,0
+wim.coekaerts@oracle.com ,1,0
+Sandeep Tripathy ,1,0
+Alexander Koch ,3,17
+Ken-ichirou MATSUZAWA ,14,1058217
+Jörg Thalheim ,1,0
+Lev Lybin ,1,0
+Jurgen Kramer ,5,3483072
+ZhengShunQian ,9,1263749
+W. Trevor King ,1,0
+chunfan chen ,9,1823743
+Uri Mashiach ,13,711230
+Alex Bennée ,13,1626840
+Francisco Jerez ,11,1968702
+Jeff Becker ,3,6616150
+Willy Tarreau ,2,798301
+Ricardo Ruedas ,1,0
+Daniel H. Hemmingsen ,2,3305665
+Malcolm Crossley ,2,10566317
+Damien.Horsley ,20,705733
+Edwin Velds ,1,0
+Thomas Abraham ,13,1595763
+Peter Hung ,6,3066068
+Jean-Christophe Dubois ,1,0
+Gioh Kim ,3,8505038
+Oreste Salerno ,4,1
+Gautham R Shenoy ,1,0
+Anders Roxell ,4,7295621
+M'boumba Cedric Madianga ,5,1568033
+Dmitry Lifshitz ,25,198150
+Mohamed Jamsheeth Hajanajubudeen ,1,0
+Andiii ,1,0
+dcg ,1,0
+Martin Wilck ,4,2247490
+Markus Trippelsdorf ,3,1158
+Alexander Tsoy ,1,0
+Yanbo Li ,7,4206410
+Anatoly Pugachev ,2,2
+dann frazier ,2,19070043
+Sachin Kulkarni ,1,0
+Martin Michlmayr ,1,0
+Guillaume Fougnies ,1,0
+Paweł Jarosz ,3,104
+Shikha Jain ,1,0
+Danesh Petigara ,4,494252
+Thomas Gardner ,1,0
+Martin Roth ,2,3438866
+Thomas Egerer ,2,14457847
+Raphael Assenat ,2,23608738
+Benjamin Larsson ,1,0
+"Cabiddu, Giovanni ",1,0
+"Atta, Ahsan ",1,0
+Krzysztof Koz?owski ,2,0
+Nicolas Sugino ,2,10519335
+zhangqing ,7,141669
+Patrick Boettcher ,9,2719116
+Eduard Gavin ,1,0
+Joseph Marrero ,2,4558787
+John Ernberg ,1,0
+Yoshihiko Mori ,1,0
+Josh Wu ,34,677823
+"Lad, Prabhakar ",7,3717248
+Peter Dedecker ,1,0
+Vasant Hegde ,5,3410281
+Tim Gardner ,4,4994700
+Jie Yang ,25,980505
+Rahul Pathak ,3,1675888
+Thorsten Leemhuis ,1,0
+Hakjoo Kim ,2,6042132
+Lukasz Duda ,2,14319768
+Stuart Henderson ,2,3
+Gavin Guo ,2,18273684
+Tariq Saeed ,3,6007385
+majd@mellanox.com ,10,0
+Alan Modra ,1,0
+Manfred Rudigier ,1,0
+Bongkyu Kim ,1,0
+Namjae Jeon ,5,4877313
+Junil Lee ,1,0
+Tim Sander ,1,0
+Weng Xuetian ,1,0
+Yevgeny Pats ,1,0
+Matthew Garrett ,4,7401717
+Vinit Agnihotri ,1,0
+Dominik Dingel ,18,1054423
+Raghavendra K T ,7,2032133
+Scott Moreau ,2,0
+huangdaode ,12,938670
+Doron Tsur ,4,2707843
+Vasily Kulikov ,3,5527450
+Jianqun xu ,2,3862177
+Martijn Coenen ,1,0
+Jordan Hargrave ,2,11328904
+Kyeongdon Kim ,1,0
+Tsutomu Itoh ,2,11835535
+Jiang Liu ,163,141847
+Nathan Zimmer ,2,17097354
+John Haxby ,2,9108232
+Norton.Zhu ,3,5702584
+Liu Jiang ,2,3781734
+Arnd Hannemann ,1,0
+Jamie Bainbridge ,1,0
+Svetlin Ankov ,1,0
+CQ Tang ,1,0
+Ulrich Weigand ,2,84
+Matti Vaittinen ,1,0
+Javier Gonzalez ,3,2289238
+yu-cheng yu ,4,0
+Karl Heiss ,3,4526760
+Enrico Scholz ,1,0
+Rafael Lourenço de Lima Chehab ,2,18571144
+willy tarreau ,1,0
+Anton Ivanov ,4,1870699
+DengChao ,5,565192
+Roosen Henri ,1,0
+"Boyer, Wayne ",1,0
+Ryan C. Underwood ,1,0
+Anil Veliyankara Madam ,1,0
+Carlos Falgueras García ,1,0
+Vasu Dev ,4,6481484
+Ilya Ledvich ,10,369907
+Dilip Kumar Uppugandla ,2,11571952
+Alexei Potashnik ,10,1603453
+Qiu Peiyang ,2,261214
+Yuan Sun ,8,1295356
+Alex Smith ,21,1087980
+wanghaibin ,1,0
+Marcus Weseloh ,3,2215839
+Timo Sigurdsson ,9,2009012
+Sam Tygier ,1,0
+Alexandru Moise ,13,560707
+Fengwei Yin ,2,2
+Pawel Kulakowski ,1,0
+Manoj Kumar ,9,742508
+Christophe Vu-Brugier ,4,6355164
+Jamie Pocas ,1,0
+Christoph Biedl ,2,3646077
+Wilfried Weissmann ,1,0
+Chin-Ran Lo ,3,81339
+Vince Weaver ,1,0
+Roman Gushchin ,4,1930490
+Sanyog Kale ,1,0
+Grant Likely ,3,5743521
+Jorge Fernandez Monteagudo ,1,0
+Adrien Schildknecht ,6,2506155
+Jack Yu ,1,0
+Zhigang Lu ,2,0
+Pierre-Loup A. Griffais ,4,5642696
+Jens Wiklander ,4,96
+Ouyang Zhaowei (Charles) ,1,0
+Edward Cragg ,1,0
+Ingi Kim ,8,2758893
+Markus Hofstaetter ,1,0
+Masatake YAMATO ,2,15381368
+Brad Campbell ,1,0
+Aurélien Francillon ,1,0
+Christophe Le Roy ,1,0
+Sifan Naeem ,17,1048896
+Pi-Cheng Chen ,8,1510966
+Leilk Liu ,27,532327
+Bhupesh Sharma ,14,457273
+Shahar Patury ,1,0
+Gabriel de Perthuis ,3,3349910
+Zheng Liu ,4,5035697
+Daniel J Blueman ,6,1709202
+Avinash Patil ,25,846315
+Zhaoyang Liu ,18,1194679
+Gary Wang ,5,2673398
+William Dauchy ,1,0
+Ani Sinha ,2,4937526
+Shikha Singh ,4,2
+chengang@emindsoft.com.cn ,1,0
+Kailang ,1,0
+Amy Wiles ,2,6349625
+Guo Zeng ,13,1597929
+"Mingarelli, Thomas ",1,0
+Oliver Freyermuth ,1,0
+David Christensen ,1,0
+Denis Turischev ,1,0
+Wim de With ,2,18143226
+Pravin B Shelar ,27,456296
+Nikesh Oswal ,3,5491260
+Vijay Kumar ,1,0
+Rob Gardner ,6,2398211
+Hongtao Jia ,5,1467669
+Tomáš Pilař ,1,0
+Chuyu Hu ,1,0
+Abel Vesa ,1,0
+Nelson Escobar ,7,0
+Leilei Zhao ,2,19921968
+Wengang Wang ,6,3518652
+li pengbo ,1,0
+Daniel Walker ,1,0
+Harninder Rai ,2,1
+Vijay Pandurangan ,1,0
+Mingkai Hu ,2,2
+Yunzhi Li ,4,6884740
+Gregory Herrero ,49,426415
+Andrew Honig ,1,0
+Syam Sidhardhan ,3,0
+Sean Cross ,2,1
+Shengjiu Wang ,12,1319713
+Andrzej Zaborowski ,5,754841
+Afzal Mohammed ,2,151063
+Wenkai Du ,1,0
+yangbo lu ,7,818120
+Punit Vara ,17,496995
+Moritz König ,3,0
+Jitendra Kumar Khasdev ,2,518
+Ranjith Thangavel ,4,1
+Erik E. Kahn ,1,0
+Yash Shah ,3,6042786
+Andrea Lowe ,1,0
+Joel Rosenzweig ,1,0
+Qiang Yu ,1,0
+Jammy Zhou ,46,385652
+David Woods ,1,0
+Dirk B ,2,0
+Luka Karinja ,1,0
+Julius Werner ,1,0
+Darren Hart ,9,2241789
+Yang Yingliang ,3,3416661
+Sebastien Guiriec ,1,0
+Elias Vanderstuyft ,3,2727498
+James Chen ,3,5843153
+Mario J. Rugiero ,1,0
+Chandra S Gorentla ,10,1428352
+Pascal Speck (Iktek) ,1,0
+Anton V. Shokurov ,1,0
+Doug Goldstein ,1,0
+Junghak Sung ,12,614017
+Roger Pau Monné ,2,5
+Ma Jun ,4,57
+Xiong Zhang ,4,3284896
+"Fang, Yang A ",20,1067448
+Rohit Ainapure ,3,152
+Karsten Merker ,8,2031221
+Kouei Abe ,4,782771
+Yoshifumi Hosoya ,1,0
+Gaku Inami ,2,0
+Alexander E. Patrakov ,1,0
+Roman Kubiak ,4,5250390
+Bill Huang ,8,330969
+Prem Mallappa ,2,1
+Prasanna Karthik ,30,584869
+Haren Myneni ,2,5509135
+Clement Calmels ,1,0
+Hubert Sokolowski ,1,0
+David Eccher ,1,0
+Böszörményi Zoltán ,1,0
+Ruslan Bilovol ,4,0
+"Singhai, Anjali ",6,172505
+qipeng.zha ,4,4887948
+Ulrich Ölmann ,1,0
+Måns Rullgård ,6,512211
+tadeusz.struk@intel.com ,1,0
+Tilman Schmidt ,6,2639515
+Hans Ulli Kroll ,6,3167071
+Guenther Hutzl ,3,9551314
+Mian Yousaf Kaukab ,34,601625
+Subbaraya Sundeep Bhatta ,3,8768799
+The etnaviv authors ,1,0
+Dmitry Eremin-Solenikov ,10,2074658
+Frediano Ziglio ,14,1285934
+Danilo Cesar Lemes de Paula ,6,2256682
+Vlad Yasevich ,6,1866299
+Olaf Hering ,7,950225
+Joe Schultz ,2,196
+Alan Ott ,1,0
+Liam Girdwood ,10,1917856
+Sam Protsenko ,1,0
+Zeng Xin ,1,0
+Amit Tomar ,1,0
+Roy Franz ,1,0
+Florian Achleitner ,1,0
+Dmitry Fleytman ,1,0
+Janusz Wolak ,2,232
+Dmitriy Vyukov ,2,7022021
+Joern Engel ,2,11665201
+Chen Jie ,1,0
+Anshul Garg ,5,3668085
+Oliver Stäbler ,1,0
+Harvijay Saini ,1,0
+Kosuke Tatsukawa ,6,1170579
+Danny Schweizer ,1,0
+Jason S. McMullan ,3,0
+Stefan Tatschner ,3,6604519
+Tom Hebb ,4,569573
+Doug Smythies ,4,6330213
+Andrei Emeltchenko ,5,454931
+Ken Xue ,4,1379380
+Anup Limbu ,1,0
+Guoying Zhang ,2,4127705
+Yonghui Zhang ,2,10975014
+Holger Hoffstätte ,2,1289435
+Gabriel Laskar ,21,257786
+Wayne Boyer ,6,103477
+Markus Mayer ,1,0
+Yichen Zhao ,1,0
+Jacob Tanenbaum ,4,1091761
+Peter Maydell ,1,0
+Gabriele Martino ,2,17665661
+Dmitry Krivenok ,2,0
+Harunobu Kurokawa ,1,0
+Praveen Diwakar ,1,0
+Omair M Abdullah ,5,3129465
+Mousami Jana ,1,0
+Ashley Towns ,2,55
+Chris Dunlop ,1,0
+Jungseok Lee ,5,3032249
+Kapil Hali ,4,74
+Seiichi Ikarashi ,2,8713728
+Sudarsana Kalluru ,10,390661
+Ariel Elior ,2,14276607
+John Blackwood ,1,0
+Venkatesh Srinivas ,1,0
+Michael Petlan ,4,740813
+Ravindra Lokhande ,1,0
+Zeng Zhaoxiu ,1,0
+lucien ,9,1093742
+Yuanfang Chen ,1,0
+Igor Mammedov ,7,2277343
+Daniel Pieczko ,29,648348
+Robert Kmiec ,1,0
+Sylvain ETIENNE ,1,0
+Sander Vermin ,2,5935840
+Dongdong Liu ,1,0
+Don Zickus ,35,533954
+Leonidas Da Silva Barbosa ,10,2134377
+Adam Welle ,1,0
+Amit Khatri ,1,0
+Michal Sojka ,4,1291806
+Vidyullatha Kanchanapally ,2,0
+Janusz.Dziedzic@tieto.com ,7,3743881
+Hiroshi Shimamoto ,5,904353
+"Wei, Gang ",1,0
+zhuo-hao ,1,0
+yzhu1 ,1,0
+Jérôme Pouiller ,1,0
+Yi Liu ,1,0
+Nikita Kiryanov ,15,50349
+Liviu Dudau (ARM) ,3,1
+Alex Goins ,2,0
+Anil Gurumurthy ,6,1505893
+monk.liu ,24,682546
+Patrick Brünn ,1,0
+Helin Zhang ,12,312655
+Dominik Behr ,1,0
+Hans Yang ,1,0
+Adrien Vergé ,2,14329
+Guillaume Delbergue ,1,0
+Stephan Günther ,3,870793
+Derek Basehore ,1,0
+"Dreyfuss, Haim ",2,12675595
+Golan Ben Ami ,1,0
+Dmitry Katsubo ,1,0
+Arianna Avanzini ,4,5102041
+Dmitry V. Krivenok ,3,3223
+Marc-André Lureau ,2,10920517
+Linda Knippers ,5,2717976
+Nicola Corna ,5,2115842
+Christian Fetzer ,3,153
+Eugene (jno) Dvurechenski ,8,0
+Namrta Salonie ,2,923611
+Hongzhou Yang ,11,1810311
+Jan Engelhardt ,1,0
+Jochen Schweflinghaus ,1,0
+Xu Cang ,1,0
+Ekaterina Tumanova ,2,66
+Suzuki K. Poulose ,46,347793
+Moshe Harel ,5,1127851
+sudip ,2,5699070
+Zhaolei ,15,666311
+Patrick McHardy ,1,0
+Philip Whineray ,1,0
+Egor Uleyskiy ,6,0
+Alan Tull ,13,1261231
+Nishanth Aravamudan ,8,1887052
+David Turner ,1,0
+Robert Fekete ,2,1899393
+Jim Davis ,4,4661024
+Werner Johansson ,6,861570
+Sachin Pandhare ,3,1867943
+Stefan Monnier ,2,3
+Michal Morawiec ,1,0
+Nina Schiff ,1,0
+Ian Morris ,17,528149
+Andrzej Kaczmarek ,1,0
+Jonas Jonsson ,2,114
+Takao Indoh ,3,4448252
+Mirza Krak ,3,7476771
+Andrew Chew ,1,0
+Ioana Ciornei ,40,111364
+leilk.liu@mediatek.com ,3,0
+Jason J. Herne ,2,5649386
+Conchúr Navid ,3,18
+Danny Huang ,1,0
+Michael van Slingerland ,1,0
+Jon Ringle ,7,665226
+Fan Chen ,1,0
+lixiubo ,2,2
+Jimmy Berry ,1,0
+Niranjana Vishwanathapura ,2,2047709
+Arno Bauernöppel ,1,0
+Walter Cheuk ,1,0
+Nate Weibley ,1,0
+Alberto Mardegan ,1,0
+Helmut Klein ,1,0
+Andrew Cooper ,1,0
+Mikhail Ulyanov ,7,1647299
+Daniel Walter ,1,0
+Ben Pope ,1,0
+Bastian Stender ,1,0
+Rajmohan Mani ,2,10267505
+Mythri P K ,2,2327667
+Matt Gingell ,4,0
+Martin Zhang ,1,0
+Damien Lespiau ,69,282323
+Ben McCauley ,1,0
+Prashant Laddha ,15,1236052
+Tommi Franttila ,1,0
+Junsu Shin ,5,2043453
+Alec Leamas ,1,0
+Graham Whaley ,3,5724130
+Lawrence Yu ,2,4407514
+Adam Sampson ,6,3526798
+Dragos Tatulea ,1,0
+Ben Cartwright-Cox ,1,0
+Jiada Wang ,5,4188935
+Drew Richardson ,6,3246600
+Charles_Rose@Dell.com ,1,0
+Maxim Sheviakov ,2,4646527
+Guillaume Gomez ,3,1547012
+David Gstir ,2,1
+Aleksander Morgado ,1,0
+Jean-Yves Faye ,1,0
+Anatol Pomozov ,9,1986311
+Hardik T Shah ,4,2904842
+Clemens Ladisch ,3,10
+sujayraaj ,1,0
+Ignacio Hernandez ,2,1711176
+Jareer Abdel-Qader ,2,1712605
+Abdul Hussain ,15,963748
+Rémy Oudompheng ,2,0
+Sunny Kumar ,2,10041463
+Arthur Kepner ,2,0
+Amarjargal Gundjalam ,15,122996
+Burcin Akalin ,21,95321
+Jason Liu ,2,447571
+Chris Lesiak ,3,7168874
+Giuseppe Barba ,6,1969453
+Dominique Martinet ,4,4511693
+Ryan Hsu ,1,0
+Bartosz Markowski ,10,2404502
+Kapileshwar Singh ,5,4138493
+Animesh Manna ,13,1269030
+Amanieu d'Antras ,4,2804322
+Eddie Kovsky ,3,2673800
+Sathyavathi M ,1,0
+Gregory Fong ,13,1316678
+Tzvetelin Katchov ,1,0
+Egbert Eich ,4,1396220
+Raphael Poggi ,1,0
+Vito Caputo ,1,0
+Jonathan Richardson ,2,7335995
+Eric Northup ,1,0
+Ravishankar N ,1,0
+Benjamin Rood ,9,73862
+Jack Wang ,4,2160630
+John Soni Jose ,9,1818034
+Chun Chen ,1,0
+Mathieu Desnoyers ,8,1772782
+Eric B Munson ,7,2507178
+Luca Porzio ,1,0
+Anthony Lineham ,1,0
+Adam Majer ,1,0
+Ivan Grimaldi ,2,9
+Krzysztof Mazur ,1,0
+Anish Bhatt ,23,539657
+Ben Segall ,2,13175578
+Hitoshi Mitake ,4,0
+Cody P Schafer ,1,0
+Martin Kletzander ,2,2912441
+Hui Zhu ,3,0
+Sergey SENOZHATSKY ,4,1947842
+Aaron Tomlin ,1,0
+"Suthikulpanit, Suravee ",17,780257
+Wang Long ,18,936463
+Ulrich Obergfell ,14,413077
+alex chen ,2,11587509
+Deepak S ,10,2102277
+Shobhit Kumar ,11,1581380
+Vivek Kasireddy ,1,0
+Kuba Pawlak ,7,984001
+Markus Brunner ,1,0
+Vincent Cuissard ,27,485482
+Vivek Natarajan ,5,1798432
+Manikanta Pubbisetty ,7,1488796
+Scott Matheina ,1,0
+Jassi Brar ,1,0
+JongHo Kim ,1,0
+Stefan Sørensen ,5,0
+libin ,1,0
+chandan ,5,3155123
+Chaitanya T K ,2,9421347
+Fida Mohammad ,2,8
+Jiri Prchal ,2,10265101
+Pierre Moreau ,1,0
+Samuel Pitoiset ,33,266861
+sumit.saxena@avagotech.com ,22,20512
+Neil Brown ,4,4015301
+"Zhu, Caifeng ",1,0
+Robert Sesek ,1,0
+Zhou Wang ,9,1931967
+Boris Barbulovski ,38,45121
+Thiago Macieira ,2,1669364
+Zhenzhong Duan ,1,0
+Sriram Raghunathan ,2,2934388
+Jon Medhurst \(Tixy\) ,1,0
+Laurent Meunier ,1,0
+Aniroop Mathur ,1,0
+Maneet Singh ,1,0
+Nadav Haklai ,6,1678520
+Ronny Hegewald ,1,0
+Ørjan Eide ,1,0
+Borun Fu ,1,0
+Micky Ching ,1,0
+Grigoryev Denis ,2,2187678
+Philippe De Muyter ,1,0
+Sanjeev Sharma ,1,0
+Scott Feldman ,74,201829
+Sean O. Stalley ,6,881282
+Ben Shelton ,1,0
+Kurt Kanzenbach ,8,0
+Sirnam Swetha ,4,0
+David Cohen ,1,0
+Émeric MASCHINO ,1,0
+Maharaja ,1,0
+yfw ,1,0
+John Linville ,6,1783648
+Guy Shapiro ,4,1695289
+Abhimanyu ,1,0
+Stephen Chandler Paul ,3,4464738
+Tiejun Chen ,7,1909470
+Dirk Steinmetz ,1,0
+Thomas Daniel ,1,0
+Caz Yokoyama ,1,0
+Vinayak Kale ,2,5940
+Munehisa Kamata ,1,0
+emmanuel.grumbach@intel.com ,1,0
+Gabríel Arthúr Pétursson ,1,0
+Dāvis Mosāns ,1,0
+Ketan Mukadam ,2,42
+Shirish Pargaonkar ,1,0
+Ian Mitchell ,1,0
+Bodo Stroesser ,1,0
+Firo Yang ,12,1360305
+Werner Pawlitschko ,1,0
+Daniel Granat ,1,0
+Antoine Ténart ,8,848351
+Alexandru M Stan ,10,1277878
+Weijun Yang ,5,3182298
+Yousong Zhou ,4,1532159
+Michael Grzeschik ,13,905482
+Tomasz Stanislawski ,1,0
+Jonas Hesselmann ,1,0
+Samuel Ortiz ,7,1999245
+Dustin Byford ,2,198
+Cristina Opriceana ,24,420451
+Teodora Baluta ,7,1612156
+Assaf Krauss ,4,2353496
+Alexander Bondar ,3,3530260
+Dennis Menschel ,6,196481
+Anton Tatuev ,1,0
+Mateusz Kulikowski ,430,34195
+Navya Sri Nizamkari ,6,115
+Nilesh Kokane ,3,0
+Frederic Saunier ,1,0
+Joshua Walgenbach ,1,0
+Sanne Wouda ,1,0
+Anand Moon ,11,1233644
+Vincent Donnefort ,4,1616970
+Andrew Shewmaker ,1,0
+Rohit Vaswani ,1,0
+Tan Xiaojun ,3,765228
+Stephane Viau ,14,884625
+Hai Li ,24,500005
+Andrew Y. Kuksov ,1,0
+David Mosberger-Tang ,1,0
+Karsten Keil ,2,0
+Himangi Saraogi ,5,3132345
+Hezi Shahmoon ,1,0
+Renato Westphal ,1,0
+"Arad, Ronen ",3,388045
+Adam Richter ,2,221301
+Sangwoo ,1,0
+Naga Irrinki ,1,0
+Dave Goodell \(dgoodell\) ,1,0
+Shan Hai ,1,0
+Samuel Li ,10,17
+Joe Jin ,1,0
+Gao feng ,1,0
+Philipp Kirchhofer ,2,3
+Stefan Achatz ,1,0
+Derek Foreman ,2,1
+Nikunj A Dadhania ,2,5515025
+Santtu Rekilä ,1,0
+Salva Peiró ,3,3373524
+Barry Song ,8,1046545
+Patrick Doyle ,1,0
+Hans-Werner Hilse ,4,3341026
+Zbigniew Jasinski ,1,0
+Sylvain Rochet ,3,1202854
+Michael Opdenacker ,4,169731
+Adrian Alonso ,6,288818
+Ricard Wanderlof ,13,470428
+Chuck Ebbert ,1,0
+lisheng ,1,0
+Chenny Xu ,1,0
+Chia-Sheng Chang ,1,0
+Arun Parameswaran ,6,183485
+Hon Ching \(Vicky\) Lo ,7,1786625
+Dmitry Kalinkin ,32,417336
+Andy Leiserson ,1,0
+Frederic Danis ,27,517061
+Lukas Czerner ,8,1622899
+"Lu, Baolu ",1,0
+Sakshi Bansal ,1,0
+Ronit Halder ,5,2055084
+poonam aggrwal ,2,1
+Roman Alyautdin ,1,0
+Thomas Hebb ,4,2678613
+Jingjing Wu ,2,869
+Andrej Ota ,1,0
+Jakub Pawlowski ,10,812892
+Romain Bezut ,1,0
+Sam bobroff ,5,2550923
+Tudor Laurentiu ,5,1162545
+Karen Xie ,5,3076112
+Ben Gardner ,1,0
+Il Han ,1,0
+"Kővágó, Zoltán ",1,0
+Jeff Johnson ,1,0
+Frans Klaver ,62,185368
+Christian Zander ,1,0
+Robin Ruede ,1,0
+Lars Svensson ,5,1489354
+Gerhard Bertelsmann ,6,447701
+Kalesh AP ,8,1933248
+Gerlando Falauto ,2,1
+Dmitry Shmidt ,1,0
+"Williams, Dan J ",1,0
+Parshuram Thombare ,1,0
+Stanislav Kholmanskikh ,5,2681291
+Paul McQuade ,1,0
+Binbin Zhou ,2,13637380
+Edward Jee ,2,1
+Aurelien Chanot ,1,0
+Ryan Van Quinlan ,1,0
+Robert Nelson ,1,0
+Manjeet Pawar ,1,0
+Arnaud Ebalard ,7,1657296
+Bill O'Donnell ,7,7856
+Jan Tulak ,2,63
+Zhaohongjiang ,1,0
+Pranith Kumar ,4,3947643
+Benoit Lemarchand ,1,0
+Siarhei Siamashka ,4,177803
+Keith A. Milner ,1,0
+Hartmut Knaack ,92,126219
+Ludovic Tancerel ,6,117639
+Dario Scarpa ,1,0
+Erik Lundgren ,1,0
+Lukasz Pawelczyk ,2,12724603
+Jay Sternberg ,1,0
+Wei Xu ,1,0
+Sarbojit Ganguly ,1,0
+Ido Shamay ,6,2269538
+David Ward ,11,1291800
+Peter E. Berger ,10,672175
+Vladimir Shulman ,2,5536519
+Matt Jared ,1,0
+Emilio Lopez ,1,0
+Paul M Stillwell Jr ,1,0
+Christian Melki ,1,0
+Yuvaraja Mariappan ,1,0
+Feng Kan ,9,1594114
+Andrey Gelman ,1,0
+Patrick Marlier ,1,0
+Jeff Squyres ,1,0
+xiaofeng.yan ,1,0
+Tyler Baker ,7,2337742
+Samuel Mendoza-Jonas ,3,2035157
+Sonika Jindal ,18,925149
+Peter Nørlund ,3,37464
+Yoichi Yuasa ,1,0
+Ritesh Raj Sarraf ,1,0
+Flavio Leitner ,1,0
+David B. Robins ,1,0
+Levente Kurusa ,1,0
+Oliver Schmitt ,1,0
+covici@ccs.covici.com ,1,0
+Julian Andres Klode ,1,0
+Abhimanyu Kapur ,1,0
+Aleksandar Mitev ,1,0
+Taichi Kageyama ,1,0
+Philip P. Moltmann ,5,0
+Xavier Deguillard ,4,1718036
+Rickard Strandqvist ,3,10835173
+Manuel Schölling ,1,0
+Siva Yerramreddy ,1,0
+Ulf Magnusson ,6,355769
+Alexander Inyukhin ,1,0
+Yao-Wen Mao ,3,2898995
+Kris Borer ,10,705577
+Rocco Folino ,1,0
+Maciek Borzecki ,3,33258
+shengyong ,12,969046
+Andrew Murray ,2,363777
+Roald Frederickx ,1,0
+Erik Andresen ,1,0
+Graham Eccleston ,1,0
+Adam YH Lee ,6,1401457
+John Flatness ,1,0
+Roman Bacik ,1,0
+Matt Bennett ,3,336336
+yitian ,1,0
+Sunil Kamath ,1,0
+Robin Gong ,2,6861694
+Diego Elio Pettenò ,1,0
+Yitian Bu ,1,0
+mike dupuis ,15,119431
+Bryan Paul ,1,0
+Arjun Krishna Babu ,2,6852473
+Victorien Vedrine ,1,0
+Steve Rutherford ,4,1
+Dirk Müller ,2,1691
+Rick Mann ,1,0
+Joe.C ,1,0
+Fabiano Fidêncio ,1,0
+Gianluca Renzi ,2,95861
+Łukasz Daniluk ,1,0
+Robert Beckett ,3,7294169
+Robb Manes ,1,0
+S Twiss ,10,1262307
+Tom Englund ,1,0
+Rolf Eike Beer ,2,46
+Rudhresh Kumar J ,1,0
+Michael Rossberg ,1,0
+Aniket Nagarnaik ,8,860830
+Jan Kaisrlik ,1,0
+Hiroaki KAWAI ,1,0
+Yadwinder Singh Brar ,2,12402544
+Alexander Couzens ,3,281797
+Bendik Rønning Opstad ,1,0
+Stefan Koch ,15,278478
+Jayavant Kenjalkar ,1,0
+Anton Gerasimov ,13,771661
+fangwei ,1,0
+duson ,2,7192223
+Ian Wilson ,1,0
+Eric Benard ,1,0
+Nikhil Badola ,10,1146020
+Yassin Jaffer ,1,0
+Ralph Benadski ,1,0
+Darek Zielski ,1,0
+Zahari Doychev ,2,3885602
+Andrew Milkovich ,1,0
+Georgios Toptsidis ,1,0
+huang lin ,1,0
+Wilson Kok ,2,10533120
+Alex Henrie ,1,0
+Jason Jin ,2,3233604
+WingMan Kwok ,10,562526
+Siva Mannem ,1,0
+Anatoli Antonovitch ,1,0
+Roger Pau Monne ,1,0
+Richard Purdie ,1,0
+Daniel Martin ,2,313847
+Donavan Lance ,1,0
+Kristen Carlson Accardi ,4,1970519
+Francois Romieu ,1,0
+Peter Seiderer ,4,3846647
+Sergey Dyasly ,1,0
+Tomer Barletz ,4,1437074
+Thomas Elste ,2,9989187
+Amber N. Adams ,1,0
+Ting-Chih Hsiao ,2,4053666
+Duson Lin ,5,2261104
+Daniel Drake ,5,2568143
+John Griffin ,1,0
+Knuth Posern ,1,0
+Patrice Vilchez ,1,0
+Bo Shen ,2,3622459
+Holger Busse ,1,0
+Henrik Austad ,2,699404
+Cyril Hrubis ,1,0
+Kyle Evans ,1,0
+Mitchel Humpherys ,2,11449685
+Ariel Nahum ,2,1527159
+Mark Hounschell ,1,0
+Simon Fels ,1,0
+Marcos Canán ,1,0
+Juston Li ,22,449150
+Alex Gartrell ,18,329324
+Lukasz Majewski ,2,0
+Marek Majtyka ,1,0
+Nicolas Joseph ,1,0
+Mike Dupuis ,4,0
+Lucas Georges ,1,0
+Sakshi Vaid ,2,216207
+Ann Koehler ,1,0
+Hiroya Nozaki ,1,0
+Zhang Zhen ,6,1918594
+Carl Frederik Werner ,1,0
+Samuel Dominguez Lorenzo ,1,0
+Jonathan (Zhixiong) Zhang ,5,800136
+Liu.Zhao ,1,0
+George Beshers ,2,7429190
+Junesung Lee ,2,1885285
+Ravi Teja Darbha ,8,739802
+Anders Fridlund ,3,2632634
+Matthew Needes ,3,4536526
+"Kim, Leo ",5,975994
+Johnny Kim ,13,800639
+Michał Bartoszkiewicz ,1,0
+Trung Thanh Le ,1,0
+Peng Sun ,3,0
+Maxime Lorrillere ,2,7505611
+Xiaolong Ye ,1,0
+Jonathon Jongsma ,1,0
+Michael Niewoehner ,1,0
+Hin-Tak Leung ,2,0
+Jan Harkes ,1,0
+Wei Liu ,3,4249866
+Gaurav K Singh ,3,2994740
+Francesco Lavra ,1,0
+Greta Zhang ,2,6
+Kolmakov Dmitriy ,1,0
+Wang Kai ,1,0
+Vishnu Pratap Singh ,2,6474886
+Eugene Shatokhin ,2,1186410
+Jianpeng Ma ,3,0
+Brad Hubbard ,1,0
+Benoît Canet ,3,3248506
+Denis V. Lunev ,3,1477843
+Fam Zheng ,1,0
+Chee Nouk Phoon ,2,10
+Bernd Weiberg ,2,7
+Johan Rastén ,2,7599592
+Nagarajkumar Narayanan ,1,0
+Richard Laing ,1,0
+Mitja Spes ,1,0
+Suneel Garapati ,8,1081731
+Bibek Basu ,1,0
+Niranjan Sivakumar ,1,0
+Adrian Huang ,2,0
+Henri Roosen ,1,0
+Andrea Scian ,2,0
+minkyung88.kim ,1,0
+Pavel Emelyanov ,1,0
+yangwenfang ,1,0
+Yiwen Jiang ,2,0
+WeiWei Wang ,2,6217502
+Sanidhya Kashyap ,2,4936750
+Alexander Spyridakis ,1,0
+Maciej Zuk ,1,0
+Fernando D S Lima ,1,0
+Harald Brinkmann ,1,0
+Shailendra Verma ,31,305073
+Neelesh Gupta ,1,0
+Janne Huttunen ,12,0
+Subhendu Sekhar Behera ,1,0
+Vishal Bhoj ,1,0
+Alexis Ballier ,2,1740367
+Jeffery Miller ,1,0
+Zhiyuan Lv ,4,80
+"Tan, Jui Nee ",1,0
+Vatika Harlalka ,1,0
+Tom Barbette ,1,0
+Naresh Kamboju ,3,206712
+Marius Tomaschewski ,2,22041
+Philip Downey ,2,255710
+Jialing Fu ,1,0
+Matt Turner ,1,0
+Adir Lev ,1,0
+Jenny Falkovich ,1,0
+David Dueck ,2,5108823
+Yotam Kenneth ,1,0
+Spencer Baugh ,1,0
+Shradha Shah ,24,417070
+Chas Williams ,2,423187
+Minjune Kim ,1,0
+Aaron Skomra ,3,5505499
+Michael Powell ,1,0
+Tony Jones ,1,0
+Mark Drayton ,1,0
+Srinidhi Kasagar ,3,1897514
+Adam Lee ,2,1928604
+Robin van der Gracht ,1,0
+Keith Mange ,7,1257632
+Arun Easi ,1,0
+Hiral Patel ,1,0
+Saurav Kashyap ,2,2863517
+jiang.biao2@zte.com.cn ,1,0
+Viswas G ,8,108
+shane.seymour ,1,0
+Scott Benesh ,1,0
+Joe Handzik ,4,2511553
+Zdenko Pulitika ,3,6
+Andreas Herz ,1,0
+Stefan Brüns ,1,0
+Guillermo A. Amaral ,1,0
+Alok Pandey ,1,0
+Maoguang Meng ,1,0
+huaibin Wang ,1,0
+Mukesh Kacker ,1,0
+David Teigland ,1,0
+Aleksa Sarai ,8,1220070
+Jan H. Schönherr ,2,9596988
+"Xiao, Nan ",1,0
+Yibo Cai ,2,0
+Shenwei Wang ,4,2377200
+Loganaden Velvindron ,1,0
+Nan Xiao ,1,0
+Mario Carrillo ,1,0
+Markus Osterhoff ,1,0
+"Thulasimani,Sivakumar ",7,603552
+Michael van der Westhuizen ,4,2198160
+Kyle Huey ,1,0
+Raducu Deaconu ,1,0
+Benjamin Cama ,2,1291299
+Dean Nelson ,1,0
+Yalin Wang ,1,0
+Vincent Pelletier ,1,0
+Christopher Oo ,2,1283696
+Richard Yao ,1,0
+Marcin Chojnacki ,1,0
+Jianwei Wang ,3,104
+Mario Smarduch ,2,159
+Bernhard Thaler ,11,914407
+Michael Jones ,1,0
+Christian Kujau ,1,0
+Rick Sherman ,1,0
+David Härdeman ,13,709387
+Gerhard Sittig ,1,0
+Andrew Schwartzmeyer ,3,269081
+Matthijs Kooijman ,1,0
+Philipp Hachtmann ,5,324389
+Yanchang Li ,1,0
+Hiral Shah ,1,0
+Emil Medve ,1,0
+Jaiprakash Singh ,2,852102
+Priyanka Jain ,1,0
+Igor Plyatov ,1,0
+David Zhang ,11,590302
+Karsten Blees ,1,0
+Rob Taylor ,2,18
+William Towle ,4,1186820
+jilai wang ,9,856197
+Wentao Xu ,6,295067
+Peter Poklop ,1,0
+Swee Hua Law ,5,13
+Jacob Kiefer ,2,2672749
+Adrian Remonda ,5,1641631
+Tomas Melin ,1,0
+jianwei wang ,1,0
+Antti Koskipaa ,1,0
+Su Kang Yin ,1,0
+Bertold Van den Bergh ,5,83228
+Matthias May ,1,0
+Ben YoungTae Kim ,1,0
+David Drysdale ,1,0
+Tim Bird ,4,435574
+Dongsu Park ,1,0
+Paul Walmsley ,2,2442904
+Cheolhyun Park ,2,8993690
+"Chen, Gong ",4,0
+Rick Jones ,3,939898
+Wei-Chun Chao ,2,1453674
+Ron Angeles ,1,0
+Venkat Venkatsubra ,1,0
+linux ,1,0
+Suresh Thiagarajan ,1,0
+Neha Bhende ,1,0
+Boyuan Zhang ,1,0
+Andrea Parri ,4,1489575
+Bruno Prémont ,1,0
+pradheep ,1,0
+Kozlov Sergey ,5,370
+Christian Löpke ,1,0
+Ruben Wisniewski ,1,0
+Haikun Wang ,6,1886191
+Antonio Borneo ,10,488447
+Inha Song ,4,2491423
+Constantine Shulyupin ,7,586327
+Nathan Lynch ,6,1142706
+Sebastian Krzyszkowiak ,1,0
+Łukasz Stelmach ,1,0
+Atzm Watanabe ,1,0
+Ben Young Tae Kim ,2,0
+Shahed Shaikh ,7,666639
+Harish Patil ,1,0
+Victoria Milhoan ,15,341674
+Steve Cornelius ,1,0
+Alban Crequy ,1,0
+Yipeng Yao ,1,0
+Shouming Wang ,1,0
+Leilei Shang ,1,0
+George Joseph ,1,0
+Daniel Machon ,6,567229
+Reyad Attiyat ,3,1745622
+Joo Aun Saw ,5,344822
+Pengyu Ma ,2,420239
+Shengzhou Liu ,8,815333
+Miguel Bernabeu Diaz ,8,194597
+Navy Cheng ,2,600965
+Fabio Falzoi ,13,365338
+Johannes Postma ,3,1027616
+Wenyu Zhang ,1,0
+Scott Shu ,1,0
+Benjamin Herr ,2,1207502
+Andreas Schultz ,1,0
+Mathieu Olivari ,5,1475212
+Adheer Chandravanshi ,1,0
+Tej Parkash ,2,5632756
+Marcus Gelderie ,1,0
+Ethan Zhao ,1,0
+Allen Xu ,1,0
+Anthoine Bourgeois ,9,752800
+Partha Pratim Mukherjee ,1,0
+Jürg Billeter ,1,0
+Saurabh Karajgaonkar ,12,9030
+Ankit Gupta ,1,0
+Lior Pugatch ,1,0
+Ted Chen ,1,0
+Jandy Gou ,3,750608
+Andy Sun ,1,0
+Huayi Li ,1,0
+Dongli Li ,1,0
+Xiaofeng Fei ,1,0
+Qipan Li ,22,410545
+Ye He ,2,0
+Lily.Li ,1,0
+Balaji T K ,1,0
+Marc Herbert ,1,0
+Dor Shaish ,1,0
+Lorenzo Nava ,1,0
+"Liang, Kan ",1,0
+Mayank Bareja ,2,265703
+Zoltán Lajos Kis ,5,1166349
+Kent Gustavsson ,1,0
+Satish Ashok ,8,512332
+Richard Watts ,1,0
+Glenn Griffin ,1,0
+Salvatore Mesoraca ,1,0
+Ni Wade ,1,0
+Radivoje Jovanovic ,4,75769
+Fupan Li ,1,0
+James Cowgill ,2,21685
+Benjamin Randazzo ,2,8202
+Alex Wilson ,2,52118
+Jignesh R Patel ,1,0
+Freeman Zhang ,1,0
+Ciprian Manea ,1,0
+Peter Huewe ,3,742747
+Kevin Darbyshire-Bryant ,2,226295
+Dave Perez ,1,0
+Mario Bambagini ,6,270222
+Pan Li ,5,0
+Mark Janssen ,1,0
+Remy van Elst ,1,0
+Ezra Savard ,1,0
+Brian Bunker ,1,0
+Luis Felipe Dominguez Vega ,1,0
+Chris Zankel ,2,84
+Tony Battersby ,1,0
+Dmitry Skorodumov ,1,0
+Sanjay Singh Rawat ,1,0
+Lennert Buytenhek ,11,560195
+Arron Wang ,7,734357
+Haggai Abramonvsky ,5,1193756
+Thomas Graf ,29,268830
+Bogdan Hamciuc ,2,0
+Jon Maloy ,1,0
+Jude.Lee ,2,70
+U. Artie Eoff ,1,0
+Perry Hung ,13,1396182
+Kukjin Kim ,15,416966
+Macpaul Lin ,4,0
+Николай Кудрявцев ,1,0
+Hanno Böck ,2,66
+David Liu ,1,0
+Qi Zhou ,1,0
+Alexander Drozdov ,2,6637453
+zilong.liu ,1,0
+Jim Quinlan ,1,0
+John Horan ,1,0
+Henrik Rydberg ,2,1
+Lars Westerhoff ,1,0
+Dave P Martin ,10,382660
+Rohit Thapliyal ,1,0
+Kamil Dudka ,2,0
+Kanoj Sarcar ,1,0
+Buţiu Alexandru Octavian ,4,1578226
+Ahmed Mohamed Abd EL Mawgood ,1,0
+Yang Bo ,1,0
+Jingju Hou ,1,0
+Joakim Tjernlund ,2,4583515
+Patrick Donnelly ,1,0
+Bo Svangård ,1,0
+Dongxing Zhang ,1,0
+Bernhard Bender ,1,0
+Seungyoun Ju ,1,0
+Varka Bhadram ,19,354330
+Mihai Donțu ,1,0
+Eugene Korenevsky ,1,0
+Steve Pennington ,1,0
+Antoine BLIN ,1,0
+Aaron Ouellette ,1,0
+Bernd Porr ,2,0
+Kolbeinn Karlsson ,1,0
+Kevin Strasser ,1,0
+Lai Jiangshan ,11,745643
+Aaron Raimist ,1,0
+Zhuang Jin Can ,3,0
+Brian Campbell ,1,0
+AMAN DEEP ,1,0
+Vivek Trivedi ,1,0
+Erik Kline ,2,5346114
+Yaniv Rosner ,1,0
+Arun Chandran ,2,3170142
+Dan Murphy ,6,1282962
+Dalon Westergreen ,1,0
+Edward Hyunkoo Jee ,1,0
+Russell Joyce ,1,0
+Rafa? Mi?ecki ,1,0
+Raphaël Poggi ,1,0
+Josef Gajdusek ,1,0
+Aparna Balasubramanian ,1,0
+Paolo Pisati ,1,0
+Pieter Hollants ,2,71094
+Andreas Faerber ,1,0
+Reinhard Speyerer ,2,65146
+Beata Michalska ,1,0
+dingtianhong ,1,0
+Umesh Tiwari ,2,6
+Gil Fruchter ,2,3
+Sergei Trofimovich ,1,0
+Alexey Firago ,1,0
+Andrea Galbusera ,1,0
+akpm@linux-foundation.org ,1,0
+zhengxing ,2,0
+Sandeep Paulraj ,1,0
+Jonathan Bell ,1,0
+Alex Porosanu ,1,0
+Ben Goz ,12,368411
+Mateusz Sylwestrzak ,1,0
+Viorel Suman ,1,0
+Fan Du ,3,0
+Horacio Mijail Anton Quiles ,1,0
+Iago López Galeiras ,2,1899555
+Krishna Chaitanya ,1,0
+Jesse Jones ,2,2
+Alexis Green ,4,1086892
+Wojciech Dubowik ,1,0
+Heloise NH ,1,0
+Tom Hughes ,1,0
+Cristian Ardelean ,1,0
+Tim Howe ,1,0
+Pedro Marzo Perez ,4,1343428
+Vasiliy Korchagin ,1,0
+Raphaël Teysseyre ,1,0
+YOSHIFUJI Hideaki ,1,0
+Anuradha Karuppiah ,3,0
+YOSHIFUJI Hideaki/吉藤英明 ,2,424008
+Richard Stearn ,1,0
+Shilpa Sreeramalu ,1,0
+David Milburn ,1,0
+Arne Fitzenreiter ,2,0
+Leung Timothy Chi King ,1,0
+Sreenath Madasu ,1,0
+Peter Karlsson ,5,581972
+Greg Donald ,2,2241724
+Joglekar Tejas ,4,1044393
+Nicholas Parkanyi ,2,0
+Henri Chain ,1,0
+Ken Cox ,1,0
+Pawel Orlowski ,1,0
+Santhosh Pai ,1,0
+Guillermo O. Freschi ,1,0
+Lukasz Janyst ,1,0
+SungEun Kim ,1,0
+Sébastien Hinderer ,4,184048
+Ash Charles ,2,1
+Arun Bharadwaj ,2,1787520
+Perry Hooker ,1,0
+Kris Baumann ,1,0
+Matt Mooney ,1,0
+Laurent Bigonville ,1,0
+yao mark ,2,1
+Enrico Mioso ,2,195232
+Ana Calinov ,2,96
+Kalesh Purayil ,3,0
+David Thomson ,2,0
+Olivier C. Larocque ,1,0
+Alex Ivanov ,1,0
+Jérémy Bobbio ,1,0
+Aleksey S. Kazantsev ,1,0
+Daniel Grimshaw ,1,0
+Sage Weil ,2,425
+Grigori Goronzy ,4,27567
+Steven J. Magnani ,1,0
+Chad Versace ,1,0
+Joël Porquet ,1,0
+Peter Dunning ,1,0
+Anda-Maria Nicolae ,8,571902
+Xi Wang ,4,1680348
+Mazhar Rana ,1,0
+Carol Soto ,3,1503208
+Kristina Martsenko ,1,0
+"Li, Liang Z ",2,854619
+Y Vo ,3,1570119
+Guilhem Lettron ,1,0
+Brent Adam ,1,0
+"Vutla, Lokesh ",6,33818
+Pankaj Dev ,2,99568
+Walter Lozano ,3,2454692
+Kenneth Westfield ,2,0
+Zhao Junwang ,1,0
+Sergey Kiselev ,1,0
+bsegall@google.com ,1,0
+Sunghoon Cho ,8,257986
+Sergej Sawazki ,8,671394
+Uwe Geuder ,1,0
+Takeshi Yoshimura ,5,823919
+Howard Chen ,1,0
+Zhu Guihua ,3,497124
+"Niu,Bing ",1,0
+Peter Sanford ,1,0
+Roman Byshko ,2,10
+Nibble Max ,1,0
+Ian Molton ,5,759891
+Pablo Anton ,1,0
+Damian Hobson-Garcia ,1,0
+Sei Fumizono ,1,0
+Nobuhiro Iwamatsu ,4,1522199
+Jan Roemisch ,1,0
+Claudio Cappelli ,1,0
+Abdiel Janulgue ,4,216
+Vaidyanathan Srinivasan ,1,0
+Dennis Yang ,1,0
+Tomasz Duszynski ,3,2408467
+Shixin Zeng ,1,0
+Angga ,1,0
+Roger Lucas ,1,0
+Szabolcs Nagy ,1,0
+John Harrison ,58,140952
+James C Boyd ,4,1008542
+Shilong Wang ,1,0
+gongzg ,1,0
+Sascha Wildner ,1,0
+"Stevens, Nick ",1,0
+Dominic Sacré ,1,0
+Lars Poeschel ,3,390261
+Josh Triplett ,3,220931
+Pekka Enberg ,16,265865
+Thiébaud Weksteen ,5,0
+HATAYAMA Daisuke ,2,0
+Robin Holt ,2,0
+Yang Dongsheng ,1,0
+Marek Marczykowski-Górecki ,1,0
+Phong Tran ,14,350501
+Shreyas Bhatewara ,4,176435
+Gilad Ben-Yossef ,2,467082
+Noel Power ,1,0
+Damian Eppel ,1,0
+Yanir Lubetkin ,15,141845
+preeti ,1,0
+Maxim Uvarov ,1,0
+Alex Dowad ,2,2236827
+Marcin Jabrzyk ,2,0
+Hong Zhiguo ,1,0
+Zhihui Zhang ,1,0
+Jan Kardell ,1,0
+Jingoo Han ,2,114958
+Tianping Fang ,1,0
+Selvan Mani ,1,0
+Silvan Wicki ,2,537610
+Thomas Langer ,1,0
+Jens Freimann ,2,3978684
+"Palik, Imre ",2,356114
+Christoph Paasch ,1,0
+Hiroaki SHIMODA ,1,0
+Claudiu Zissulescu ,1,0
+Dan Haab ,1,0
+Zhaowei Yuan ,1,0
+Martin Liška ,3,1001326
+Kevin Mulvey ,2,1
+Zhiqiang Zhang ,2,2683649
+Isaac Assegai ,20,86796
+Jimmy Devine ,1,0
+Eric W Biederman ,1,0
+Florian Grandel ,21,101921
+Harout Hedeshian ,1,0
+Raimund Roth ,1,0
+Ohad Ben-Cohen ,1,0
+Gnanachandran Dhanapal ,2,447967
+Gaston Gonzalez ,3,402975
+Daniele Alessandrelli ,2,0
+Ilya Faenson ,2,17276
+Chan-yeol Park ,2,1964075
+Dean Lee ,4,156172
+Frodo Lai ,1,0
+Yuanhan Liu ,3,6
+Daniel Lockyer ,1,0
+Hisashi Nakamura ,1,0
+Ding Wang ,1,0
+Vincent Wan ,3,40256
+Dominik Brodowski ,3,1398990
+ChengYi He ,1,0
+matt mooney ,1,0
+Chandra Konduru ,19,318587
+Todd Broch ,1,0
+Jeremiah Mahler ,1,0
+Chunfan Chen ,1,0
+Kenneth Klette Jonassen ,6,720476
+Naidu Tellapati ,1,0
+Sergey Popovich ,16,183657
+Alessandro Parini ,2,0
+Dogukan Ergun ,1,0
+Ryan Underwood ,1,0
+Fernando Guzman Lugo ,1,0
+Soeren Grunewald ,2,0
+Joakim Nordell ,1,0
+Harisangam Sharvari ,2,540
+Ranjit Waghmode ,2,24
+Terry Junge ,1,0
+Arun Ramamurthy ,4,913803
+Tim Kryger ,1,0
+Prabu Thangamuthu ,1,0
+Janet Liu ,2,5568
+Gustavo Zacarias ,1,0
+Jan Klötzke ,5,125
+Milos Vyletel ,2,1191236
+Christoffer Holmstedt ,1,0
+Piotr S. Staszewski ,1,0
+Tommi Rantala ,1,0
+Madhusudhanan Ravindran ,3,38447
+Qiaowei Ren ,1,0
+Tomas Krcka ,1,0
+Thomas de Beauchene ,1,0
+Jeffrey Rogers ,1,0
+Mark A. Greer ,12,125032
+Oleg Zhurakivskyy ,1,0
+Alexey Sokolov ,1,0
+Tolga Ceylan ,2,2726216
+Chaitanya Dhere ,3,1567
+Douglas Barbonaglia Sathler Figueiredo ,1,0
+Abhishek Sharma ,3,387
+Hari Prasath Gujulan yyElango ,1,0
+Xavier Roche ,1,0
+Chris Hanna ,2,0
+Aparna Karuthodi ,1,0
+Josh Stone ,1,0
+David Moore ,1,0
+Aleksei Volkov ,1,0
+Hao Liu ,1,0
+Juergen Gier ,1,0
+Nikhil Devshatwar ,1,0
+Jaganath Kanakkassery ,1,0
+Sergiy Kibrik ,1,0
+Bintian Wang ,7,27874
+Jack Xiao ,3,68282
+Marek Milkovic ,1,0
+Chao Xie ,3,10
+Gaël PORTAY ,12,275541
+Rojhalat Ibrahim ,2,243394
+David Malcolm ,1,0
+kongxinwei ,2,303
+Alexey Skidanov ,3,645369
+Yair Shachar ,9,25
+Sébastien Szymanski ,3,651120
+Thomas Niederprüm ,12,54058
+Xie Xiaobo ,1,0
+Peter Chubb ,1,0
+Nilesh Javali ,1,0
+dashsriram ,1,0
+Laurentiu Palcu ,4,290475
+Hiep Cao Minh ,3,1125066
+Dan Ehrenberg ,1,0
+Teunis van Beelen ,1,0
+Chenxi Mao ,1,0
+hujianyang ,2,12
+Neil McKee ,1,0
+Nan Jia ,2,59550
+Sumit.Saxena@avagotech.com ,10,66708
+Dennis O'Brien ,1,0
+Goffredo Baroncelli ,2,274
+Vladimirs Ambrosovs ,4,37888
+Michael Ring ,2,0
+Ludek Hlavacek ,1,0
+Lee Campbell ,1,0
+Webb Scales ,10,2575
+Xudong Chen ,1,0
+Drew Fustini ,1,0
+Rama Kiran Kumar Indrakanti ,2,1
+Fanael Linithien ,1,0
+Stephen Cameron ,9,123
+Ramneek Mehresh ,2,571471
+Robert Schlabbach ,1,0
+Abhishek Bist ,1,0
+Ilias Tsitsimpis ,5,0
+Michel von Czettritz ,1,0
+Sai.Jiang ,1,0
+Jaime Arrocha ,2,1777794
+Colin Cronin ,6,198572
+Marcus Folkesson ,1,0
+chaehyun lim ,1,0
+Sorin Dumitru ,2,284663
+Mike Shuey ,8,24
+"Gunasundar, Balamanikandan (B.) ",1,0
+Ankit Garg ,1,0
+Vasily Khoruzhick ,2,40
+Jim Cromie ,1,0
+Mikhail Klementyev ,1,0
+Milan Broz ,1,0
+Lidong Zhong ,1,0
+Eran Harary ,1,0
+Peter Crosthwaite ,3,963343
+Gobinda Charan Maji ,1,0
+Patrick Daly ,1,0
+Christian Riesch ,1,0
+Martin Liska ,1,0
+Nam T. Nguyen ,1,0
+Andrew Andrianov ,1,0
+Martin Kelly ,1,0
+Sri Jayaramappa ,1,0
+Kevin Lo ,1,0
+Vincent Fann ,1,0
+Shao Fu ,5,1
+Chin-ran Lo ,1,0
+Lauri Kenttä ,1,0
+Toshi Kikuchi ,2,1
+Dylan Reid ,2,4
+Martin Walch ,1,0
+Amaury Denoyelle ,2,0
+Nikhil Rao ,1,0
+Ira Snyder ,1,0
+Matt Campbell ,1,0
+David Fries ,1,0
+Dmitry Khromov ,1,0
+Krzysztof Kolasa ,1,0
+Ramakrishna Pallala ,3,217600
+Urs Fässler ,1,0
+Saravana Kannan ,1,0
+Rajeev Kumar ,1,0
+Badhri Jagan Sridharan ,1,0
+Jane Wan ,1,0
+Roberto Sassu ,4,239843
+long.wanglong ,1,0
+Wenlin Kang ,1,0
+Zhiwu Song ,1,0
+jean-michel.hautbois@vodalys.com ,2,1665412
+Arnaud Patard (Rtp) ,1,0
+Andy Zhou ,4,19983
+Suchang Ko ,2,689251
+Andrew Lewycky ,4,976
+Martin Townsend ,1,0
+Jin Qian ,2,954673
+Michael Wang ,24,0
+Adir Kuhn ,1,0
+Kuppuswamy Sathyanarayanan ,7,411164
+Zhichang Yuan ,1,0
+Evgeniy Dushistov ,2,1
+Brendan McGrath ,1,0
+Brian Haley ,1,0
+Venkata Duvvuru ,3,0
+Zhang Chunyu ,1,0
+Thomas Reitmayr ,1,0
+Justin Cormack ,2,55235
+Kast Bernd ,1,0
+Chen Hanxiao ,4,575086
+Joe Konno ,1,0
+Michael Niewöhner ,1,0
+Vince Bridgers ,2,1
+Gong Zhaogang ,1,0
+"Allan, Bruce W ",2,1139223
+Arno Tiemersma ,2,159
+Nick Kossifidis ,11,1
+Fathi Boudra ,2,78783
+Rebecca N. Palmer ,1,0
+Todd Previte ,8,271346
+Suketu Shah ,6,382752
+A.Sunil Kamath ,3,957089
+Preeti U Murthy ,2,265975
+Palmer Dabbelt ,3,70
+Maxime Coquelin stm32 ,1,0
+Leonardo Carreras ,1,0
+Guillaume Brogi ,1,0
+Nickolaus Woodruff ,1,0
+Robin Karlsson ,1,0
+Carlos E. Garcia ,1,0
+Rupesh Tatiya ,1,0
+Michal Malý ,15,0
+Sylvain BERTRAND ,1,0
+James Sullivan ,2,1
+Guido Martínez ,2,0
+Semen Protsenko ,3,85727
+Sonic Zhang ,1,0
+Shawn Landden ,1,0
+Srikanth Thokala ,8,0
+Robert Callicotte ,1,0
+Andreas Sandberg ,1,0
+Ajay Thomas ,1,0
+Petr Holasek ,1,0
+David Riley ,1,0
+Steven Toth ,6,54
+Brian Bian ,1,0
+"Ong, Boon Leong ",1,0
+Roberta Dobrescu ,4,614017
+Gbenga Adalumo ,1,0
+Andrei Maresu ,1,0
+Charlie Wong Super ,2,0
+Andreas Theodosiou ,1,0
+Dzmitry Sledneu ,1,0
+Karim BEN BELGACEM ,1,0
+Jingwu Lin ,1,0
+Nicolas Dechesne ,2,9
+Jin Yao ,1,0
+Sonny Rao ,1,0
+firo yang ,1,0
+Andreas Fleig ,1,0
+Hagen Paul Pfeifer ,1,0
+Josef Holzmayr ,1,0
+Vianney le Clément de Saint-Marcq ,6,159056
+Satheeshakrishna M ,8,84213
+Sagar Kamble ,2,241806
+Jeff McGee ,4,0
+Sumit Singh ,1,0
+Daisy Sun ,1,0
+Sujith Manoharan ,1,0
+Marek Puzyniak ,5,7
+SenthilKumar Jegadeesan ,1,0
+Matt Porter ,33,410104
+Bill Pemberton ,3,58

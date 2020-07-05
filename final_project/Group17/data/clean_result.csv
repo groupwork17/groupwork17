@@ -1,0 +1,4872 @@
+,author,times,average
+0,Linus Torvalds ,174,266246
+1,Hauke Mehrtens ,59,853094
+2,Luuk Paulussen ,2,26549028
+3,Christopher Covington ,3,9654648
+4,Linus Walleij ,758,67667
+5,Thomas Falcon ,24,2213722
+6,Florian Fainelli ,254,196695
+7,Peng Tao ,36,1316994
+8,Arjun V ,1,0
+9,Helge Deller ,82,487775
+10,Gao Feng ,30,419458
+11,Dan Carpenter ,537,94769
+12,Roger Shimizu ,17,2798397
+13,Daniele Palmas ,11,3351622
+14,추지호 ,1,0
+15,Jeff Layton ,112,425484
+16,Stephan Mueller ,47,1122175
+17,Kefeng Wang ,65,548457
+18,Matthew Wilcox ,75,609724
+19,Sergey Senozhatsky ,71,709371
+20,Nicolai Stange ,51,924811
+21,Stefan Agner ,147,336854
+22,Jorik Jonker ,7,1448416
+23,stephen hemminger ,33,1185161
+24,Alex ,2,1797501
+25,Alex Deucher ,536,90610
+26,tim ,8,5466810
+27,Horia Geantă ,13,2987150
+28,Romain Perier ,35,1367300
+29,Marc Kleine-Budde ,29,1791361
+30,John David Anglin ,12,4049092
+31,Dan Williams ,310,156302
+32,Vishal Verma ,30,1577140
+33,Mohamad Haj Yahia ,36,533074
+34,Saeed Mahameed ,79,615478
+35,Kamal Heib ,12,2125677
+36,Nikita Yushchenko ,9,812819
+37,Venkat Duvvuru ,6,8889302
+38,Andy Lutomirski ,347,148437
+39,Marcelo Ricardo Leitner ,71,696785
+40,Jonas Gorski ,31,1537418
+41,Niklas Cassel ,19,2349288
+42,Miklos Szeredi ,156,297183
+43,Dmitry Vyukov ,21,1909117
+44,David Carrillo-Cisneros ,12,1422140
+45,Peter Zijlstra (Intel) ,10,5548052
+46,Piotr Luc ,6,863991
+47,Jiri Slaby ,77,658221
+48,Herbert Xu ,393,131128
+49,"Mintz, Yuval ",6,685913
+50,Pan Bian ,11,14095
+51,Kees Cook ,149,316628
+52,Suraj Deshmukh ,1,0
+53,Alexander Duyck ,228,221388
+54,Michal Hocko ,157,301013
+55,Nicolas Pitre ,78,646647
+56,Eric Dumazet ,481,104870
+57,Sabrina Dubroca ,36,1220606
+58,Michal Kubeček ,11,4245143
+59,Chris Brandt ,11,2550007
+60,Kristian Evensen ,6,5718121
+61,Artem Savkov ,6,7900656
+62,Sowmini Varadhan ,73,660685
+63,Eli Cooper ,12,2452006
+64,Philip Pettersson ,1,0
+65,Lino Sanfilippo ,12,1960520
+66,Arnd Bergmann ,1059,46458
+67,Sudeep Holla ,131,383969
+68,Johan Hovold ,655,87126
+69,Tobias Klauser ,29,1840144
+70,Thomas Gleixner ,480,106422
+71,Sven Eckelmann ,183,262553
+72,allan ,1,0
+73,Stephane Grosjean ,3,18493631
+74,Nicholas Piggin ,67,147838
+75,Andrew Donnellan ,40,1043621
+76,Kirill A. Shutemov ,171,290997
+77,Chris Wilson ,816,65039
+78,Takashi Iwai ,331,156170
+79,Jérémy Lefaure ,2,3749396
+80,Jeremy Linton ,27,1725631
+81,Jason Wang ,35,1226162
+82,Grygorii Strashko ,101,490684
+83,Josef Bacik ,69,702872
+84,Hongxu Jia ,1,0
+85,Guillaume Nault ,32,1312706
+86,Hariprasad Shenai ,155,322496
+87,Mike Rapoport ,184,223673
+88,Haishuang Yan ,15,1552855
+89,Ping Cheng ,20,2671006
+90,Daniele Di Proietto ,1,0
+91,David Michael ,1,0
+92,Harsh Jain ,2,13311241
+93,Tobias Brunner ,4,3573367
+94,Matthew Auld ,16,1411048
+95,Yi Zhao ,1,0
+96,Michel Dänzer ,37,1327021
+97,Arnaldo Carvalho de Melo ,533,94302
+98,Jiri Pirko ,220,223742
+99,Zumeng Chen ,1,0
+100,Cyrille Pitchen ,71,665670
+101,Amir Vadai ,37,1317538
+102,Florian Westphal ,223,224448
+103,Jan Glauber ,36,703717
+104,Yuriy Kolerov ,6,8072506
+105,Uwe Kleine-König ,149,327124
+106,Aaron Lu ,13,3933291
+107,Peter Wu ,12,2799685
+108,Benjamin Herrenschmidt ,75,590244
+109,Eryu Guan ,16,2960928
+110,Sachin Prabhu ,13,3732392
+111,Rex Zhu ,222,147897
+112,Michael Holzheu ,31,1629382
+113,David Ahern ,154,327143
+114,Tushar Dave ,13,3476026
+115,Jack Morgenstein ,18,2494815
+116,Tariq Toukan ,41,818355
+117,Roi Dayan ,3,14712340
+118,Borislav Petkov ,269,191279
+119,Vineet Gupta ,273,177715
+120,Julian Wollrath ,1,0
+121,Martin Blumenstingl ,35,1387717
+122,Daniel Borkmann ,210,238859
+123,Ben Hutchings ,56,896737
+124,Josh Poimboeuf ,157,214814
+125,Peter Foley ,1,0
+126,Jon Paul Maloy ,117,419623
+127,Al Viro ,637,76883
+128,Geliang Tang ,233,202972
+129,Miroslav Lichvar ,1,0
+130,Andrew Lunn ,194,256008
+131,Rafael J. Wysocki ,229,216416
+132,Jarkko Nikula ,98,483027
+133,Robin Murphy ,108,441106
+134,Mauricio Faria de Oliveira ,11,3375388
+135,Viresh Kumar ,769,86235
+136,Matt Redfearn ,64,629294
+137,Paul Burton ,266,170384
+138,Michael Ellerman ,180,273595
+139,Aneesh Kumar K.V ,179,259183
+140,Andrey Ryabinin ,65,740386
+141,Arvind Yadav ,12,1201422
+142,Roman Mashak ,4,2848362
+143,Andy Gospodarek ,11,4866358
+144,Radim Krčmář ,58,859968
+145,Nicolas Schichan ,19,2711190
+146,Paolo Abeni ,46,784514
+147,Russell King ,460,113882
+148,Liping Zhang ,66,320219
+149,Anders K. Pedersen ,2,3276835
+150,Laura Garcia Liebana ,36,699927
+151,Marc Zyngier ,352,132907
+152,Matthias Brugger ,13,3645161
+153,Jitao Shi ,3,11517715
+154,Bibby Hsieh ,10,1032221
+155,Oliver O'Halloran ,16,1383703
+156,Dmitry Safonov ,25,1592164
+157,Mike Galbraith ,6,8273083
+158,WANG Cong ,74,657943
+159,Zhang Shengju ,19,1400138
+160,Christophe Jaillet ,34,1470718
+161,Randy Dunlap ,38,1198720
+162,Kirill Esipov ,2,1440491
+163,Johannes Thumshirn ,61,815867
+164,Icenowy Zheng ,17,762925
+165,Chris Metcalf ,64,788214
+166,Song Hongyan ,3,776015
+167,Benjamin Tissoires ,69,719589
+168,Oliver Hartkopp ,16,3071689
+169,Loic Pallardy ,2,682778
+170,Miroslav Urbanek ,1,0
+171,Suganath Prabu S ,1,0
+172,Hannes Reinecke ,163,291866
+173,Johan Hedberg ,110,438431
+174,Maxime Ripard ,222,224922
+175,Peter Zijlstra ,379,132538
+176,Johannes Weiner ,79,572067
+177,Oleg Nesterov ,112,417703
+178,Mika Westerberg ,107,456856
+179,Chen-Yu Tsai ,229,217714
+180,Benjamin Coddington ,23,2021456
+181,Peter Robinson ,6,6296112
+182,Christoph Hellwig ,578,84903
+183,Jacob Pan ,13,3426501
+184,Alexander Shishkin ,114,416044
+185,Jaehoon Chung ,37,1108738
+186,Andy Shevchenko ,370,124765
+187,H.J. Lu ,5,12204816
+188,Yu-cheng Yu ,12,2010887
+189,John Johansen ,21,568674
+190,Theodore Ts'o ,71,680540
+191,Eric Biggers ,36,1058777
+192,Alex Hemme ,1,0
+193,Paolo Bonzini ,203,240533
+194,Ignacio Alvarado ,1,0
+195,David Woodhouse ,53,781080
+196,Alexey Khoroshilov ,43,1168855
+197,Pavel Machek ,15,3524865
+198,Babu Moger ,7,3642685
+199,Trond Myklebust ,349,132893
+200,Dave Kleikamp ,4,14169709
+201,Stefan Hajnoczi ,16,3083066
+202,Michael Walle ,5,10009492
+203,Felix Hädicke ,4,2451146
+204,Wei Huang ,13,3727752
+205,Janakarajan Natarajan ,1,0
+206,Johannes Berg ,352,142242
+207,Michael Neuling ,50,941638
+208,Wei Yongjun ,326,154555
+209,Cédric Le Goater ,4,15336064
+210,Dave Airlie ,71,658499
+211,Tony Lindgren ,210,232700
+212,Brian Norris ,197,247008
+213,Abhi Das ,10,5390631
+214,Andreas Gruenbacher ,111,422245
+215,Dmitry Torokhov ,112,433934
+216,Steve Wise ,39,1212991
+217,Yonatan Cohen ,8,756425
+218,Matan Barak ,61,771508
+219,Daniel Jurgens ,14,1817050
+220,Eli Cohen ,35,1054136
+221,Moshe Lazer ,3,11236672
+222,Maor Gottlieb ,69,497953
+223,Majd Dibbiny ,26,1835334
+224,Mark Bloch ,21,808091
+225,Leon Romanovsky ,33,1379726
+226,Joao Pinto ,23,985997
+227,Lv Zheng ,190,251841
+228,Keno Fischer ,1,0
+229,Keith Busch ,117,405168
+230,Stephen Boyd ,465,105935
+231,Sunil Goutham ,64,739208
+232,Radha Mohan Chintakuntla ,4,13701816
+233,Mike Marshall ,66,545051
+234,Paul Jakma ,1,0
+235,Heikki Krogerus ,66,734663
+236,Azhar Shaikh ,1,0
+237,Kan Liang ,63,735481
+238,David Herrmann ,23,2203356
+239,Ville Syrjälä ,712,72404
+240,Pablo Neira ,14,3670753
+241,Alexander Kochetkov ,9,3177362
+242,Giuseppe CAVALLARO ,22,1444981
+243,Hangbin Liu ,5,10240119
+244,Dennis Dalessandro ,123,314982
+245,Jianxin Xiong ,21,1079199
+246,Dasaratharaman Chandramouli ,10,5421451
+247,Jakub Pawlak ,8,2294549
+248,Krzysztof Blaszkowski ,2,3
+249,Ira Weiny ,98,487361
+250,Easwar Hariharan ,32,1074541
+251,Tadeusz Struk ,95,506080
+252,Monk Liu ,47,524020
+253,Peter Chen ,125,395695
+254,Jia Jie Ho ,1,0
+255,Marek Szyprowski ,190,250773
+256,Benjamin Beichler ,1,0
+257,Felix Fietkau ,62,787524
+258,"Pedersen, Thomas ",4,1846935
+259,Filip Matusiak ,1,0
+260,Petr Vandrovec ,2,651442
+261,Ido Schimmel ,198,207715
+262,Steven Rostedt (Red Hat) ,144,332999
+263,Alexei Starovoitov ,110,444478
+264,Xin Long ,73,404379
+265,Baoquan He ,26,1666631
+266,Hoan Tran ,11,1244089
+267,H. Nikolaus Schaller ,35,1415998
+268,Max Filippov ,78,577116
+269,Thomas Tai ,2,323588
+270,Colin Ian King ,282,176405
+271,Mauro Carvalho Chehab ,1175,41667
+272,Scott Mayhew ,9,6047761
+273,Axl-zhang ,1,0
+274,Sagi Grimberg ,153,309941
+275,Bart Van Assche ,178,266167
+276,Dave Jiang ,107,406042
+277,Nicholas Mc Guire ,76,682204
+278,Bert Kenward ,20,2019077
+279,Arkadi Sharshevsky ,1,0
+280,Yotam Gigi ,19,629148
+281,Michael Chan ,113,299028
+282,Mike Frysinger ,5,9310619
+283,Stephen Suryaputra Lin ,1,0
+284,Guenter Roeck ,242,192064
+285,Sven Ebenfeld ,1,0
+286,Matt Fleming ,63,746950
+287,Baruch Siach ,40,1230169
+288,Martin KaFai Lau ,54,914786
+289,Jens Axboe ,86,566000
+290,Andrey Grodzovsky ,5,6078627
+291,Hugh Dickins ,43,923885
+292,Matias Bjørling ,88,509869
+293,Fabio Estevam ,286,173131
+294,Sean Young ,13,3991186
+295,Jakub Kicinski ,85,548556
+296,Greg Thelen ,7,7604190
+297,Mike Kravetz ,28,1618050
+298,Junxiao Bi ,22,1467414
+299,Hans de Goede ,350,139728
+300,Naoya Horiguchi ,38,1180739
+301,Jann Horn ,26,1565080
+302,Shiraz Hashim ,1,0
+303,Alexey Dobriyan ,23,2041008
+304,Vlastimil Babka ,77,574833
+305,Tetsuo Handa ,27,1343087
+306,Mario Kleiner ,37,1337414
+307,Eugeniy Paltsev ,2,4873417
+308,Andreas Larsson ,2,16947345
+309,Peter Rosin ,45,799442
+310,Wolfram Sang ,473,99295
+311,Ilya Dryomov ,150,292503
+312,"Yan, Zheng ",129,352492
+313,Ram Amrani ,19,1214170
+314,Shawn Lin ,138,284627
+315,Lance Richardson ,12,2408242
+316,Chuck Lever ,199,230021
+317,Hui Wang ,21,2173581
+318,Allan Chou ,1,0
+319,Mathias Krause ,40,1137916
+320,Richard Weinberger ,109,442180
+321,John Allen ,6,5183902
+322,Timur Tabi ,19,2309563
+323,Adam Ford ,26,1192819
+324,Sebastian Andrzej Siewior ,93,526219
+325,Rafał Miłecki ,170,282445
+326,Benjamin Poirier ,18,2322196
+327,Maciej Żenczykowski ,4,1166901
+328,Soheil Hassas Yeganeh ,16,1261070
+329,Sumit Saxena ,26,1264945
+330,Yazen Ghannam ,28,1259787
+331,Namhyung Kim ,231,210385
+332,Lucas Stach ,137,333596
+333,Marcin Wojtas ,30,1360400
+334,Gregory CLEMENT ,67,697642
+335,Varun Prakash ,45,454971
+336,Bjorn Helgaas ,280,170703
+337,Noam Camus ,39,1197828
+338,Andrew Shadura ,2,20996739
+339,Joerg Roedel ,197,233280
+340,Phil Reid ,24,1399210
+341,Heiko Carstens ,166,288013
+342,Fabian Mewes ,1,0
+343,Michael S. Tsirkin ,108,444472
+344,Nicolae Rosia ,1,0
+345,Dave Gerlach ,45,1030742
+346,Shuah Khan ,79,557531
+347,Anna Schumaker ,20,2346185
+348,Dhinakaran Pandiyan ,5,1269459
+349,Lyude ,57,522914
+350,Christophe JAILLET ,37,1156511
+351,Ulf Hansson ,97,469966
+352,Adrian Hunter ,289,167385
+353,Lukas Wunner ,106,416929
+354,Marc Dietrich ,1,0
+356,Ian Abbott ,197,245451
+357,Andrew Jeffery ,18,990136
+358,Huacai Chen ,25,1917132
+359,Doug Brown ,1,0
+360,Oliver Neukum ,72,593828
+361,David Lechner ,25,745649
+362,Catalin Marinas ,55,819625
+363,"Ooi, Joyce ",1,0
+364,Srinivas Pandruvada ,74,656265
+366,Axel Haslam ,28,1058120
+367,Randy Li ,8,1098155
+368,Tero Kristo ,74,617260
+369,Lokesh Vutla ,24,1795292
+370,Vladimir Zapolskiy ,202,233584
+371,Huy Nguyen ,2,22563010
+372,Or Gerlitz ,70,663229
+373,Shih-Wei Li ,1,0
+374,Andre Przywara ,92,503121
+375,Archit Taneja ,152,305068
+376,Stéphan Rafin ,1,0
+377,James Hogan ,269,173867
+378,Maciej W. Rozycki ,56,787338
+379,Guilherme G. Piccoli ,13,3134624
+380,Alexey Brodkin ,50,887242
+381,Stefan Richter ,6,6290269
+382,Gerd Hoffmann ,28,1746810
+383,Owen Hofmann ,2,21207261
+384,Dongli Zhang ,2,170884
+385,Jim Mattson ,4,3199039
+386,Sylwester Nawrocki ,52,521678
+387,Rob Clark ,86,518300
+388,Scott Wood ,46,994385
+389,Emil Lundmark ,1,0
+390,Bill Kuzeja ,1,0
+391,Jason Gunthorpe ,44,958183
+392,David Jeffery ,2,37284038
+393,Sreekanth Reddy ,42,912431
+394,tang.junhui ,3,1542255
+395,Isaac Boukris ,1,0
+396,Iyappan Subramanian ,55,881335
+397,Stephen Hemminger ,33,1422472
+398,Felipe Balbi ,211,223735
+399,Laura Abbott ,52,831459
+400,Alexandre TORGUE ,43,502523
+401,Patrice Chotard ,37,668237
+402,Ray Jui ,56,843739
+403,Masahiro Yamada ,373,125450
+404,Lars-Peter Clausen ,348,137795
+405,Lukas Resch ,1,0
+406,Srinivas Kandagatla ,193,248800
+407,Jakub Sitnicki ,25,1870522
+408,Christian König ,461,98438
+409,Grazvydas Ignotas ,28,1498324
+410,Alexander Usyskin ,84,547469
+411,Larry Finger ,74,585443
+412,Jarkko Sakkinen ,57,775658
+413,Rob Herring ,103,466481
+414,Vivek Gautam ,2,3837277
+415,Mark Lord ,1,0
+416,Markus Elfring ,259,165196
+417,Juergen Gross ,57,722683
+418,Konstantin Neumoin ,2,7789010
+419,Ladi Prosek ,2,20935191
+420,Will Deacon ,185,256042
+421,Jan Kara ,185,257456
+422,Lorenzo Bianconi ,8,5468373
+423,Ashok Raj ,9,5517897
+424,Boris Brezillon ,255,179866
+425,Geert Uytterhoeven ,916,52061
+426,pravin shelar ,6,1419601
+427,Roger Quadros ,103,438446
+428,Govindarajulu Varadarajan ,14,3272402
+429,David S. Miller ,86,530300
+430,Ivan Vecera ,45,1076113
+431,Eugenia Emantayev ,10,3033838
+432,Erez Shitrit ,15,2919872
+433,shamir rabinovitch ,4,5902750
+434,Willem de Bruijn ,35,1359457
+435,Ganesh Goudar ,4,3340860
+436,Yuan Yao ,9,4062646
+437,Craig Gallek ,27,1666690
+438,Noa Osherovich ,16,2452273
+439,Paul Blakey ,5,1527161
+440,NeilBrown ,119,395795
+441,Tomasz Majchrzak ,8,1696199
+442,Shaohua Li ,76,621349
+443,Jon Medhurst (Tixy) ,5,10012622
+444,Charles Keepax ,204,234136
+445,Stephen Barber ,5,10825891
+446,"Sodhi, VunnyX ",1,0
+447,Gabriel Krisman Bertazi ,19,2469905
+448,Jorgen Hansen ,7,5355652
+449,Gerald Schaefer ,17,2441771
+450,Martyn Welch ,9,4391532
+451,Tvrtko Ursulin ,127,384773
+452,Paulo Zanoni ,116,390026
+453,Daniel Stone ,24,2029044
+454,Imre Deak ,236,208805
+455,Jani Nikula ,290,172203
+456,Richard Genoud ,4,9357739
+457,Ido Yariv ,4,14946002
+458,Imre Palik ,1,0
+459,Jiri Olsa ,425,111629
+460,Dimitri Sivanich ,3,7637246
+461,Daniel Mentz ,4,9108385
+462,Martin Kepplinger ,41,1033126
+463,Leon Yu ,2,33637921
+464,Aristeu Rozanski ,6,7173459
+465,Aruna Ramakrishna ,1,0
+466,Joe Perches ,217,221861
+467,Alexander Polakov ,1,0
+468,Mark Rutland ,169,274852
+469,Andrey Konovalov ,10,4336294
+470,Joonsoo Kim ,82,499291
+471,Huaibin Wang ,1,0
+472,Jamal Hadi Salim ,31,1561552
+473,Guilherme G Piccoli ,2,2051035
+474,David Ertman ,1,0
+475,Emil Tantilov ,36,1141415
+476,Zefir Kurtisi ,11,4193110
+477,Chris Mason ,23,1849220
+478,John W. Linville ,15,3288470
+479,Ulrich Weber ,1,0
+480,Tony Luck ,38,1195843
+481,Scot Doyle ,5,11575855
+482,Francois Berder ,1,0
+483,Sergei Shtylyov ,230,190272
+484,Steve Shih ,2,14404699
+485,Aaron Brice ,2,1237433
+486,Denys Vlasenko ,110,439378
+487,Nava kishore Manne ,6,607852
+488,Valentin Rothberg ,43,1110037
+489,Marcel Hasler ,1,0
+490,David Howells ,338,156594
+491,Ching Huang ,9,3576361
+492,Ewan D. Milne ,3,10626834
+493,J. Bruce Fields ,40,1127766
+494,Vlad Tsyrklevich ,3,571481
+495,Neeraj Upadhyay ,1,0
+496,Hanjun Guo ,24,1997826
+497,Yisheng Xie ,4,537107
+498,Ming Lei ,55,863602
+499,Janosch Frank ,15,2042741
+500,Arnaud Pouliquen ,19,2409432
+501,Steven Rostedt ,31,1453094
+502,Felix Monninger ,1,0
+503,James Clarke ,1,0
+504,Rusty Russell ,17,2649989
+505,Jean Delvare ,66,716095
+506,Javier Martinez Canillas ,553,82803
+507,Greg Ungerer ,38,1153794
+508,Ralf Ramsauer ,5,4228789
+509,Jan Beulich ,51,891690
+510,David Wu ,18,1309873
+511,Ruqiang Ju ,1,0
+512,Stefan Wahren ,71,669333
+513,Long Li ,2,27607965
+514,Lorenzo Stoakes ,14,3203300
+515,Kashyap Desai ,1,0
+516,Dmitry Tunin ,15,3155378
+518,Amir Goldstein ,1,0
+519,Atish Patra ,3,1128007
+520,Arve Hjønnevåg ,3,11040331
+521,Wang Xiaoguang ,14,817088
+522,Goldwyn Rodrigues ,29,1418525
+523,Bard Liao ,51,940300
+524,Jon Hunter ,186,248836
+525,Yoshihiro Shimoda ,95,500784
+526,Punit Agrawal ,17,2907016
+527,Bryan Paluch ,1,0
+528,Wenyou Yang ,36,1013846
+529,Sinan Kaya ,35,755815
+530,Paul Mackerras ,48,946706
+531,Darrick J. Wong ,178,239230
+532,Brian Foster ,85,528879
+533,Vaibhav Jain ,12,3997042
+534,Liu Gang ,11,2738925
+535,Jason A. Donenfeld ,14,3052208
+536,Sudarsana Reddy Kalluru ,41,535720
+537,Sandhya Bankar ,93,225967
+538,Manish Chopra ,33,1310357
+539,Paul Moore ,24,1769624
+540,Segher Boessenkool ,2,1854418
+541,jimqu ,9,3476664
+542,Evan Quan ,1,0
+543,Tom St Denis ,119,237059
+544,Linus Lüssing ,27,1780333
+545,Sudip Mukherjee ,381,123162
+546,Axel Lin ,299,157357
+547,Jiri Bohac ,3,265498
+548,Rich Felker ,40,799304
+549,Christian Borntraeger ,74,630080
+550,Pablo Neira Ayuso ,120,380443
+551,Nicolas Dichtel ,72,644538
+552,Mathias Nyman ,65,686315
+553,Gavin Shan ,145,316320
+554,Elad Raz ,29,1291904
+555,Philipp Zabel ,163,288541
+556,David Arcari ,1,0
+557,Ard Biesheuvel ,241,191173
+558,James Morse ,59,671754
+559,Jacob Siverskog ,5,7226613
+560,Alex Thorlton ,9,2968117
+561,Eric Ernst ,1,0
+562,Roger Willcocks ,1,0
+563,Eric Sandeen ,42,1069067
+564,Nicholas Bellinger ,75,591809
+565,Dinesh Israni ,1,0
+566,Andy Grover ,16,2614489
+567,Azael Avalos ,57,820685
+568,Patrick Scheuring ,1,0
+569,Toshi Kani ,96,479631
+570,Michał Narajowski ,12,235107
+571,Renat Valiullin ,2,1230783
+572,Eric Garver ,4,4100297
+573,Lukasz Odzioba ,6,6410100
+574,Vincent Guittot ,5,9571204
+575,Stephen Rothwell ,35,1280707
+576,Heiner Kallweit ,152,289815
+577,Frederic Barrat ,22,1300730
+578,Luca Coelho ,41,820429
+579,LABBE Corentin ,90,504907
+580,Sara Sharon ,139,315525
+581,Haim Dreyfuss ,15,2727406
+582,Andrew Lutomirski ,1,0
+583,Junzhi Zhao ,3,13
+584,Mike Snitzer ,117,383680
+585,Nikolay Aleksandrov ,154,279832
+586,Tahsin Erdogan ,7,7208808
+587,John Youn ,80,496411
+588,Liu Ying ,43,1090117
+589,Shawn Guo ,42,1059275
+590,Eric Anholt ,136,334440
+591,Scott Branden ,1,0
+592,Jisheng Zhang ,139,323099
+593,Junjie Mao ,3,18584246
+594,Dave Hansen ,140,308586
+595,Heinz Mauelshagen ,63,706666
+596,Jitendra Bhivare ,62,335162
+597,Chris Packham ,4,11816573
+598,Vladimir Murzin ,51,851963
+599,Tai Nguyen ,6,6857108
+600,Lorenzo Pieralisi ,53,881878
+601,Stefan Tauner ,1,0
+602,Anton Blanchard ,65,679667
+603,Wang Nan ,260,179148
+604,Liu Bo ,52,850641
+605,Alan Stern ,37,1268598
+606,Haibo Chen ,21,1801516
+607,Michal Nazarewicz ,22,1928229
+608,Heiko Stuebner ,135,347589
+609,Shyam Saini ,3,6949787
+610,Sebastian Ott ,83,512941
+611,Alexandre Belloni ,209,214660
+612,Oleg Drokin ,399,115271
+613,Aditya Shankar ,2,4895194
+614,Daniel Vetter ,578,83248
+615,Jonathan Liu ,4,11267343
+616,Joonas Lahtinen ,29,1625927
+617,Nikolay Borisov ,40,1152312
+618,Dave Jones ,10,2659371
+619,Vivek Goyal ,27,1426772
+620,Vegard Nossum ,67,399533
+621,Brian King ,16,2881292
+622,Jesse Brandeburg ,83,532510
+623,Steve French ,46,911366
+624,Ralf Baechle ,62,681179
+625,kbuild test robot ,78,614004
+626,Brenden Blanco ,20,2366897
+627,Yuval Mintz ,137,303078
+628,Alexander Alemayhu ,1,0
+629,Vadim Fedorenko ,1,0
+630,Longpeng(Mike) ,1,0
+631,Wanpeng Li ,59,719759
+632,Pavel Shilovsky ,4,6559747
+633,Germano Percossi ,1,0
+634,David Vrabel ,35,1331971
+635,Tom Herbert ,135,340771
+636,Bjørn Mork ,38,833560
+637,Jiri Benc ,99,397117
+638,Paul Durrant ,18,2067487
+639,Adam Williamson ,1,0
+640,Marty Faltesek ,5,7574494
+641,Jérôme de Bretagne ,2,18707733
+642,Taesoo Kim ,1,0
+643,Jaegeuk Kim ,305,148982
+644,Arindam Nath ,8,2766710
+645,Marek Olšák ,15,3117912
+646,Nicolai Hähnle ,16,1814320
+647,Aaro Koskinen ,128,361361
+648,Takashi Sakamoto ,203,217478
+649,Stephen Bates ,5,607036
+650,Aurelien Aptel ,2,6614257
+651,Ross Lagerwall ,13,3135527
+652,Thomas Petazzoni ,137,319708
+653,Marcin Nowakowski ,11,405592
+654,Oleksij Rempel ,24,1897100
+655,Filipe Manana ,123,352195
+656,Brian Masney ,2,1888455
+657,Michael Braun ,1,0
+658,Marcos Paulo de Souza ,2,689367
+659,Sangwon Jee ,6,4098746
+660,John Siddle ,1,0
+661,Jonathan Corbet ,41,1167391
+662,Petr Mladek ,27,1609207
+663,Mathieu Maret ,1,0
+664,Thomas Garnier ,17,782078
+665,Davidlohr Bueso ,57,806126
+666,Manfred Spraul ,2,36630601
+667,Alexander Potapenko ,18,1016148
+668,Maciej S. Szmigiero ,42,1091953
+669,Hidehiro Kawai ,17,2182065
+670,Jason Cooper ,8,574440
+671,Alexandre Bounine ,46,389720
+672,Ales Novak ,3,15157730
+673,Michael Kerrisk (man-pages) ,9,2687369
+674,Tomohiro Kusumi ,20,1573201
+675,Ian Kent ,15,1295533
+676,Ross Zwisler ,67,680152
+677,Guozhonghua ,4,6541952
+678,Xose Vazquez Perez ,4,5841092
+679,Bartosz Golaszewski ,37,1207991
+680,Andy Whitcroft ,2,36687768
+681,SeongJae Park ,22,1201276
+682,Kishon Vijay Abraham I ,68,596840
+683,murray foster ,1,0
+684,Laurent Dufour ,10,4899875
+685,Mark Brown ,82,560983
+686,Tobias Jakobi ,43,831758
+687,Emese Revfy ,10,1200363
+688,Thomas Hellstrom ,62,612249
+689,Charmaine Lee ,5,9181026
+690,Baole Ni ,1,0
+691,Shawn Lee ,1,0
+692,Baoyou Xie ,91,57501
+693,Andrej Krutak ,16,282362
+694,Marek Vasut ,72,634199
+695,Stefan Christ ,7,2958187
+696,Steinar H. Gunderson ,3,10295597
+697,Ioan-Adrian Ratiu ,6,7663851
+698,Suresh Reddy ,19,2489812
+699,Sriharsha Basavapatna ,12,3474268
+700,Paul Gortmaker ,377,119327
+701,Luis de Bethencourt ,193,206671
+702,Salah Triki ,38,864050
+703,Nathan Sullivan ,8,6157615
+704,Alex Sidorenko ,1,0
+706,John Stultz ,53,1209597
+707,zijun_hu ,9,767991
+708,zhong jiang ,7,1023988
+709,Wei Fang ,10,4536378
+710,Andrea Arcangeli ,52,676084
+711,Wanlong Gao ,1,0
+712,Rasmus Villemoes ,141,321051
+713,Andrew Morton ,48,916778
+714,Huang Ying ,8,1236440
+715,Reza Arbab ,5,1579007
+716,Tim Chen ,5,8914034
+717,Simon Guo ,10,4761298
+718,Srikar Dronamraju ,19,2288344
+719,Xishi Qiu ,11,3629819
+720,Vladimir Davydov ,76,542637
+721,Joseph Qi ,42,1012142
+722,Bhaktipriya Shridhar ,203,125484
+723,Doug Ledford ,19,2165514
+724,Yuval Shaia ,5,9744815
+725,kernel@kyup.com ,1,0
+726,Aviv Heller ,16,704413
+727,Yishai Hadas ,24,1517430
+728,Alex Vesker ,10,1020335
+729,Prarit Bhargava ,42,1091584
+730,Jes Sorensen ,352,129444
+731,Ethan Hsieh ,1,0
+732,Nelson Chang ,10,392407
+733,Jon Mason ,67,517398
+734,Anoob Soman ,1,0
+735,Mike Looijmans ,19,2357293
+736,Raju Lakkaraju ,5,1275781
+737,Laurent Pinchart ,366,119311
+738,Mugunthan V N ,25,1677715
+739,Parav Pandit ,10,4856518
+740,Jaedon Shin ,31,1361714
+741,Olof Johansson ,11,3859901
+742,Sathyanarayana Nujella ,5,6331156
+743,Boris Ostrovsky ,30,1230377
+744,Ley Foon Tan ,17,2538099
+745,Amitkumar Karwar ,67,643506
+746,netmonk@netmonk.org ,1,0
+748,Nambong Ha ,1,0
+749,Donghyun Kim ,1,0
+750,Kim SeonYoung ,1,0
+751,Mikulas Patocka ,43,979701
+752,Andi Kleen ,116,394686
+753,Pierre Morel ,8,5556240
+754,Ravi Bangoria ,17,1423734
+755,Julia Lawall ,436,104039
+756,sylvain.bertrand@gmail.com ,1,0
+757,Justin Maggard ,6,7295084
+758,Deepa Dinamani ,26,1236775
+759,Ben Gamari ,6,6114417
+760,Rajat Jain ,1,0
+761,Huang Rui ,76,571518
+762,Richard Fitzgerald ,58,764409
+763,Peter Ujfalusi ,279,161381
+764,Lee Jones ,190,239555
+765,Marcin Niestroj ,9,1865763
+766,Steve Twiss ,21,2085913
+767,Lu Baolu ,21,1908870
+768,Krzysztof Kozlowski ,483,95739
+769,Keerthy ,51,758833
+770,Bin Gao ,6,1763549
+771,Yang Ling ,5,230769
+772,Fabian Frederick ,99,457251
+773,Álvaro Fernández Rojas ,44,1042481
+774,Naveen N. Rao ,38,1211334
+775,Cyril Bur ,43,1008226
+776,Ingo Molnar ,373,120111
+777,Madalin Bucur ,15,2594732
+778,Igal Liberman ,20,2224385
+779,Tomeu Vizoso ,45,1018639
+780,Emilio López ,17,2219654
+781,Andrew Collins ,1,0
+782,Petr Kulhavy ,23,838822
+783,Laszlo Ersek ,3,14449975
+784,Stefan Assmann ,14,2739618
+785,Shmulik Ladkani ,12,1161769
+786,Sukadev Bhattiprolu ,31,1365744
+787,Matti Kurkela ,1,0
+788,John Crispin ,100,285926
+789,David Sterba ,147,289141
+790,Omar Sandoval ,41,1055366
+791,Salil ,8,3750231
+794,Daode Huang ,24,731882
+795,Kejian Yan ,28,623455
+796,lipeng ,3,15317973
+797,Andreas Gerstmayr ,1,0
+798,Xie XiuQi ,8,6110490
+799,Brian Boylston ,3,3347507
+800,Jacob Keller ,161,255621
+801,Bjorn Andersson ,156,289824
+802,Gavin Schenk ,1,0
+803,Pascal Eberhard ,1,0
+804,Srinivas Ramana ,1,0
+805,Ksenija Stanojevic ,42,1081970
+806,Ivan Safonov ,193,159970
+808,Muraru Mihaela ,1,0
+809,shyam saini ,1,0
+810,Georgiana Rodica Chelu ,12,95503
+811,Fernando Apesteguia ,3,871265
+812,Bhumika Goyal ,93,226983
+813,Elizabeth Ferdman ,3,837
+814,Namrata A Shettar ,22,60637
+815,Carlos Palminha ,39,534416
+816,Wayne Porter ,3,467
+817,Sergio Paracuellos ,120,11820
+818,Moshe Green ,7,604057
+819,Tudor Ambarus ,9,4755000
+820,Gary R Hook ,20,932446
+821,Marcelo Cerri ,4,141
+822,Jan Stancek ,10,4013005
+823,Ondrej Mosnáček ,1,0
+824,Rui Miguel Silva ,97,558452
+825,Mark Greer ,20,2486519
+826,popcornmix ,1,0
+827,Mike Marciniszyn ,94,374526
+828,Dean Luick ,110,270443
+829,Harish Chegondi ,43,587557
+830,Sebastian Sanchez ,23,1262071
+831,Tymoteusz Kielan ,2,5244069
+832,sayli karnik ,23,70823
+833,Tyler Hicks ,4,11789893
+834,Jon Bailey ,1,0
+835,Misael Lopez Cruz ,11,4197069
+836,Seth Forshee ,14,1333521
+837,Chao Yu ,239,185958
+838,Tiezhu Yang ,7,6082464
+839,Sheng Yong ,7,5114761
+840,Yunlei He ,16,2828610
+841,Weichao Guo ,1,0
+842,Eric Ren ,6,5741142
+843,Frank Sorenson ,9,788132
+844,Vishwanath Pai ,5,4019665
+845,Aaron Conole ,14,2438438
+846,Niklas Söderlund ,47,563394
+847,Eric W. Biederman ,264,166927
+848,Javi Merino ,35,1307571
+849,Andrzej Hajda ,199,222942
+850,Milo Kim ,23,1802368
+851,Cao jin ,2,13398793
+852,Toke Høiland-Jørgensen ,6,298400
+853,Ayala Beker ,26,1420997
+854,David Spinadel ,13,3744128
+855,KarimAllah Ahmed ,2,39513577
+856,Frederic Weisbecker ,61,751353
+857,Dietmar Eggemann ,12,3008620
+858,Tang Yuantian ,16,2759866
+859,Sascha Silbe ,9,3520369
+860,Stefan Haberland ,21,1922073
+861,Eric Engestrom ,49,384399
+862,Calvin Owens ,12,3216113
+863,Eric Whitney ,6,8055740
+864,David Decotigny ,23,1882725
+865,Jia He ,9,2916303
+866,Greg Kroah-Hartman ,485,139405
+867,gmail ,1,0
+868,Milton Miller ,1,0
+869,Vivien Didelot ,211,200855
+870,Ondrej Zary ,88,413927
+871,Zang Leigang ,1,0
+872,Joel Stanley ,18,2579641
+873,Alistair Popple ,22,2043915
+874,Kuninori Morimoto ,552,81683
+875,Richard Guy Briggs ,21,2112126
+876,Steven J. Hill ,7,2004579
+877,Olga Kornievskaia ,8,5999946
+878,Masami Hiramatsu ,127,355904
+879,Mathieu Poirier ,96,449131
+880,Simon Que ,2,12165657
+881,Tejun Heo ,331,130844
+882,Nicolas Iooss ,39,1177134
+883,Laurent Georget ,1,0
+884,Nicolas Ferre ,56,783561
+885,Masanari Iida ,87,511132
+886,Balbir Singh ,7,3235313
+887,Li Zhong ,3,1530831
+888,Andrey Smirnov ,25,537026
+889,Yongji Xie ,5,2827182
+890,Flora Cui ,38,770934
+891,Mark Fasheh ,10,4571928
+892,Bastian Hecht ,1,0
+893,George G. Davis ,1,0
+894,Aleksey Makarov ,20,2200160
+895,Leif Lindholm ,4,10140463
+896,Lawrence Brakmo ,5,3074237
+897,Jouni Malinen ,14,1986295
+898,Chaehyun Lim ,557,73773
+899,Miaoqing Pan ,41,939145
+900,Rajkumar Manoharan ,70,717286
+901,Mohammed Shafi Shajakhan ,41,758274
+902,Darryl T. Agostinelli ,4,44738
+903,Zach Brown ,6,5211790
+904,Martin Alonso ,1,0
+905,Tim Sell ,72,537055
+906,Hadar Hen Zion ,25,1710215
+907,Matthew Kilgore ,1,0
+908,Lee Duncan ,5,7763842
+909,Kyuho Choi ,1,0
+910,Todd Fujinaka ,16,2953372
+911,Jon Derrick ,18,2440154
+912,Ke Wang ,1,0
+913,Christoffer Dall ,49,889298
+914,jbaron@akamai.com ,1,0
+915,Ben Greear ,20,1519047
+916,Vasanthakumar Thiagarajan ,42,1201540
+917,Masaki Ota ,3,4389542
+918,Philippe Reynes ,117,375938
+919,Eric Nelson ,13,3471775
+920,Yannis Damigos ,5,109200
+921,Daeseok Youn ,52,780026
+922,Eric Salem ,1,0
+923,Grygorii Maistrenko ,1,0
+924,David Binder ,29,519283
+925,Jon Frisch ,13,107910
+926,Matt Kilgore ,1,0
+927,Sabitha George ,1,0
+928,Matias Mucciolo ,3,647408
+929,wang di ,58,229269
+930,Quentin Lambert ,9,5724299
+931,Bryan O'Donoghue ,136,324849
+932,Chase Metzger ,5,8975438
+933,Vaibhav Agarwal ,74,365047
+934,Thor Thayer ,64,703599
+935,Sascha Hauer ,73,612254
+936,Scott Telford ,3,751066
+937,Anirudha Sarangi ,2,435886
+938,Alexey Starikovskiy ,1,0
+939,"Rusk, Mark ",1,0
+940,Luis R. Rodriguez ,109,404070
+941,Vitaly Kuznetsov ,149,287010
+943,Kyle Jones ,1,0
+944,Yonglong Wu ,1,0
+945,Tomi Valkeinen ,199,213340
+946,Mickaël Salaün ,19,1340865
+947,Wei Ni ,28,1267650
+948,dawei.chien@mediatek.com ,3,6854612
+949,Laxman Dewangan ,221,203629
+950,Marc Gonzalez ,22,1454855
+951,Bui Duc Phuc ,3,642428
+952,Zhang Rui ,6,7834132
+954,Jia Hongtao ,4,4454431
+955,Caesar Wang ,107,366223
+956,Eduardo Valentin ,32,1405074
+957,Rajendra Nayak ,32,1402851
+958,Thomas Huth ,18,2275579
+959,Vinod Koul ,220,204599
+960,Ville Ranki ,1,0
+961,Siebren Vroegindeweij ,1,0
+962,Hugh Kang ,1,0
+963,Vincent Stehlé ,11,3244888
+964,Gayatri Kammela ,6,4303094
+965,Yong Zhi ,9,3403512
+966,Gonçalo Salazar ,1,0
+967,Emmanuel Grumbach ,127,357538
+968,Alex Williamson ,55,799799
+969,Ziyuan Xu ,2,5482645
+970,Baolin Wang ,19,1949019
+971,Ai Kyuse ,3,9236883
+972,Thierry Reding ,392,112995
+973,Jin Guojun ,1,0
+974,Guodong Xu ,16,2093707
+975,Daniel Glöckner ,2,1802537
+976,Jungseung Lee ,3,11505737
+977,Michael Weiser ,2,2974334
+978,Jean-Francois Moine ,12,3401804
+979,Douglas Anderson ,72,518427
+980,Christopher Freeman ,1,0
+981,Uri Yanai ,1,0
+982,Ben Dooks ,112,392319
+983,Bamvor Jian Zhang ,25,1425114
+984,Vasily Averin ,7,6606171
+985,Sam Van Den Berge ,1,0
+986,Cathy Luo ,4,14577645
+987,Anand Jain ,70,611434
+988,Jeff Mahoney ,50,749561
+989,Hante Meuleman ,93,475362
+990,Arend Van Spriel ,9,755059
+991,彭东林 ,1,0
+992,Adam Thomson ,51,644438
+993,Vishal Thanki ,3,7469833
+994,Danny Milosavljevic ,3,83335
+995,Qu Wenruo ,59,717357
+996,Luis Henriques ,14,3334436
+997,Naohiro Aota ,3,17889683
+998,Lu Fengqi ,1,0
+999,Eric Jeong ,1,0
+1000,Ganapathi Bhat ,10,3342384
+1001,Jason Baron ,17,2730616
+1002,Simon Wood ,24,1773710
+1003,Frank Praznik ,13,3659056
+1004,Michel Hermier ,1,0
+1005,Purushottam Kushwaha ,3,3537443
+1006,Robert Jarzmik ,143,305607
+1007,Dave Chinner ,107,391312
+1008,KOVACS Krisztian ,1,0
+1009,Christopher Pezley ,1,0
+1010,Antti Keränen ,1,0
+1011,Claudiu Manoil ,28,1614136
+1012,Christophe Leroy ,62,502627
+1013,Kevin Hao ,17,2593130
+1014,Mitch Williams ,106,375907
+1015,Zhao Qiang ,27,1143621
+1016,Vaishali Thakkar ,76,555234
+1017,Akeem Abodunrin ,1,0
+1018,Bimmy Pujari ,6,2312162
+1019,Henry Tieman ,1,0
+1020,Preethi Banala ,4,4141317
+1021,Alan Brady ,4,1074920
+1022,Harshitha Ramamurthy ,4,4924978
+1023,Kamal Dasu ,10,4533603
+1024,John Keeping ,38,723727
+1025,Sandeep Tayal ,1,0
+1026,Oder Chiou ,34,1322386
+1027,Joonwoo Park ,5,10981739
+1028,Dharageswari R ,13,2095342
+1029,Wonjoon Lee ,1,0
+1030,Jan Remmet ,1,0
+1031,Sean Wang ,31,122046
+1032,Moshe Shemesh ,6,214092
+1033,Peter Griffin ,82,547131
+1034,Shubhrajyoti Datta ,27,1663964
+1035,Sean Paul ,20,2085660
+1036,Vignesh Raman ,1,0
+1037,Dean Jenkins ,15,2644841
+1038,Giedrius Statkevičius ,13,3633583
+1039,zino lin ,1,0
+1040,Alexander Solganik ,1,0
+1041,Chaitanya Kulkarni ,1,0
+1042,James Smart ,77,541144
+1043,Kelvin Cheung ,11,1444167
+1044,Enric Balletbo i Serra ,25,1742961
+1045,Christian Gromm ,147,252597
+1046,Glauber Costa ,1,0
+1047,Jagan Teki ,7,7076209
+1048,Nils Wallménius ,20,904701
+1049,yizhouzhou@ict.ac.cn ,1,0
+1050,Daniel Wagner ,28,1465685
+1051,Andrea Gelmini ,54,201720
+1052,Nilesh Bacchewar ,1,0
+1053,Jannik Becher ,2,2503827
+1054,Johan Svensson ,1,0
+1055,Daniel Schultz ,1,0
+1056,Juliana Rodrigues ,8,2208181
+1057,Eva Rachel Retuya ,56,536998
+1058,Douglas Caetano dos Santos ,1,0
+1059,AKASHI Takahiro ,8,4006747
+1060,David Daney ,59,618247
+1061,Michal Marek ,24,1672112
+1062,Harvey Hunt ,12,2031004
+1063,Kyle Roeschley ,2,17770177
+1064,Han Xu ,9,4941818
+1065,Mark Rustad ,83,535197
+1066,Anssi Hannula ,3,12263970
+1067,Lihong Yang ,1,0
+1068,Sridhar Samudrala ,8,2184409
+1069,Carolyn Wyborny ,21,1884260
+1070,Andrey Vagin ,8,4362913
+1071,Rui Teng ,4,4205907
+1072,Russell Currey ,16,1558486
+1073,Jyri Sarha ,89,501751
+1074,Oren Givon ,26,1514229
+1075,Vadim Pasternak ,3,589768
+1076,Matthias Schwarzott ,21,1331020
+1077,Abylay Ospan ,23,1319246
+1078,Harman Kalra ,3,78645
+1079,Arek Lichwa ,1,0
+1080,Rabin Vincent ,68,641960
+1081,Joe Thornber ,48,885824
+1082,Frank Min ,1,0
+1083,Ole Ernst ,1,0
+1084,Jesper Nilsson ,5,8286756
+1085,Guoqing Jiang ,61,558487
+1086,Antti Palosaari ,126,343607
+1087,Sakari Ailus ,77,584088
+1088,Pan Xinhui ,16,2497819
+1089,Srivatsa Vaddagiri ,1,0
+1090,Cheng Chao ,2,1
+1091,Gustavo Padovan ,168,255151
+1092,Brian Starkey ,8,2265157
+1093,Tom Gundersen ,2,6
+1094,Catalin Vasile ,4,10076211
+1095,Con Kolivas ,1,0
+1096,Rehas Sachdeva ,42,430438
+1097,Katie Dunne ,2,340995
+1098,David Lin ,41,427280
+1099,Richard Groux ,3,195077
+1100,Andrey Shvetsov ,17,54478
+1101,Jan Kiszka ,17,2731888
+1102,Adam Borowski ,7,2117614
+1103,Andrew Banman ,11,2309582
+1104,Kai-Heng Feng ,5,4536855
+1105,Sergei Miroshnichenko ,1,0
+1106,Karol Herbst ,36,800076
+1107,Yuchung Cheng ,36,1089777
+1108,Ilia Mirkin ,23,1661007
+1109,Rana Shahout ,9,5186459
+1110,Rahul Lakkireddy ,8,372435
+1111,Raghavendra Ganiga ,1,0
+1112,Dmitry Bazhenov ,2,370
+1113,Don Brace ,50,844302
+1114,Kiwoong Kim ,2,1069652
+1115,Gabriele Mazzotta ,8,6171747
+1116,Dou Liyang ,3,585228
+1117,Gu Zheng ,5,9823034
+1118,Tang Chen ,4,11024879
+1119,Christian Lamparter ,16,1160939
+1120,Martin Brandenburg ,68,456548
+1121,Yadi.hu ,1,0
+1122,Hans Verkuil ,453,97896
+1123,Simon A. F. Lund ,3,5952790
+1124,Tomasz Figa ,13,3635418
+1125,Valdis Kletnieks ,13,2742649
+1126,Vaibhav Hiremath ,79,479206
+1127,David Kershner ,104,420978
+1128,Jamie Lentin ,13,2922388
+1129,James Simmons ,153,267449
+1130,Nogah Frankel ,16,547212
+1131,hayeswang ,33,1151442
+1132,Neal Cardwell ,13,2710322
+1133,Mahesh Bandewar ,20,2292522
+1134,Alan Cox ,10,2691381
+1135,Richard Sailer ,7,4969959
+1136,Matt Ranostay ,75,543741
+1137,Zhou Wenjian ,2,5
+1138,Kalle Kankare ,2,6101482
+1139,Tyler Baicar ,2,60
+1140,Ladislav Michl ,2,29725255
+1141,Aleksander Alekseev ,1,0
+1142,Vincent Abriou ,36,1160186
+1143,Heinrich Schuchardt ,34,586705
+1144,Ray Strode ,1,0
+1145,Rafael Antognolli ,4,6363627
+1146,Cathal Mullaney ,3,111903
+1147,Hariharan R ,2,700542
+1148,Xavier Roumegue ,1,0
+1149,Anchal Jain ,21,918041
+1150,Nayeemahmed Badebade ,5,8065785
+1151,Fabien Dessenne ,18,2381216
+1152,Benjamin Gaignard ,16,2383949
+1153,Jesper Dangaard Brouer ,52,845826
+1154,Jacek Anaszewski ,46,968821
+1155,Rob Swindell ,8,3296540
+1156,Vincent Bernat ,3,17031403
+1157,Eddie Wai ,1,0
+1158,Deepak Khungar ,1,0
+1159,Steffen Klassert ,11,4380494
+1160,Ashish Samant ,6,3272116
+1161,Santosh Shilimkar ,16,2252643
+1162,Ebru Akagunduz ,9,3442961
+1163,Pratyush Anand ,16,2603125
+1164,Neil Armstrong ,110,287658
+1165,Vinson Lee ,3,7186120
+1166,Ulrich Hecht ,50,875188
+1167,Nick Dyer ,22,1694292
+1168,Georges Savoundararadj ,1,0
+1169,Szymon Janc ,11,3174720
+1170,Loic Poulain ,35,1196864
+1171,Marcel Holtmann ,101,405584
+1172,Frédéric Dalleau ,1,0
+1173,Alexander Aring ,223,190452
+1174,Kieran Bingham ,34,964220
+1175,Edward O'Callaghan ,18,1295938
+1176,Charles-Antoine Couret ,7,889504
+1177,Andrey Utkin ,6,2281682
+1178,Songjun Wu ,18,1692519
+1179,Andy Adamson ,13,1631973
+1180,Amitoj Kaur Chawla ,266,163151
+1181,Johan Fjeldtvedt ,6,222194
+1182,kevin Barnett ,1,0
+1183,Mahesh Rajashekhara ,10,3020773
+1184,Tiffany Lin ,20,1523234
+1185,Bryant G. Ly ,5,1324444
+1186,Marian Krivoš ,1,0
+1188,Ilan Tayari ,1,0
+1189,Lothar Waßmann ,45,412941
+1190,RogerCC Lin ,2,31
+1191,Roee Zamir ,1,0
+1192,Doug Oucharek ,9,2259919
+1193,Sebastien Buisson ,12,2420539
+1194,Quentin Bouget ,1,0
+1195,Ned Bass ,3,6919836
+1196,Mikhail Pershin ,4,4122301
+1197,frank zago ,10,2958427
+1198,Johann Lombardi ,1,0
+1199,Artem Blagodarenko ,1,0
+1200,Bobi Jam ,12,1352102
+1201,Fan Yong ,15,2282043
+1202,John L. Hammond ,83,493659
+1203,Liang Zhen ,32,1030600
+1204,Dmitry Eremin ,55,763587
+1205,Andreas Dilger ,29,1566727
+1206,Alexander Boyko ,7,2061082
+1207,Jinshan Xiong ,38,401960
+1208,Nathaniel Clark ,10,894541
+1209,Amir Shehata ,33,570758
+1210,Bob Glossman ,3,3906753
+1211,Alexey Lyashkov ,1,0
+1212,Yoshifumi Uemura ,1,0
+1213,Niu Yawei ,12,2904354
+1214,Henri Doreau ,5,4933374
+1215,Lai Siyao ,9,1545739
+1216,Jian Yu ,5,4327503
+1217,Yang Sheng ,3,3906358
+1218,Vitaly Fertman ,8,2124534
+1219,Li Xi ,9,3993402
+1221,Patrick Farrell ,3,3906358
+1222,Prakash Surya ,5,3091329
+1223,Wang Shilong ,2,6501834
+1224,Kristian H. Kristensen ,2,319569
+1225,Alexander Zarochentsev ,1,0
+1226,Sharon Dvir ,4,8093068
+1227,Arik Nemtsov ,25,1831940
+1228,Avrahams Stern ,1,0
+1229,Steve Longerbeam ,16,644945
+1230,Aviya Erenfeld ,9,4449187
+1231,Liad Kaufman ,41,1099068
+1232,Thadeu Lima de Souza Cascardo ,7,5807966
+1233,Carlos Maiolino ,13,3209893
+1234,Peter Meerwald-Stadler ,21,787767
+1235,Gregor Boirie ,31,595923
+1236,Amitesh Singh ,2,513693
+1237,Ico Doornekamp ,1,0
+1238,Jon Eyolfson ,1,0
+1239,Andrew Kanner ,1,0
+1240,Bob Copeland ,40,1143539
+1241,phil.turnbull@oracle.com ,2,4549185
+1242,Filipe Manco ,1,0
+1243,Gabriel Fernandez ,26,1514246
+1244,Alexandre Courbot ,110,374547
+1245,Jordan Lazare ,3,10415109
+1246,Matthias Kaehlcke ,4,58120
+1247,Mark Salter ,7,6008429
+1248,Laurent Navet ,9,5300513
+1249,Markus Heiser ,29,240289
+1250,Robert Foss ,10,1488392
+1251,Vinay Simha BN ,8,5302299
+1252,Michael Olbrich ,2,5739468
+1253,Luiz Capitulino ,11,4304696
+1254,"Winkler, Tomas ",4,75
+1255,Chanwoo Choi ,131,332498
+1256,Mika Kahola ,31,1431376
+1257,Phil Turnbull ,9,2386361
+1258,Cheng-Yi Chiang ,1,0
+1259,Aihua Zhang ,2,16118768
+1260,Jean-Philippe Brucker ,16,1972409
+1261,Peng Fan ,19,2189611
+1262,Gargi Sharma ,17,15186
+1263,Thomas Richter ,10,5143131
+1264,Ursula Braun ,13,2594830
+1265,Hans Wippel ,4,2624660
+1266,Mark Tomlinson ,3,9136480
+1267,Ivan Mikhaylov ,3,15254968
+1268,Jun Nie ,40,1109217
+1269,Paul E. McKenney ,285,147087
+1270,Tobias Regnery ,6,342807
+1271,Jerome Brunet ,10,11295
+1272,Nishanth Menon ,60,708932
+1273,Yang Li ,1,0
+1274,hotran ,6,965048
+1275,Duc Dang ,49,842196
+1276,Asbjoern Sloth Toennesen ,1,0
+1277,Stefan Roese ,14,2470117
+1278,Beni Lev ,3,8826319
+1279,wangguang ,1,0
+1280,Karl Beldan ,13,267540
+1281,Tomas Winkler ,98,427355
+1282,Deepak M ,12,2244632
+1283,Fabien Lahoudere ,3,1593059
+1284,Liu Xiang ,2,21205951
+1285,Dave Gordon ,77,502824
+1286,David A. Long ,6,997565
+1287,Fan Li ,18,2069089
+1288,Leo Yan ,30,1460000
+1289,Kevin Hilman ,31,1327603
+1290,Grigory Kletsko ,1,0
+1291,Mayurkumar Patel ,3,7
+1292,Junwei Zhang ,13,2780559
+1293,Scott Teel ,7,4464466
+1294,Finn Thain ,108,369402
+1295,Minfei Huang ,25,1747319
+1296,Martin Kaiser ,4,1007414
+1297,Nicolin Chen ,19,2295388
+1298,Samaga Krishna ,1,0
+1299,John Garry ,105,243889
+1300,Matthew R. Ochs ,50,725639
+1301,Jeeja KP ,132,341259
+1302,John Hsu ,17,1006633
+1303,Hsin-Yu Chao ,2,443929
+1304,Rodrigo Vivi ,85,541027
+1305,Simon Horman ,216,201426
+1306,Andreas Kemnade ,9,2383852
+1307,Li Jun ,44,828835
+1308,Deepak ,1,0
+1309,Rik van Riel ,27,1646173
+1310,Alexander Sverdlin ,17,2640006
+1311,Bharat Kumar Gogada ,14,1254979
+1312,Lars Persson ,28,1319355
+1313,Simon Chopin ,1,0
+1314,Ryan Swan ,1,0
+1315,Mike Kofron ,1,0
+1316,Shaily Sangwan ,1,0
+1317,Omri Arad ,1,0
+1318,PrasannaKumar Muralidharan ,14,1122631
+1319,Giovanni Cabiddu ,3,4236764
+1320,Thomas Pedersen ,1,0
+1321,"Agrawal, Nitesh-kumar ",3,1459161
+1322,Darren Stevens ,5,1620669
+1323,Daniel Axtens ,56,772252
+1324,"Navare, Manasi D ",2,285170
+1325,Chris Zhong ,31,1253083
+1326,Al Stone ,10,4161151
+1327,Anisse Astier ,4,13108717
+1328,Chen Yu ,16,2356522
+1329,Maruthi Srinivas Bayyavarapu ,18,2136432
+1330,Po Liu ,4,338
+1331,Tomasz Nowicki ,21,1195543
+1332,Jorge Ramirez-Ortiz ,7,2761230
+1333,Sugar Zhang ,14,2167246
+1334,Matthias Seidel ,2,547518
+1335,Daniel Thompson ,23,1916382
+1336,Maarten Lankhorst ,312,144828
+1337,Stephen Warren ,11,1795079
+1338,Alexander Shiyan ,42,202712
+1339,Erik Arfvidson ,66,655202
+1340,Bryan Thompson ,7,398820
+1341,Claudiu Beznea ,18,936247
+1342,Pavel Andrianov ,3,3231794
+1343,Luca Ceresoli ,45,968370
+1344,Amit Ghadge ,2,9992460
+1345,Raphaël Beamonte ,26,1362784
+1346,Maxim Altshul ,7,800407
+1347,Denis Kenzior ,5,1424757
+1348,Anurag Kumar Vulisha ,6,7948357
+1349,Daniel Lezcano ,146,237644
+1350,Gautham R. Shenoy ,6,6823288
+1351,Suresh Warrier ,19,939758
+1352,Mylène Josserand ,20,776596
+1353,Joshua Scott ,4,13459744
+1354,Rui Wang ,9,2063795
+1355,Maninder Singh ,21,2046638
+1356,Venkat Reddy Talla ,5,1570929
+1357,Frank Wang ,5,519761
+1358,Sekhar Nori ,27,1403114
+1359,Harry Pan ,1,0
+1360,Tommaso Cucinotta ,5,667571
+1361,Bob Moore ,121,343420
+1362,Jim Bride ,5,3183534
+1363,Shaun Tancheff ,7,1355135
+1364,Petr Cvek ,25,1190852
+1365,Ian Campbell ,8,4960956
+1366,Ivan Hu ,1,0
+1367,Ricardo Neri ,2,35157701
+1368,Sylvain Chouleur ,3,15990886
+1369,Jouni Ukkonen ,1,0
+1370,Suzuki K Poulose ,80,216399
+1371,Zhen Lei ,19,2058715
+1372,Jean-Christophe Trotin ,5,59112
+1373,Waiman Long ,37,1176280
+1374,Eric Bentley ,1,0
+1375,Dan Kephart ,2,4472199
+1376,Ashok Raj Nagarajan ,9,5787376
+1377,Harish Jenny K N ,2,18
+1378,Vivek yadav ,1,0
+1379,Uma Krishnan ,10,2365491
+1380,Chunyan Zhang ,15,2604747
+1381,Clemens Gruber ,7,5598447
+1382,Xinming Hu ,57,754153
+1383,thomas.zeitlhofer+lkml@ze-it.at ,1,0
+1384,Quentin Schulz ,5,2384388
+1385,Matt Weber ,1,0
+1386,Thilo Cestonaro ,3,2187131
+1387,Daniel Golle ,5,898446
+1388,Yaogong Wang ,1,0
+1389,Artem Germanov ,1,0
+1390,Thomas F Herbert ,1,0
+1391,Gal Pressman ,30,1355627
+1392,Bodong Wang ,5,7470978
+1393,Lorenzo Colitti ,12,2160588
+1394,Zubair Lutfullah Kakakhel ,14,2164495
+1395,Andrew Bresticker ,14,3265827
+1396,Furquan Shaikh ,2,29813762
+1397,Mark Salyzyn ,3,14656510
+1398,Doug Anderson ,21,2162408
+1399,Shardar Shariff Md ,10,4676551
+1400,Casey Schaufler ,15,2997097
+1401,Zhuo-hao Lee ,1,0
+1402,Wenbo Wang ,1,0
+1403,Meng Yi ,6,4511095
+1404,Andrej Rosano ,2,9
+1405,Alex Ng ,9,4322883
+1406,David Hildenbrand ,191,222325
+1407,Fan Zhang ,3,17321461
+1408,Suravee Suthikulpanit ,51,750961
+1409,Jim Baxter ,1,0
+1410,Shanker Donthineni ,10,2081854
+1411,oliver@schinagl.nl ,1,0
+1412,Allen Hung ,4,8258697
+1413,Takeshi Kihara ,17,2056985
+1414,Vladimir Barinov ,18,2015394
+1415,Wei Yang ,35,1230266
+1416,subashab@codeaurora.org ,4,11777258
+1417,Daniel Baluta ,51,894379
+1418,Somnath Kotur ,12,3828206
+1419,Suraj Jitindar Singh ,14,1259957
+1420,Tomer Tayar ,6,4755995
+1421,Shuoran Liu ,5,4277104
+1423,Joachim Eastwood ,161,265261
+1425,Durgadoss R ,2,45555362
+1426,Ander Conselvan de Oliveira ,111,414139
+1427,Roger Chen ,4,136921
+1428,Jan Dakinevich ,2,2
+1429,Liang Li ,1,0
+1430,Corentin LABBE ,19,744108
+1431,Maksim Lukoshkov ,2,598055
+1432,Marco Angaroni ,9,1991251
+1433,David Weinehall ,14,3104760
+1434,Dexuan Cui ,30,1445095
+1435,Thinh Nguyen ,1,0
+1436,K. Y. Srinivasan ,50,831277
+1437,Helmut Buchsbaum ,9,5284475
+1438,Woojung Huh ,7,2473203
+1439,Ezequiel Garcia ,57,746892
+1440,Loic PALLARDY ,2,19
+1441,Haixia Shi ,2,18152517
+1442,Akash Goel ,15,2600199
+1443,Torgue Alexandre ,1,0
+1445,Zhi Wang ,12,634607
+1446,Ping Gao ,2,559
+1447,Jan Leupold ,3,19137000
+1448,Dirk Behme ,15,2624893
+1449,Alexander Kuleshov ,56,745724
+1450,Martin Schwidefsky ,115,332758
+1451,Seung-Woo Kim ,8,5921083
+1452,Weiqing Kong ,2,1
+1453,Tal Shorer ,14,3127179
+1454,James Pettigrew ,2,23
+1455,Thiago Jung Bauermann ,4,3807733
+1456,Lin Huang ,10,3740820
+1457,Dmitry Monakhov ,8,5541604
+1458,Kaho Ng ,3,5178008
+1459,Daeho Jeong ,9,4433924
+1460,Crt Mori ,6,7160231
+1461,HungNien Chen ,5,9478438
+1462,David Hsu ,1,0
+1463,Khiem Nguyen ,2,6584119
+1464,Jeffrey Hugo ,4,439
+1465,seokhoon.yoon ,5,2320668
+1466,Byungchul Park ,14,2832570
+1467,Stephane Eranian ,34,1264722
+1468,Paul Kocialkowski ,19,2333057
+1469,Andy Yan ,11,1939207
+1470,Vanessa Maegima ,4,772255
+1471,Michael Trimarchi ,7,4102140
+1472,Yakir Yang ,58,398678
+1473,Shunqian Zheng ,5,1497719
+1474,Joe Stringer ,42,880260
+1475,Pierre-Louis Bossart ,40,851878
+1476,Stanislaw Gruszka ,8,5508642
+1477,Guy Mishol ,8,5061557
+1478,Ismael Luceno ,2,5810180
+1479,Christian Engelmayer ,12,3770330
+1480,William Breathitt Gray ,64,428251
+1481,"Kweh, Hock Leong ",2,11082953
+1482,Alison Schofield ,95,304452
+1483,Christoph Fritz ,6,3235790
+1484,Sien Wu ,1,0
+1485,Sergey Ryazanov ,3,4878003
+1486,Karthik D A ,3,2012847
+1487,Rajan Vaja ,3,20345072
+1488,Raghu Vatsavayi ,53,747308
+1489,Bhushan Shah ,6,166142
+1490,Emanuel Czirai ,1,0
+1491,Lianwei Wang ,2,5774302
+1492,Jubin John ,51,630647
+1493,Sebastian Frias ,7,3002222
+1494,Kevin Barnett ,22,1533718
+1495,"Rosen, Rami ",4,11678479
+1496,Brendan Gregg ,2,2088002
+1497,Raju Rangoju ,1,0
+1498,Jon Masters ,2,6283898
+1499,Maharaja Kennadyrajan ,4,9566658
+1500,Finley Xiao ,5,3017821
+1501,Tamizh chelvam ,8,4014934
+1502,Louie Lu ,3,511749
+1503,Anson Jacob ,31,34329
+1504,Sandeep Patil ,12,1329880
+1505,Philip Yang ,2,3592101
+1506,David Rientjes ,17,2594586
+1507,Mel Gorman ,121,313201
+1508,Alexander Müller ,7,1634650
+1509,Roopa Prabhu ,29,1352385
+1510,Carlo Caione ,35,1210911
+1511,Dave Ertman ,3,692917
+1512,Jaswinder Jassal ,1,0
+1513,Richard Leitner ,3,5933888
+1514,Harsha Priya ,3,17512640
+1515,Teresa Remmet ,8,5040269
+1516,Parthasarathy Bhuvaragan ,22,888165
+1517,Wu Fengguang ,14,3253611
+1518,Stuart Yoder ,39,924240
+1519,MingChia Chung ,1,0
+1520,Matthias Beyer ,2,4147126
+1521,Binoy Jayan ,30,249049
+1522,Didik Setiawan ,2,1471876
+1523,Johanna Abrahamsson ,6,193152
+1524,Ben LeMasurier ,3,605216
+1525,Lokesh Nagappa Jaliminche ,1,0
+1526,Andrew Perepechko ,6,6083986
+1527,Milian Wolff ,7,5654918
+1528,York Sun ,14,3049927
+1529,Steve Muckle ,8,1609820
+1530,Ruchi Kandoi ,2,40684598
+1531,Kyle Walker ,1,0
+1532,Pratyush Patel ,3,3564532
+1533,Andrew F. Davis ,100,352762
+1534,Mateusz Guzik ,9,2573472
+1535,Chunming Zhou ,164,241051
+1536,Ken Wang ,29,1403265
+1537,Maruthi Bayyavarapu ,3,11481658
+1538,Akinobu Mita ,65,646825
+1539,Davide Caratti ,4,1063886
+1541,Omer Khaliq ,1,0
+1542,Ananth Jasty ,1,0
+1543,J.D. Schroeder ,3,17963374
+1544,Jimi Damon ,1,0
+1546,Sebastian Reichel ,59,648854
+1547,Florian Vallee ,2,10987398
+1548,Eddie Huang ,15,2955348
+1549,Bhuvanchandra DV ,11,2687616
+1550,Ludovic Desroches ,71,580148
+1551,Vyacheslav V. Yurkov ,1,0
+1552,Alex Shi ,1,0
+1553,Konstantin Khlebnikov ,61,673728
+1554,Martin Fuzzey ,12,3708576
+1555,Muhammad Falak R Wani ,64,455511
+1556,Xiubo Li ,25,1386093
+1557,Jerome Marchand ,11,2586834
+1558,Wadim Egorov ,11,1893788
+1559,Eli Billauer ,3,16922422
+1560,Zhouyi Zhou ,2,7140283
+1561,Frank Haverkamp ,1,0
+1562,Alexander Kapshuk ,25,1145860
+1564,Benedikt Spranger ,1,0
+1565,Kim Phillips ,2,38112377
+1566,Xavier Gnata ,1,0
+1567,Andreas Noever ,2,10433740
+1568,Alessio Igor Bogani ,11,1489716
+1569,Aaron Sierra ,9,4245140
+1570,Andreas Werner ,9,3437630
+1571,Jan Viktorin ,1,0
+1572,Olivier Schonken ,3,2500378
+1573,Vic Yang ,2,10
+1574,Lior David ,22,974144
+1575,Michal Kazior ,148,319146
+1576,Robert Baldyga ,109,318937
+1577,Romain Izard ,13,1587112
+1578,Andy Green ,9,2966420
+1579,"Prakash, Prashanth ",10,1670580
+1580,Ashwin Chaugule ,16,2142147
+1581,Carlos Garnacho ,1,0
+1582,Sebastiaan Schalbroeck ,2,711347
+1583,Guenther Wutz ,1,0
+1585,William Roberts ,5,477559
+1586,Vignesh R ,39,1157733
+1587,Nariman Poushin ,6,7099102
+1588,Anson Huang ,23,1783728
+1589,Jose Abreu ,8,1809844
+1590,Shrirang Bagul ,2,2502234
+1591,Quorum Laval ,1,0
+1592,"Peer, Ilan ",1,0
+1593,Vlad Dogaru ,17,2744535
+1594,Wei Jiangang ,7,4128163
+1595,Gwenhael Goavec-Merou ,1,0
+1596,Clifton Barnes ,10,1467125
+1597,Ken Lin ,4,5561908
+1598,Rob Rice ,4,932500
+1599,Vidya Sagar Ravipati ,2,8240440
+1600,Owen Lin ,1,0
+1601,Andrea Merello ,7,3509448
+1602,Eran Ben Elisha ,40,975048
+1603,Mukesh Ojha ,1,0
+1604,Zhu Yanjun ,4,7330637
+1605,Jon Cooper ,7,6845070
+1606,Edward Cree ,32,1324852
+1607,Andrew Rybchenko ,13,518171
+1608,Richard Alpe ,26,1642748
+1609,Subash Abhinov Kasiviswanathan ,2,33578804
+1610,Stefan Müller-Klieser ,1,0
+1611,Andy Gross ,47,660618
+1612,Shiraz Saleem ,10,1149375
+1613,Mustafa Ismail ,15,147277
+1614,Xing Zheng ,63,510063
+1615,Kris Huang ,3,894641
+1616,Simon Baatz ,1,0
+1617,Tyrel Datwyler ,12,1445631
+1618,Anjali Singhai Jain ,58,690528
+1619,Xander Huff ,3,16225270
+1620,Lucas De Marchi ,3,1
+1621,José Roberto de Souza ,1,0
+1622,Weifeng Voon ,6,1161952
+1624,Johnny Chuang ,1,0
+1625,Tatyana Nikolova ,8,5034819
+1626,Alex Lyakas ,4,4495011
+1627,Felipe F. Tonello ,26,1160783
+1628,Jaret Cantu ,1,0
+1629,Philipp Gesang ,1,0
+1630,William Wu ,7,1238886
+1632,Purna Chandra Mandal ,20,646866
+1633,Mike Christie ,56,360988
+1635,Stanimir Varbanov ,14,2098322
+1636,Stephen Backway ,2,3724839
+1637,Vince Hsu ,6,4879806
+1638,Song Liu ,9,3298991
+1639,"Pandiyan, Dhinakaran ",3,21
+1640,Selvin Xavier ,8,3798543
+1641,Xinliang Liu ,20,533311
+1642,Frederic Dalleau ,1,0
+1643,Dmitry Osipenko ,4,13770336
+1644,Maxime Coquelin ,46,896130
+1645,mhiramat@kernel.org ,2,1
+1646,Florian Echtler ,7,6507839
+1647,Ricardo Ribalda ,37,1113000
+1648,Aleksandr Makarov ,2,340886
+1649,Brian Gerst ,41,1073614
+1650,Dong Jia Shi ,2,18204219
+1651,Pankaj Dubey ,25,1646775
+1652,twp@codeaurora.org ,2,4944370
+1653,Rami Rosen ,8,5262384
+1654,Phil Sutter ,53,708805
+1655,Dong Bo ,1,0
+1656,Alexandre Demers ,6,3937781
+1657,Bharat Potnuri ,1,0
+1658,Mark Yao ,35,923449
+1659,Noralf Trønnes ,20,1843554
+1660,Shreyas NC ,7,1782867
+1661,Mathieu OTHACEHE ,17,1285139
+1662,Ivan Khoronzhuk ,26,1468815
+1663,Dave Watson ,1,0
+1664,Mike Manning ,5,2605398
+1665,Mikko Rapeli ,35,1113695
+1666,Andrew Duggan ,23,1753611
+1667,Mitko Haralanov ,66,399361
+1668,Hugo Grostabussiat ,1,0
+1669,Stefan Mavrodiev ,1,0
+1670,oulijun ,5,59476
+1671,Mengdong Lin ,41,1039631
+1672,Henry Chen ,14,2745276
+1673,CK Hu ,6,1869734
+1674,Ding Tianhong ,3,14515275
+1675,James Hartley ,5,2179512
+1676,Matt Roper ,75,584052
+1677,perr perr ,1,0
+1678,Honghui Zhang ,6,1072270
+1679,Daniel Mack ,8,5430073
+1680,Beniamino Galvani ,3,1659727
+1681,Kwangwoo Lee ,1,0
+1682,Nicolas Saenz Julienne ,3,8330998
+1683,Dinh Nguyen ,50,826200
+1684,Boqun Feng ,26,1423064
+1685,Zhiyong Tao ,2,79
+1686,Jonas Rickert ,1,0
+1687,Shiva Kerdel ,1,0
+1688,Nipun Gupta ,1,0
+1689,Parth Sane ,9,1577671
+1690,Anuradha Weeraman ,1,0
+1692,Edward Lipinsky ,3,20362930
+1694,yeongjun Kim ,1,0
+1695,Samuele Baisi ,1,0
+1696,Prit Raj ,1,0
+1697,Ming Yang ,1,0
+1698,Michal Suchanek ,31,1267776
+1699,Chen Feng ,18,1397856
+1701,YU Bo ,1,0
+1702,Joshua Houghton ,3,2741193
+1703,Anthony Sheldon ,1,0
+1704,Ravishankar Karkala Mallikarjunayya ,17,348108
+1705,Cheah Kok Cheong ,2,24130776
+1706,H Hartley Sweeten ,837,49503
+1707,Emoly Liu ,7,1647163
+1708,Hongchao Zhang ,3,8624922
+1709,Andriy Skulysh ,4,3359688
+1710,Brian Behlendorf ,1,0
+1711,Christopher J. Morrone ,1,0
+1712,Gregoire Pichon ,2,26049915
+1713,Chris Horn ,4,5260164
+1714,Ryan Haasken ,1,0
+1715,Giorgio Dal Molin ,1,0
+1716,Jelle van der Waa ,6,5686210
+1717,Aleksei Mamlin ,15,2975535
+1718,Daniel Romell ,1,0
+1719,Don Skidmore ,41,946314
+1720,Veola Nazareth ,2,20301590
+1721,Shrikrishna Khare ,15,2223763
+1722,William Tu ,4,2021693
+1723,Haiyang Zhang ,16,2351681
+1724,Avinash Dayanand ,8,1679345
+1725,Jeff Kirsher ,5,10234943
+1726,Catherine Sullivan ,42,947747
+1727,Shunli Wang ,2,1719
+1728,James Liao ,26,1629715
+1729,Liav Rehana ,1,0
+1730,Bob Liu ,28,1410039
+1731,Luwei Kang ,1,0
+1732,Bandan Das ,9,4611864
+1733,Brendan Jackman ,1,0
+1734,Punnaiah Choudary Kalluri ,4,11736976
+1735,Michal Simek ,40,1044454
+1736,Alexander Graf ,5,2023143
+1737,Maya Erez ,27,846740
+1738,Lazar Alexei ,1,0
+1739,Eduardo Abinader ,6,1435578
+1740,Lucile Quirion ,4,109923
+1741,Daniel Verkamp ,1,0
+1742,Xunlei Pang ,29,1402617
+1744,Jiri Kosina ,44,963186
+1745,Appana Durga Kedareswara Rao ,4,177658
+1746,shubhrajyoti.datta@xilinx.com ,1,0
+1747,Eric Wheeler ,6,2824722
+1748,Kent Overstreet ,12,3370744
+1749,Elaine Zhang ,15,1079351
+1750,Jessica Yu ,13,1317739
+1751,Eugeniu Rosca ,2,1494938
+1752,baolex.ni ,1,0
+1753,Maik Broemme ,1,0
+1754,Ricardo Ribalda Delgado ,27,1477646
+1755,Clint Taylor ,2,7511175
+1756,Artemy Kovalyov ,3,2420119
+1757,Ann Chen ,2,2298589
+1758,Peter Feiner ,3,12388539
+1759,Andi Shyti ,32,561710
+1760,Morten Rasmussen ,11,2938164
+1761,Madhavan Srinivasan ,14,2949590
+1762,Tillmann Heidsieck ,6,5603018
+1763,Jay Freyensee ,6,5097123
+1764,Emily Deng ,16,52314
+1765,Artur Paszkiewicz ,2,21042172
+1766,Ilya Lesokhin ,2,2917065
+1767,Joshua Clayton ,32,1047061
+1768,Yuta Kobayashi ,1,0
+1769,Pawel Moll ,15,2923679
+1770,Kamlakant Patel ,15,2890836
+1771,Jarod Wilson ,21,1961764
+1772,Kshitiz Gupta ,1,0
+1773,Felix Kuehling ,8,2946239
+1774,Christoph Huber ,1,0
+1775,Tim Harvey ,17,2376990
+1776,Xiaodong Liu ,3,5304473
+1777,Jim Lin ,3,3325492
+1778,Alban Browaeys ,1,0
+1779,sean.wang@mediatek.com ,5,50461
+1780,Jonathan Yong ,1,0
+1781,Laurence Rochfort ,1,0
+1782,Ben Evans ,3,14477310
+1783,He Kuang ,49,853407
+1784,Anders Darander ,1,0
+1785,Bing Sun ,1,0
+1786,Gavin Li ,1,0
+1787,Irina Tirdea ,47,895578
+1788,Breno Lima ,2,44
+1789,Vincent ,1,0
+1790,Gerard Garcia ,1,0
+1791,Øyvind A. Holm ,1,0
+1792,Zyta Szpak ,1,0
+1793,Jerin Jacob ,1,0
+1794,Radoslaw Biernacki ,1,0
+1795,Aaron Yue ,1,0
+1796,Sargun Dhillon ,5,392128
+1797,"Anna, Suman ",13,7
+1798,Grzegorz Jaszczyk ,17,24042
+1800,Netanel Belgazal ,1,0
+1801,Sven Van Asbroeck ,1,0
+1803,Greg Edwards ,1,0
+1804,Riku Voipio ,13,3407361
+1805,Jacopo Mondi ,17,1168661
+1806,Sumit Semwal ,3,19753088
+1807,Marcel Ziswiler ,36,1147978
+1808,Marcus Cooper ,28,1514222
+1809,Julius Niedworok ,2,51
+1810,Michael Turquette ,21,1819517
+1811,Jason Gerecke ,51,823429
+1812,Roman Pen ,5,6977571
+1813,Joe Lawrence ,6,3259166
+1814,Max Staudt ,1,0
+1815,Janusz Dziedzic ,23,1964619
+1816,Xerox Lin ,1,0
+1817,Mathieu Laurendeau ,1,0
+1818,Binyamin Sharet ,1,0
+1819,Winter Wang ,1,0
+1820,Austin Christ ,1,0
+1821,Alexey Kodanev ,2,38157361
+1822,Peter Senna Tschudin ,22,1803240
+1823,Martynas Pumputis ,1,0
+1824,Adam Barth ,2,17557393
+1825,Yinghai Lu ,16,2529628
+1826,Harini Katakam ,8,5666883
+1827,Steve Capper ,6,5430703
+1828,Dave Weinstein ,1,0
+1829,Jay Cornwall ,4,8642373
+1830,Mike Travis ,23,1299993
+1831,Georgi Dobrev ,2,11289734
+1832,pan xinhui ,2,14526279
+1833,Juri Lelli ,5,6958981
+1834,Giovanni Gherdovich ,1,0
+1835,Toshiaki Makita ,12,3418319
+1836,Zefan Li ,1,0
+1837,Tom Yan ,15,427293
+1838,Mathias Koehrer ,1,0
+1839,Nobuo Iwata ,4,3248156
+1840,Jaewon Kim ,4,10525708
+1841,Marc Ohlf ,1,0
+1842,Xiao Han ,1,0
+1843,Cristian Birsan ,6,3429266
+1844,Will Thomas ,4,1
+1845,Govindraj Raja ,3,6991289
+1846,Yanjiang Jin ,2,7951636
+1847,Cornelia Huck ,7,5799473
+1848,Mahesh Salgaonkar ,12,2899837
+1849,Guneshwor Singh ,5,4034965
+1850,Philippe Bergheaud ,8,4257218
+1851,Alastair D'Silva ,3,814141
+1852,"Cooper Jr., Franklin ",8,1177199
+1853,Vittorio Gambaletta (VittGam) ,4,4261697
+1854,Piotr Karasinski ,1,0
+1855,Bartlomiej Zolnierkiewicz ,59,641357
+1856,Tuomas Tynkkynen ,16,2246051
+1857,Simon Wunderlich ,31,1261162
+1858,Matthias Schiffer ,11,2422226
+1859,Markus Pargmann ,79,510295
+1860,Antonio Quartulli ,38,1022563
+1861,Alexey Kardashevskiy ,73,509979
+1862,Dave Carroll ,2,2326651
+1863,Michal Soltys ,7,555630
+1864,Sathya Perla ,10,4388075
+1865,Julian Anastasov ,20,1883725
+1866,Andreas Ziegler ,10,1882740
+1867,Daniel Kurtz ,13,3127869
+1868,Yendapally Reddy Dhananjaya Reddy ,25,884155
+1869,Pali Rohár ,50,796044
+1870,Leo Liu ,15,2663611
+1871,Eric Huang ,75,269408
+1872,Andreas Färber ,22,747356
+1873,Alexander Kurz ,7,1687793
+1874,Alexey Klimov ,18,2022670
+1875,Senthilnathan Veppur ,8,1841589
+1876,Ramesh Babu ,6,8275873
+1877,Kranthi G ,1,0
+1878,Sheng-Hui J. Chu ,1,0
+1879,Robert Deliën ,1,0
+1880,Lubomir Rintel ,11,3680395
+1881,Keith Packard ,3,16802394
+1882,Heiko Stübner ,23,1698868
+1883,Michele Di Giorgio ,3,6312779
+1884,Akshay Adiga ,5,2173432
+1885,Terry Heo ,2,22703916
+1886,Alexey Obitotskiy ,2,1507539
+1887,David Forster ,1,0
+1888,Ian Wienand ,1,0
+1889,Hiraku Toyooka ,4,11375647
+1890,Jackson Chang ,1,0
+1891,Allen Hubbe ,30,1191775
+1892,Logan Gunthorpe ,14,72
+1893,Masashi Honma ,5,779529
+1894,AceLan Kao ,3,2728051
+1895,Yoshinori Sato ,54,747613
+1896,John Pittman ,1,0
+1897,Paolo Valente ,2,21349628
+1898,Hou Tao ,2,1366565
+1899,Moni Shoua ,27,1397258
+1900,Kamil Debski ,8,3981616
+1901,Huang Shijie ,11,2798541
+1902,Roland Dreier ,14,2847789
+1903,Siva Reddy Kallam ,3,7619912
+1904,Satish Baddipadige ,5,4742082
+1905,Jarno Rajahalme ,14,942661
+1906,Mika Penttilä ,4,5462245
+1907,Maital Hahn ,2,1336309
+1908,KT Liao ,2,5390370
+1909,Robert Dolca ,12,2219052
+1911,Vitaly Andrianov ,8,4943994
+1912,Ryusuke Konishi ,38,630267
+1913,Vikram Mulukutla ,1,0
+1914,Chen Gang ,24,1702956
+1915,Minchan Kim ,47,617864
+1916,piaojun ,5,1615791
+1917,Gang He ,7,1914556
+1918,Don Hiatt ,1,0
+1919,Grzegorz Heldt ,1,0
+1920,Antoine Tenart ,56,698886
+1921,Alim Akhtar ,40,714321
+1922,Tom Zanussi ,31,722744
+1923,Slava Shwartsman ,1,0
+1924,Hariprasad S ,55,668847
+1925,Mayeul Cantan ,1,0
+1926,George Spelvin ,16,2264003
+1927,Mikko Perttunen ,12,3582445
+1928,Chun-Hao Lin ,12,1712068
+1929,ZhengYuan Liu ,1,0
+1930,Asias He ,9,2615337
+1931,xypron.glpk@gmx.de ,23,820644
+1932,Sam Bobroff ,2,30001511
+1933,Andrew Jones ,3,2586901
+1934,David Matlack ,6,7699388
+1935,Robbie Ko ,4,52
+1936,Alexander Stein ,19,2215382
+1937,Anshuman Khandual ,39,956455
+1938,Ingo Tuchscherer ,6,6947863
+1939,Maarten ter Huurne ,14,1006470
+1940,Sylvain Etienne ,1,0
+1941,Iosif Harutyunov ,1,0
+1942,Slava Grigorev ,8,2762806
+1943,SF Markus Elfring ,2,28406534
+1944,Nitin Gupta ,4,7715489
+1945,Maxim Patlasov ,3,6924452
+1946,Alexey Kuznetsov ,1,0
+1948,Vincent StehlÃ© ,1,0
+1949,Zhou Chengming ,3,11243748
+1950,Dennis Chen ,3,2403302
+1952,Scott Bauer ,2,2988093
+1953,Richard Cochran ,52,728090
+1954,Benoît Thébaudeau ,7,4358111
+1955,Cameron Gutman ,5,1319300
+1956,Gjorgji Rosikopulos ,11,1693781
+1957,Hiroyuki Yokoyama ,1,0
+1958,Tony Camuso ,2,15115726
+1959,Libor Pechacek ,2,19816896
+1960,Sam Mendoza-Jonas ,2,2
+1961,Li RongQing ,20,2094390
+1962,nimisolo ,1,0
+1963,He Chunhui ,1,0
+1964,Marcin Mielniczuk ,1,0
+1965,Henning Schild ,1,0
+1966,Song Shan Gong ,1,0
+1967,Chandan Rajendra ,19,1338278
+1968,Hans van Kranenburg ,1,0
+1969,Vasundhara Volam ,5,9576247
+1970,Cathy Avery ,3,12611349
+1971,Georgi Djakov ,18,1953367
+1972,Ritesh Harjani ,1,0
+1973,Dong Aisheng ,49,812483
+1974,Bojan Prtvar ,2,3
+1975,Chaotian Jing ,24,1521510
+1976,Jérôme Forissier ,1,0
+1977,Chuanxiao Dong ,3,8120399
+1978,Al Cooper ,5,7856387
+1979,Pratibhasagar V ,1,0
+1980,Gwendal Grignou ,5,8766238
+1981,"Yuan, Juntao ",1,0
+1982,Mika Kuoppala ,134,306410
+1983,Vedang Patel ,10,2843121
+1984,Christophe Chapuis ,1,0
+1985,Andreas Klinger ,1,0
+1986,Sumit Rai ,1,0
+1987,Kedareswara rao Appana ,32,679698
+1988,Andreas Herrmann ,1,0
+1989,Otto Kekäläinen ,1,0
+1990,Gaurav Minocha ,2,38875211
+1991,Eric Auger ,43,824589
+1992,"Tautschnig, Michael ",1,0
+1993,Tony Nguyen ,4,2277047
+1994,Joshua Hay ,1,0
+1995,Joel Porquet ,7,5545787
+1996,"Lee, Chun-Yi ",4,8455184
+1997,Bob Peterson ,34,1189210
+1998,Tim Gore ,10,2553658
+1999,Petar Jovanovic ,1,0
+2000,Carsten Emde ,1,0
+2001,Damien Le Moal ,5,2321454
+2002,Yigal Korman ,2,21175592
+2003,Michael Welling ,12,3452409
+2004,Ngai-Mint Kwan ,3,3917274
+2005,Feng Li ,1,0
+2007,"Reizer, Eyal ",1,0
+2008,Vladimir Kondratiev ,52,760652
+2009,Pang Raymond ,1,0
+2010,Paulo Flabiano Smorigo ,5,9338159
+2011,Douglas Miller ,3,6955887
+2012,Prashant Sreedharan ,8,2121951
+2013,Thierry Escande ,26,53420
+2014,Tigran Mkrtchyan ,3,2722665
+2015,Steve Dickson ,1,0
+2016,Hector Palacios ,1,0
+2017,Eyal Reizer ,4,12591072
+2018,Chris DeBruin ,1,0
+2019,Andrew Zamansky ,1,0
+2020,Andrey Pronin ,1,0
+2022,Sandeepa Prabhu ,4,1
+2023,William Cohen ,2,15130149
+2024,Pierre Le Magourou ,3,4
+2025,Gaurav Jindal ,1,0
+2026,Ian Munsie ,32,1149068
+2027,Wilfried Klaebe ,1,0
+2028,Vincent Stehle ,1,0
+2029,Leonidas S. Barbosa ,1,0
+2030,Bob Paauwe ,8,4823026
+2031,mathieu.poirier@linaro.org ,1,0
+2032,Prasun Maiti ,3,1705692
+2033,Graham Moore ,4,8436308
+2034,Chen Zhong ,1,0
+2035,Lionel Landwerlin ,10,1267048
+2036,Kazuki Oikawa ,1,0
+2037,Taras Kondratiuk ,1,0
+2038,Ville Viinikka ,1,0
+2039,Tony Makkiel ,2,3445143
+2040,Mat Martineau ,4,4917667
+2041,Lans Zhang ,2,2
+2042,Alexey Kunitskiy ,1,0
+2043,Matthew McClintock ,18,558113
+2044,"Yong, Jonathan ",2,6
+2045,Ji-Ze Hong (Peter Hong) ,2,1894202
+2046,Amadeusz Sławiński ,1,0
+2047,Andrey Gusakov ,2,12254627
+2049,Bin Liu ,30,1329087
+2050,"Cao, Lei ",1,0
+2051,Todd Brandt ,1,0
+2052,Grant Grundler ,3,11373163
+2053,James Patrick-Evans ,2,16999
+2054,Daniel Bristot de Oliveira ,10,2664048
+2055,Kinglong Mee ,80,445084
+2056,Himanshu Madhani ,16,2055907
+2057,Sawan Chandak ,9,3496867
+2058,Joe Carnuccio ,20,1562531
+2059,Giridhar Malavali ,1,0
+2060,Manjunath M B ,1,0
+2061,Stefan PÃ¶schel ,1,0
+2062,arun.siluvery@linux.intel.com ,8,1677446
+2063,Shreyas B. Prabhu ,20,1910861
+2064,Stewart Smith ,5,4558146
+2065,Nathan Fontenot ,15,2660744
+2066,Anna-Maria Gleixner ,26,434166
+2067,Abhishek Sahu ,2,657
+2068,Kiran Patil ,10,2786323
+2069,Florian Meier ,2,5425483
+2070,Alex Elder ,345,174705
+2071,Steve Grubb ,1,0
+2072,Alex Hung ,9,1908613
+2073,Liu Shuo ,1,0
+2074,PC Liao ,8,2650395
+2075,Ben Zhang ,11,3628676
+2076,Rhyland Klein ,30,798752
+2077,Fengguang Wu ,17,1895431
+2078,Elad Kanfi ,5,1390414
+2079,Joseph Salisbury ,2,8686524
+2080,Wen Xiong ,3,15089422
+2081,Ben Skeggs ,478,63717
+2082,Roy Spliet ,25,1293618
+2083,Chris Leech ,2,30175617
+2084,Jiancheng Xue ,13,491581
+2085,P L Sai Krishna ,1,0
+2086,Raghav Dogra ,5,4387937
+2087,Jeffrey Lin ,2,4061933
+2088,Tom Haynes ,7,820726
+2089,Andrew Elble ,9,3404454
+2090,Max Kellermann ,8,1212733
+2091,Aayush Gupta ,1,0
+2092,Masayoshi Mizuma ,1,0
+2093,Olli Salonen ,28,1370182
+2094,Saso Slavicic ,1,0
+2095,Jonathan McDowell ,5,6367121
+2096,Nadav Amit ,10,4157045
+2097,Peter Oberparleiter ,13,3074699
+2098,Jim Gill ,1,0
+2099,Manoj N. Kumar ,7,1814989
+2100,Douglas Gilbert ,18,1211649
+2101,Maurizio Lombardi ,9,2808530
+2102,David Tolnay ,1,0
+2103,Matthew Leach ,8,521863
+2104,Ming Lin ,26,1153873
+2105,vchannaiah ,1,0
+2106,Kevin Brodsky ,3,41290
+2107,Christoph Lameter ,19,1818588
+2108,Frank Binns ,4,515239
+2109,Awais Belal ,1,0
+2110,Walter Mack ,1,0
+2111,Mario Limonciello ,7,2236102
+2112,Alexandre Bailon ,29,1678590
+2113,Len Brown ,64,584948
+2114,Jean-Gabriel Gill-Couture ,1,0
+2115,Alexander Popov ,7,5530647
+2116,Luciano Coelho ,48,807093
+2117,Guillermo Rodriguez ,1,0
+2118,Ryo Kodama ,3,8976220
+2119,Hyong Bin Kim ,1,0
+2120,Victor(Weiguo) Pan ,1,0
+2121,Rohith Seelaboyina ,1,0
+2122,Sylvain Lemieux ,16,878039
+2123,Toby DiPasquale ,1,0
+2124,Dan O'Donovan ,6,721414
+2125,Salvatore Benedetto ,11,2046267
+2126,Iwo Mergler ,1,0
+2127,Tien Hock Loh ,1,0
+2128,John Kacur ,1,0
+2129,Zhao Lei ,65,533129
+2130,Soeren Moch ,7,1888002
+2131,Dmitri Epshtein ,4,3350317
+2132,Valentin Longchamp ,1,0
+2133,Sriram Dash ,4,4776406
+2134,Octavian Purdila ,14,2547144
+2135,Dragos Bogdan ,3,10066760
+2136,Guennadi Liakhovetski ,6,2580524
+2137,Antonio Ospite ,29,1348725
+2138,Andrew-CT Chen ,6,2616484
+2139,Sinclair Yeh ,21,1460788
+2140,Benjamin Berg ,6,4
+2141,Shengzhen Li ,11,2719731
+2142,Yvain THONNART ,1,0
+2143,Ricky Liang ,3,17943604
+2144,Tedd Ho-Jeong An ,6,6685371
+2145,"Machani, Yaniv ",2,28737831
+2146,Aravind Gopalakrishnan ,40,950420
+2147,Greg Kurz ,17,2175200
+2148,Franklin S Cooper Jr ,31,1007064
+2149,Anilkumar Kolli ,6,4539032
+2150,Muhammad Hamza Farooq ,7,4190269
+2151,Tanmay Jagdale ,2,7444844
+2152,viresh kumar ,3,14273915
+2153,David Mao ,2,1
+2155,yanyang1 ,9,4317205
+2156,Edmondo Tommasina ,1,0
+2157,Michal Kubecek ,1,0
+2158,Quentin Armitage ,2,8783190
+2159,Ganapatrao Kulkarni ,5,1793238
+2160,Javier González ,17,1261916
+2161,Wenwei Tao ,23,903159
+2162,Zhangfei Gao ,12,3159482
+2163,Peter Meerwald ,15,2750008
+2164,Ramesh Shanmugasundaram ,15,813929
+2165,Fabien Parent ,15,1903030
+2166,"Sajjan, Vikas C ",2,127
+2167,Matej Groma ,2,652358
+2168,Hugh Sipière ,1,0
+2169,Avraham Stern ,18,2170185
+2170,Ilan Peer ,10,4099167
+2171,Gregory Greenman ,14,2241048
+2172,Shannon Zhao ,41,802832
+2173,Abhilash Kesavan ,1,0
+2174,Golan Ben-Ami ,15,1374231
+2175,striebit ,1,0
+2176,Matti Gottlieb ,21,1894292
+2177,yalin wang ,15,2125645
+2178,Bijosh Thykkoottathil ,3,105753
+2179,Bruno PrÃ©mont ,1,0
+2180,Yijing Wang ,18,2093952
+2181,Lukasz Gemborowski ,2,2228133
+2182,Conor McLoughlin ,2,24883668
+2183,Raveendra Padasalagi ,4,2582169
+2184,Subhransu S. Prusty ,73,491827
+2185,Alexis Dambricourt ,2,16933566
+2186,Chris Smart ,5,1503326
+2187,Pavel Tikhomirov ,2,7924453
+2188,Torsten Hilbrich ,3,1206226
+2189,Garlic Tseng ,10,53714
+2190,Chris Phlipot ,18,596740
+2191,John Fastabend ,21,1743229
+2192,Hemant Kumar ,7,2261891
+2193,Luo Yi ,1,0
+2194,Priit Laes ,27,1444009
+2195,Jonathan Cameron ,18,2174893
+2196,Colin Pitrat ,1,0
+2197,Pranay Kr. Srivastava ,2,25725351
+2198,Raashid Muhammed ,4,772687
+2199,Aaron Campbell ,2,513979
+2200,Zoltan Kuscsik ,1,0
+2201,Peter Antoine ,7,5918957
+2202,Geoff Lansberry ,1,0
+2203,Florian Vaussard ,9,1298983
+2204,Steffen Trumtrar ,10,3808131
+2205,Mars Cheng ,6,6070735
+2206,Oded Gabbay ,30,1223983
+2207,Stefan Hauser ,1,0
+2208,Sergio Valverde ,1,0
+2209,Matt Corallo ,1,0
+2210,Matija Glavinic Pecotic ,1,0
+2211,Sami Tolvanen ,9,3504576
+2212,Roger Lu ,1,0
+2213,João Paulo Rechi Vita ,22,1243398
+2214,Ellen Wang ,5,7740395
+2215,raveendra padasalagi ,2,966022
+2216,Andrei Otcheretianski ,11,3638429
+2217,Moritz Sichert ,1,0
+2218,Wei Chen ,11,3533418
+2219,Shaker Daibes ,1,0
+2220,Matthew Finlay ,11,1102810
+2221,Russell King - ARM Linux ,1,0
+2222,Sony Chacko ,1,0
+2223,Andrey Ulanov ,1,0
+2224,Soohoon Lee ,1,0
+2225,Mateusz Bajorski ,1,0
+2226,"Seymour, Shane M ",7,5671939
+2227,Ashish Sangwan ,1,0
+2228,Martin Willi ,24,1473029
+2229,Marek Lindner ,31,1146272
+2231,Ivaylo Dimitrov ,20,808195
+2232,Pramod Gurav ,7,6182048
+2233,Ocean He ,1,0
+2234,Amritha Nambiar ,4,2468382
+2235,James Ban ,7,5067735
+2236,Bruno Herrera ,1,0
+2237,Magnus Damm ,46,730157
+2238,Samuel Gauthier ,2,9280533
+2239,David Barroso ,1,0
+2240,Michael Brunner ,2,27889666
+2241,Wei Tang ,9,2348481
+2242,Ben Copeland ,1,0
+2243,"Yu, Ong Hock ",1,0
+2244,Nick Leiten ,1,0
+2245,Michał Kępień ,28,1206542
+2246,Chris Lapa ,7,107
+2247,Iago Abal ,3,811245
+2248,daniel ,1,0
+2249,Helen Fornazier ,1,0
+2250,Wang Sheng-Hui ,5,1356087
+2251,Jay Vosburgh ,4,6727235
+2252,Huang Tao ,2,7
+2253,"Huang, Tao ",2,1
+2254,Tom Goff ,1,0
+2255,Megha Dey ,16,880201
+2256,Diego Dorta ,5,259112
+2257,David Frey ,1,0
+2258,Neerav Parikh ,14,2635417
+2259,Shannon Nelson ,76,392204
+2260,Serey Kong ,2,22722550
+2261,Greg Rose ,13,2854837
+2262,Parth Pancholi ,1,0
+2263,Patrik Jakobsson ,15,2161688
+2264,Sean Nyekjaer ,8,3296526
+2265,Crestez Dan Leonard ,26,295164
+2266,Yannick Brosseau ,6,6461343
+2267,Huw Davies ,19,11
+2268,Joel Fernandes ,3,233586
+2269,Russ Dill ,1,0
+2270,Paul Handrigan ,2,868
+2271,Neeraj Badlani ,1,0
+2272,Geoff Levand ,14,2544205
+2273,Benjamin Marzinski ,9,4568604
+2274,Quentin Casasnovas ,2,18630635
+2275,Marcelo Tosatti ,8,5149036
+2277,Jan Niehusmann ,1,0
+2278,Peter Jones ,12,3327010
+2279,"Compostella, Jeremy ",2,5189572
+2280,Zev Weiss ,1,0
+2281,Bich Hemon ,7,1756344
+2282,Tina Ruchandani ,15,2375607
+2283,Gil Rockah ,1,0
+2285,Fugang Duan ,14,2561405
+2286,Stephan Linz ,7,100207
+2287,Ioana Radulescu ,1,0
+2288,Bharat Bhushan ,1,0
+2289,Helen Koike ,7,71926
+2290,Yegor Yefremov ,14,2672627
+2292,Alexandr Petrenko ,1,0
+2293,Charanya Venkatraman ,1,0
+2294,Hiromitsu Yamasaki ,1,0
+2295,Christophe Ricard ,130,256295
+2296,Stefan Berger ,7,2707793
+2297,Christophe RICARD ,26,609998
+2298,Xiaolong Wang ,1,0
+2299,Anthony Romano ,1,0
+2300,Evgeniy Borisov ,6,1276871
+2301,Jeffrey Carlyle ,8,606955
+2302,Frank Rowand ,4,4355367
+2303,Kumar Gala ,3,18272200
+2304,Weston Andros Adamson ,5,996230
+2305,Jaroslav Kysela ,2,609344
+2306,Zheng Lv ,2,262290
+2307,Arturo Borrero ,1,0
+2308,Woodrow Shen ,6,5790362
+2309,Dmitrii Tcvetkov ,1,0
+2310,Taeung Song ,41,773233
+2311,Michael Scott ,13,3727364
+2312,Haozhong Zhang ,17,1734710
+2313,Faisal Latif ,23,1520053
+2314,Ashutosh Dixit ,18,1337188
+2315,Dotan Barak ,1,0
+2317,Marc MERLIN ,1,0
+2318,Shivani Bhardwaj ,76,305373
+2319,Ed Spiridonov ,3,4798156
+2320,Jimmy Assarsson ,1,0
+2321,Cristina Ciocan ,7,1149097
+2322,Jayachandran B ,8,2025861
+2323,Simon Trimmer ,1,0
+2324,Joonyoung Shim ,56,594137
+2325,Lukasz Luba ,2,1780301
+2326,MyungJoo Ham ,8,3517460
+2327,Cai Zhiyong ,1,0
+2328,Ralf Gerbig ,1,0
+2329,Koehrer Mathias (ETAS/ESW5) ,1,0
+2330,Shaokun Zhang ,1,0
+2331,Kenny Yu ,2,3540
+2332,Christian Gmeiner ,1,0
+2333,Yang Shi ,44,528064
+2334,Zhilong Liu ,1,0
+2335,Gary Bisson ,23,1224360
+2336,Sricharan R ,17,700528
+2337,Guohua Zhong ,1,0
+2338,Michał Winiarski ,8,3593055
+2339,Yann Droneaud ,7,5130586
+2340,Jun He ,1,0
+2341,Qianqian Xie ,11,782315
+2342,Vardan Mikayelyan ,16,719833
+2343,Li Yang ,4,6279218
+2345,Roman Volkov ,4,4763700
+2346,akam kumar bharathi ,1,0
+2347,Sergey Cheremencev ,1,0
+2348,Alex Zhuravlev ,1,0
+2349,Bruno Faccini ,6,4826901
+2350,Thomas Graziadei ,1,0
+2351,David Miller ,5,7727829
+2352,stuart hayes ,1,0
+2353,Chris J Arges ,7,4815365
+2354,Wei Yuan ,2,11486204
+2355,Jeff Garzik ,1,0
+2356,Konrad Leszczynski ,2,4591837
+2357,Maximilian Schneider ,4,1207704
+2358,Wolfgang Grandegger ,1,0
+2359,Basil Gunn ,1,0
+2360,Naveen Kaje ,1,0
+2361,Fenghua Yu ,4,2812388
+2363,Nikita Eshkeev ,2,4243505
+2365,Zygo Blaxell ,2,3640191
+2366,Janusz Krzysztofik ,2,7336
+2367,Matt Flax ,1,0
+2368,Mika Båtsman ,1,0
+2369,Lakhvich Dmitriy ,3,11631994
+2370,Eugene Crosser ,20,1798679
+2371,Vincent Palatin ,5,5539706
+2372,Fabien Siron ,2,574466
+2373,Arend van Spriel ,54,658724
+2374,Wright Feng ,3,7
+2375,Chris Brand ,10,152387
+2376,Jie Qiu ,3,1768890
+2377,Niklas SÃ¶derlund ,1,0
+2378,Hendrik Brueckner ,24,1239993
+2379,"Ocquidant, Sebastien ",1,0
+2380,Libin Yang ,32,1100910
+2381,Yunhong Jiang ,4,1
+2382,Yang Zhang ,1,0
+2383,Martin Habets ,3,9765704
+2384,Rashmica Gupta ,19,973200
+2385,Ying Xue ,16,2352413
+2386,Philip Prindeville ,1,0
+2387,Christopher Spinrath ,6,894038
+2388,Valentin Raevsky ,1,0
+2389,Liviu Dudau ,28,1248145
+2390,Paul Bolle ,8,3878745
+2391,Wan Zongshun ,7,3268537
+2392,Kailang Yang ,12,3140723
+2393,Rui Zhang ,1,0
+2394,Tan Jui Nee ,1,0
+2395,James Bottomley ,17,2086541
+2396,"Su, Xuemin ",1,0
+2397,Feng Tang ,3,15657396
+2398,Hannes Frederic Sowa ,54,630295
+2399,Greg Hackmann ,10,1319600
+2400,Wei-Ning Huang ,7,4790220
+2401,plr.vincent@gmail.com ,1,0
+2402,Oscar ,1,0
+2403,Bharata B Rao ,3,12099547
+2404,Lars Ellenberg ,46,386828
+2405,Roland Kammerer ,3,8703634
+2406,Philipp Reisner ,9,2175908
+2407,Jean-Michel Hautbois ,4,6828693
+2408,Andres Rodriguez ,1,0
+2409,Xiao Ni ,1,0
+2410,Jérôme Glisse ,8,4320515
+2411,Ruud Derwig ,2,30640496
+2412,Ajit Pandey ,1,0
+2413,Daniel van Gerpen ,1,0
+2414,Junichi Nomura ,10,2591828
+2415,Ankitprasad Sharma ,3,6898145
+2416,Krzysztof Błaszkowski ,8,148793
+2417,Armen Baloyan ,1,0
+2418,Lina Iyer ,9,4442498
+2419,Adriana Reus ,24,1367161
+2420,"Markezana, William ",1,0
+2421,Rajesh Bhagat ,8,2912620
+2422,Juergen Borleis ,12,2808287
+2423,Manuel Lauss ,6,4395561
+2424,Pramod Kumar ,18,1158076
+2425,Zi Shen Lim ,11,1879639
+2426,Manfred Schlaegl ,5,7077841
+2427,Chris Blake ,1,0
+2428,Jayachandran C ,13,2125189
+2429,Weongyo Jeong ,3,3204351
+2430,Jianyu Zhan ,4,2706075
+2431,Jean Guyomarc'h ,1,0
+2432,Claudio Fontana ,1,0
+2433,Robert P. J. Day ,3,16283653
+2434,Marek Belisko ,11,3447683
+2435,Jonghwa Lee ,3,15827431
+2436,Beomho Seo ,2,32415407
+2437,Alexander Yarygin ,6,1622272
+2438,Shahar Klein ,1,0
+2439,Eli Sennesh ,5,3674328
+2440,Marti Bolivar ,5,13872296
+2441,Eric Caruso ,2,20094294
+2442,Zhaoxiu Zeng ,3,2201209
+2443,Cong Wang ,4,9768445
+2444,Damien Riegel ,36,441953
+2445,Alessandro Radicati ,2,66
+2446,Kirtika Ruchandani ,2,31
+2447,Shweta Choudaha ,2,2007
+2448,Alison Wang ,5,7553780
+2449,Murali Karicheri ,29,1123925
+2450,Rafal Krypa ,3,16073974
+2451,Dennis Wassenberg ,1,0
+2452,H. Peter Anvin ,11,7482
+2453,Matthew Gerlach ,2,27816711
+2454,Jeff Moyer ,11,3428152
+2455,Sunad Bhandary ,2,25377623
+2456,Jason Low ,14,2639379
+2457,Helmut Grohne ,1,0
+2458,Iban Rodriguez ,4,7198510
+2459,LEROY Christophe ,46,795447
+2460,hongkun.cao ,2,690955
+2461,Pau Espin Pedrol ,1,0
+2462,Tobin C Harding ,3,25943
+2463,Lidza Louina ,1,0
+2464,Li Dongyang ,2,5965206
+2465,Michał Pecio ,3,13545129
+2466,ayaka ,4,2765
+2467,Nicolas Dufresne ,1,0
+2468,Achiad Shochat ,60,529574
+2469,Max Gurtovoy ,2,1
+2470,Bob Ham ,2,1
+2471,Herve Jourdain ,1,0
+2472,Feifei Xu ,8,48296
+2473,Dr. David Alan Gilbert ,2,22260226
+2474,Mike Danese ,2,226338
+2475,Serge E. Hallyn ,3,1198120
+2476,"Fu, Zhonghui ",7,5427567
+2477,Michal Schmidt ,13,2469533
+2478,Khem Raj ,2,32856493
+2479,Adrian Chadd ,1,0
+2480,Christian Daudt ,3,1029710
+2481,Lauri Kasanen ,1,0
+2482,Venkat Prashanth B U ,1,0
+2483,Yangbo Lu ,13,2654526
+2484,Vitaly Wool ,2,1202665
+2485,Corey Minyard ,17,1480072
+2486,Guillermo Julián Moreno ,1,0
+2487,Andy Deng ,1,0
+2488,Olliver Schinagl ,13,1902920
+2489,Chanho Min ,7,732679
+2490,Kai Huang ,2,18240848
+2491,Jaewon ,1,0
+2492,Yong Li ,6,5137694
+2493,Julien Grall ,68,479599
+2494,Nicholas Krause ,34,994847
+2495,Franky Lin ,13,2691939
+2496,Gaurav Jindal (Gaurav Jindal) ,1,0
+2497,Kangjie Lu ,10,290803
+2498,Yunlong Song ,6,3926323
+2499,Joshua Henderson ,14,953955
+2500,Dmitry Bilunov ,1,0
+2501,Raja Mani ,53,596789
+2502,Masaru Nagai ,4,5715376
+2503,Martin K. Petersen ,28,1259283
+2504,Kazuya Mizuguchi ,15,2268971
+2505,Andrew Goodbody ,5,2570502
+2506,Bastien Nocera ,7,4506677
+2507,"Kumar, Mahesh ",8,3348509
+2508,Roderick Colenbrander ,1,0
+2509,Mathieu Larouche ,3,12185346
+2510,Sagar Arun Kamble ,13,1873786
+2511,wangyunjian ,1,0
+2512,Troy Kisky ,10,3398182
+2513,Chen Haiquan ,1,0
+2514,Anup Patel ,24,870998
+2515,Jean-Jacques Hiblot ,1,0
+2516,Simran Rai ,7,3215467
+2517,Stephen Smalley ,17,1953823
+2518,"Kanchanapally, Vidyullatha ",2,3044581
+2519,Naveen Krishna Chatradhi ,1,0
+2520,Cristian Stoica ,1,0
+2521,Krzysztof Opasiak ,27,1041548
+2522,Vahram Aharonyan ,3,1428380
+2523,Jim Lodes ,4,995874
+2525,Robert Richter ,15,2238332
+2526,Taehee Yoo ,15,2398555
+2527,Akshay Bhat ,16,1087652
+2528,Baozeng Ding ,2,381753
+2529,Pooya Keshavarzi ,1,0
+2530,Benson Leung ,7,5507994
+2531,Antony Pavlov ,18,1462066
+2532,Stephen Just ,3,13324837
+2533,Pavel Rojtberg ,14,2260282
+2534,Rajneesh Bhardwaj ,1,0
+2535,Marco Trevisan (Treviño) ,1,0
+2536,Jaap Jan Meijer ,1,0
+2537,Antonio Murdaca ,5,7736650
+2538,Dan Streetman ,54,622153
+2539,Erico Nunes ,1,0
+2540,Moritz Fischer ,24,1112516
+2541,Glenn Dayton ,1,0
+2542,Zhang Zhuoyu ,1,0
+2543,Nicholas D Steeves ,1,0
+2544,Roman Kagan ,1,0
+2545,Tom Lendacky ,19,1747339
+2546,Honggang Li ,1,0
+2547,Heiko Schocher ,10,3532943
+2548,z00189512 ,1,0
+2549,Stefano Stabellini ,24,1359952
+2551,Oleksandr Natalenko ,2,5295508
+2552,Wang Xiaoqiang ,6,2227772
+2553,Tomáš Trnka ,1,0
+2554,Matt Gumbel ,1,0
+2555,Ramalingam C ,8,4229789
+2556,Tomas Bzatek ,1,0
+2557,Cristina Moraru ,38,548092
+2558,Tiberiu Breana ,19,1809517
+2559,Nicolas Chauvet ,6,4733553
+2560,Thomas Koeller ,1,0
+2561,Sam Ravnborg ,8,3544036
+2562,Heloise ,1,0
+2563,"Du, Changbin ",15,927550
+2564,René Nyffenegger ,2,1940154
+2565,Janis Danisevskis ,1,0
+2566,Richard W.M. Jones ,2,1362097
+2567,Stefan Bader ,2,12260116
+2568,Yu Zhao ,3,11020291
+2569,Weijie Yang ,2,10905458
+2570,Ming Li ,1,0
+2571,Chen Yucong ,3,4650253
+2572,Neil Horman ,27,1052497
+2573,Rafal Redzimski ,2,3213287
+2574,Soumya PN ,1,0
+2576,Matt Evans ,1,0
+2577,Qianyu Gong ,1,0
+2579,Sergey Yanovich ,1,0
+2580,Andres Lagar-Cavilla ,1,0
+2581,Li Zhang ,4,9459607
+2582,Yaowei Bai ,75,296737
+2583,Li Peng ,2,17708200
+2584,Jun Piao ,2,5624218
+2585,Alden Tondettar ,4,667909
+2586,Daniel Hung-yu Wu ,1,0
+2587,Andy Honig ,1,0
+2588,Pankaj Gupta ,2,28466437
+2589,Shirley Ma ,3,13047874
+2591,Dawei Chien ,1,0
+2592,Ulises Brindis ,2,24025288
+2593,Andy Champ ,1,0
+2594,Boris BREZILLON ,138,243601
+2595,Chenhui Zhao ,1,0
+2596,"Samudrala, Sridhar ",3,15751254
+2597,David Bond ,1,0
+2598,tom will ,2,354
+2599,Pantelis Antoniou ,5,7813910
+2600,Ken Sumrall ,1,0
+2601,Scott Talbert ,1,0
+2602,chenhui zhao ,8,2616980
+2603,Hou Zhiqiang ,7,3917006
+2604,Ajit Khaparde ,4,2717776
+2605,Qiang Huang ,1,0
+2606,Knud Poulsen ,3,20
+2607,Nigel Croxon ,1,0
+2608,Ashish Shah ,1,0
+2609,Akeem G Abodunrin ,4,5869798
+2610,Kevin Scott ,4,6100030
+2611,Guy Levi ,1,0
+2612,Hans Westgaard Ry ,3,4086348
+2613,Brian Walsh ,1,0
+2614,Tony Wu ,2,32558
+2615,Lauro Costa ,1,0
+2616,Sashka Nochkin ,1,0
+2617,Aurelien Jarno ,4,6734902
+2618,Emil Velikov ,38,42476
+2619,Leonid Yegoshin ,7,4704077
+2620,Martin Schiller ,3,7127737
+2621,Simon Arlott ,23,804832
+2622,Andrei Pistirica ,4,2133574
+2623,Markos Chandras ,55,522674
+2624,Alban Bedel ,62,540901
+2626,Jeremy McDermond ,7,346205
+2627,Dan Fuhry ,1,0
+2628,Nick Hoath ,25,1436642
+2629,Tom O'Rourke ,1,0
+2630,Mans Rullgard ,39,542681
+2631,Jeremy Compostella ,2,458461
+2632,Dmitry V. Levin ,11,1371809
+2633,Riccardo Bortolato ,1,0
+2634,hchrzani ,1,0
+2635,Vik Heyndrickx ,1,0
+2636,Chaitra P B ,6,43
+2637,wang yanqing ,3,448
+2638,Charlie Mooney ,3,14592101
+2639,Clinton Sprain ,1,0
+2640,Aaron Durbin ,1,0
+2641,Gene Chen ,1,0
+2642,Harish Kasiviswanathan ,1,0
+2643,Sonny Jiang ,11,2960800
+2644,Michele Curti ,5,7146097
+2645,Christophe Lombard ,11,1877096
+2646,Lennart Sorensen ,1,0
+2647,Chandan Kumar ,2,1
+2648,Laurent Vivier ,4,5223964
+2649,Petros Koutoupis ,1,0
+2650,Shaohui Xie ,17,1730425
+2651,Dirk Gouders ,3,6729
+2652,Pardha Saradhi K ,1,0
+2653,Azriel Samson ,2,9197615
+2654,Mordechai Goodstein ,1,0
+2655,Wang Hongcheng ,5,1174168
+2656,Julian Scheel ,6,5750071
+2657,Yura Pakhuchiy ,1,0
+2658,Laurence Oberman ,1,0
+2659,Imran Haider ,1,0
+2660,Taku Izumi ,38,605285
+2661,Robin Humble ,1,0
+2662,Michael Thalmeier ,10,288058
+2663,Helmut Schaa ,8,2841347
+2664,Alejandro Torrado ,1,0
+2665,Chris Diamand ,2,8867166
+2666,Michael Haas ,1,0
+2667,Dave Wysochanski ,1,0
+2669,Alexander Curtin ,14,278514
+2670,Joshua Kinard ,4,9290517
+2671,Andreas Ruprecht ,4,9395493
+2672,Nikolay Martynov ,1,0
+2673,Andreas Gröger ,3,15946324
+2674,Nikita Edward Baruzdin ,1,0
+2675,Alexander Gerasiov ,1,0
+2676,Kenneth Graunke ,1,0
+2677,Tal Zilcer ,1,0
+2678,Courtney Cavin ,6,4792549
+2679,Franck Jullien ,2,2752481
+2680,Satoshi Nagahama ,1,0
+2681,Marc Angel ,1,0
+2682,Jon Maxwell ,3,13043675
+2683,Kevin Fitch ,1,0
+2684,Andrea Adami ,1,0
+2685,Mike Williams ,3,222
+2686,Austin S. Hemmelgarn ,1,0
+2687,Haggai Abramovsky ,4,3036439
+2688,Lawrence Yiu ,1,0
+2689,Howard Cochran ,2,2007835
+2690,Dinko Mironov ,1,0
+2692,Wang YanQing ,6,5345410
+2693,Konstantin Shkolnyy ,11,1476906
+2694,Yuyang Du ,16,1589119
+2695,Mitchell Tasman ,1,0
+2696,Moritz Kühner ,2,3
+2697,Mykola Lysenko ,8,1748116
+2698,rezhu ,5,5640832
+2699,Bas Nieuwenhuizen ,2,22563112
+2700,Sai Gurrappadi ,1,0
+2701,Arjun Sreedharan ,1,0
+2702,Florian Euchner ,1,0
+2703,Yury Norov ,3,6668465
+2705,Sasha Levin ,31,1002443
+2706,Lei Liu ,1,0
+2707,Constantin Musca ,1,0
+2708,Minghuan Lian ,13,1320997
+2709,Mimi Zohar ,31,1004074
+2710,Usha Ketineni ,3,5045795
+2711,KY Srinivasan ,21,1543001
+2712,lei liu ,1,0
+2713,Josh Boyer ,10,2244108
+2714,Peter Hurley ,191,165153
+2716,Pratik Patel ,13,2485140
+2717,Manu Kumar ,6,66433
+2718,Wei Wang ,2,6391310
+2719,Tirumalesh Chalamarla ,8,3700783
+2720,Chunyu Hu ,4,1613607
+2721,Michael Callahan ,1,0
+2722,Schemmel Hans-Christoph ,2,4002293
+2723,Stas Sergeev ,11,2967187
+2724,Gabriele Paoloni ,10,1747354
+2725,Vitaly Prosyak ,6,2296495
+2726,Jérome Glisse ,15,288774
+2727,Serge Hallyn ,4,2187020
+2728,Stanislav Meduna ,1,0
+2729,Praveen Paneri ,2,18
+2730,Dharageswari.R ,7,1626432
+2731,Mousumi Jana ,1,0
+2732,Martin Sperl ,69,476473
+2733,Andreas Fenkart ,20,1559978
+2734,Tim Bingham ,1,0
+2735,Hamish Martin ,3,5921175
+2736,Wang Shanker ,1,0
+2737,Ben Sen ,1,0
+2739,Yi Zhang ,3,12834536
+2740,Mariusz Bialonczyk ,1,0
+2741,Brian Bloniarz ,1,0
+2742,Dmitry Kasatkin ,14,2298438
+2743,Jake Oshins ,18,1367647
+2744,Sudeep Dutt ,36,844420
+2745,Maarten Brock ,7,1088873
+2747,Wills Wang ,2,7206038
+2748,Chunfeng Yun ,16,1192282
+2749,Inki Dae ,19,1514204
+2750,Itai Katz ,10,2003233
+2751,Horia Geanta ,1,0
+2752,han tai ,1,0
+2753,Manav Batra ,1,0
+2754,Nicholas Sim ,10,311382
+2755,Cihangir Akturk ,7,4059062
+2756,Juanma de Hoyos ,1,0
+2757,Ben Marsh ,22,337216
+2758,Markus Böhme ,3,14090222
+2759,Leo Sperling ,1,0
+2760,Joseph T Handzik ,1,0
+2761,Raghava Aditya Renukunta ,20,299499
+2762,Igor Kotrasinski ,19,1061363
+2763,Miroslav Benes ,7,5105751
+2764,Li Bin ,13,1515424
+2766,Yisen.Zhuang\(Zhuangyuzeng\) ,15,21727
+2767,Bruce Rogers ,1,0
+2768,Helen Mae Koike Fornazier ,3,374193
+2769,Caleb Crome ,1,0
+2770,Jiang Qiu ,3,57
+2771,Leo Kim ,462,42946
+2772,Swapnil Pimpale ,4,490924
+2773,James Nunez ,3,2254626
+2775,Wang Di ,1,0
+2776,David Müller ,2,237235
+2777,xuejiufei ,10,1161921
+2778,Ananth N Mavinakayanahalli ,2,31143019
+2780,Jerry Hoemann ,4,1558783
+2781,David Rivshin ,17,713180
+2782,françois romieu ,12,2833208
+2783,Petko Manolov ,7,2102708
+2784,Mohammad Khan ,1,0
+2785,Chien Tin Tung ,1,0
+2787,Jianqun Xu ,5,1434843
+2788,Chris Bainbridge ,8,4434086
+2789,anish kumar ,4,2645854
+2790,Thomas Renninger ,6,3084882
+2791,Mattia Dongili ,3,4302386
+2792,Fu Wei ,6,1221222
+2793,Linn Crosetto ,2,1
+2794,Kyeongmin Cho ,1,0
+2795,Luke Dashjr ,2,30200735
+2796,Satoru Takeuchi ,3,2059929
+2797,Sevak Arakelyan ,1,0
+2798,Fei Yang ,1,0
+2799,Shilpasri G Bhat ,18,1577370
+2800,Kamil Krawczyk ,2,11804223
+2801,Michal Kosiarz ,2,11803997
+2802,Matthias Reichl ,4,57536
+2803,Andreas Dannenberg ,21,1217902
+2804,Trent Lloyd ,1,0
+2805,Chanho Park ,6,4451829
+2806,Shashank Sharma ,17,2045486
+2807,Rui Salvaterra ,3,587553
+2808,Jakub Wilk ,5,6067541
+2809,Sergio Prado ,4,2174363
+2810,Phil Edworthy ,14,1854881
+2811,cpaul@redhat.com ,2,430375
+2814,Aleksei Fedotov ,2,22109573
+2815,Peter Swain ,2,85584
+2816,Francesco Ruggeri ,4,4981781
+2817,Yetunde Adebisi ,3,442
+2818,Steve deRosier ,4,4028547
+2819,Alan Liu ,2,15555212
+2820,Chun-Yeow Yeoh ,6,6358417
+2821,Akira Tsukamoto ,1,0
+2822,Per Forlin ,1,0
+2823,Jia-Ju Bai ,16,1600577
+2824,Conrad Kostecki ,1,0
+2825,Ivan Babrou ,1,0
+2826,Suman Anna ,67,471185
+2827,Kai Makisara ,2,5355674
+2828,Sebastian Herbszt ,7,3975179
+2829,Glenn Ruben Bakke ,7,4510704
+2830,Knut Wohlrab ,2,3404625
+2831,WEN Pingbo ,3,9118727
+2832,Pontus Fuchs ,17,1702731
+2833,Nazar Mokrynskyi ,1,0
+2834,Philippe Longepe ,10,1522556
+2835,Dr. H. Nikolaus Schaller ,1,0
+2836,Andrew Gabbasov ,9,3164918
+2837,Ashok Kumar ,10,1248828
+2838,Horia Geant? ,15,2149898
+2839,Jens Kuske ,10,3388614
+2840,Jasem Mutlaq ,1,0
+2841,Emmanouil Maroudas ,1,0
+2842,Luke Starrett ,1,0
+2843,Evgeny Voevodin ,1,0
+2844,Andrea Venturi ,1,0
+2845,Zhuang Yuyao ,1,0
+2846,Khalid Aziz ,2,10294721
+2848,Lukasz Anaczkowski ,4,7771466
+2849,Peter Heise ,3,253570
+2850,Dave Martin ,6,6063209
+2851,Koro Chen ,20,1410517
+2853,Hari Bathini ,3,10640358
+2854,Stefan Schmidt ,25,1206972
+2855,Omer Peleg ,8,338
+2856,Vladis Dronov ,9,1654821
+2857,Kalle Valo ,61,557917
+2858,Krzysztof Hałasa ,8,3569679
+2859,Alex Dai ,22,1128537
+2860,Xiao Guangrong ,62,493177
+2861,Liang Chen ,3,4124782
+2863,Jonas Eymann ,1,0
+2864,"Lu, Han ",8,4330078
+2865,Maxim Zhukov ,2,987793
+2866,Petr Štetiar ,7,2395221
+2867,Daniel DeFreez ,1,0
+2868,Sjoerd Simons ,30,749655
+2869,Schuyler Patton ,2,607995
+2870,Max Uvarov ,1,0
+2871,Aubrey Li ,1,0
+2872,Ezequiel García ,13,1755955
+2873,Shubhangi Shrivastava ,10,1478627
+2874,jim.bride@linux.intel.com ,2,13666653
+2875,Moise Gergaud ,14,1007943
+2876,Martin Dummer ,2,121
+2877,Justin Chen ,4,5018651
+2878,Askar Safin ,1,0
+2879,Pavel Fedin ,26,1033974
+2880,Adam Buchbinder ,19,259803
+2881,Sina Hamedian ,1,0
+2882,Ahmed Samy ,1,0
+2883,Slawomir Stepien ,13,100818
+2884,santosh.shilimkar@oracle.com ,32,655249
+2885,Qing Huang ,1,0
+2886,wangweidong ,5,4050054
+2887,Doug Hoyte ,1,0
+2888,Diego Herranz ,2,182571
+2889,Diego Viola ,10,3106075
+2890,Leonid Moiseichuk ,1,0
+2891,Chad Dupuis ,15,1436947
+2892,Jan Höppner ,4,1128094
+2893,Xinwei Kong ,2,1275
+2894,Zhong Kaihua ,3,10
+2895,Dongwon Kim ,3,8855220
+2896,Koji Matsuoka ,9,2504555
+2897,Jack Pham ,5,1753506
+2898,Yingjoe Chen ,18,1824227
+2899,Martin Vajnar ,1,0
+2900,Rameshwar Prasad Sahu ,9,3428551
+2901,Bert Vermeulen ,4,10430577
+2902,Rahul Verma ,1,0
+2903,Petri Gynther ,15,1961857
+2904,Chris Friesen ,2,3168485
+2905,Emrah Demir ,1,0
+2906,Jonas Rabenstein ,4,7462614
+2907,Yoshihiro Kaneko ,2,2235683
+2908,Andrzej Pietrasiewicz ,27,1136578
+2909,Brijesh Singh ,4,6421437
+2910,Robert Dobrowolski ,1,0
+2911,Benjamin LaHaise ,1,0
+2912,Cory Tusar ,13,2268820
+2913,Justin Waters ,5,951752
+2914,Erin Lo ,3,6257786
+2915,Biao Huang ,9,1047259
+2916,Markus Reichl ,5,7356768
+2918,Hyungwon Hwang ,25,1109795
+2919,Yunhui Cui ,1,0
+2921,Kunihiko Hayashi ,1,0
+2922,Kirill Marinushkin ,1,0
+2923,Peter Oh ,32,1126511
+2924,Jan Luebbe ,10,2458794
+2925,Dmitry Ivanov ,2,122803
+2926,Jacek Lawrynowicz ,2,32348
+2927,JC Lafoucriere ,2,6
+2928,Gaurav Mahajan ,1,0
+2929,Aurelien Degremont ,1,0
+2930,Narsimhulu Musini ,8,3664279
+2932,Adrian-Ken Rueegsegger ,1,0
+2933,Erik Hugne ,3,8794530
+2934,Vipin K Parashar ,3,11676484
+2935,Harald Geyer ,14,2254617
+2936,YH Huang ,4,5387102
+2937,Paul Cercueil ,3,15078838
+2938,Patrik Flykt ,1,0
+2939,Alan ,16,1980659
+2940,Itai Handler ,1,0
+2941,"Strashko, Grygorii ",2,11169385
+2942,Jozsef Kadlecsik ,20,1501632
+2943,Julian Calaby ,1,0
+2944,Andy Fleming ,2,14972966
+2945,Gabriel Somlo ,7,2679304
+2946,Arika Chen ,1,0
+2947,Deepthi Kavalur ,1,0
+2948,Doron Shikmoni ,1,0
+2949,John Holland ,1,0
+2950,Peter Hutterer ,8,3270648
+2951,John Ogness ,8,4144138
+2952,Dennis Kadioglu ,2,3091980
+2953,Colin King ,2,16375876
+2955,Jeff Vander Stoep ,5,5769599
+2956,David Disseldorp ,6,4433403
+2957,Janak Desai ,1,0
+2958,Bruce Allan ,22,1038988
+2959,Andrey Vostrikov ,1,0
+2960,Silvan Jegen ,2,28445819
+2961,Yong Wu ,7,574704
+2962,Cosmin-Gabriel Samoila ,2,730577
+2963,Ahsan Atta ,3,10896369
+2964,Arun Siluvery ,47,678487
+2965,Paul Parsons ,3,3132
+2966,Akira Moroo ,1,0
+2967,Will Miles ,1,0
+2968,Rostislav Pehlivanov ,2,21488872
+2969,Bastien Philbert ,1,0
+2970,chas williams ,2,16989337
+2972,Yauhen Kharuzhy ,1,0
+2973,Davide Italiano ,1,0
+2974,Alistair Leslie-Hughes ,1,0
+2975,Przemek Rudy ,1,0
+2976,Konrad Rzeszutek Wilk ,19,689729
+2977,Yusuke Fujimaki ,2,252737
+2978,Weijie Gao ,1,0
+2979,Marc Titinger ,11,1358405
+2980,Lisheng ,3,231539
+2981,Akash Choudhari ,1,0
+2982,Neil Zhang ,2,4652919
+2983,Yuki Shibuya ,1,0
+2984,Vandana Kannan ,14,2378252
+2985,Yao Dongdong ,1,0
+2986,Patrick Uiterwijk ,3,59824
+2987,Kaixu Xia ,7,3377163
+2988,Alfredo Alvarez Fernandez ,4,897090
+2989,Dongsheng Yang ,9,1980942
+2990,Dave Anderson ,1,0
+2991,Ignat Korchagin ,1,0
+2993,Vishal Mahaveer ,3,9116218
+2994,Andres Freund ,1,0
+2995,Sander Eikelenboom ,1,0
+2996,Dima Kogan ,3,6654964
+2997,Chaya Rachel Ivgi ,14,2267159
+2998,Sedat Dilek ,1,0
+2999,Imre Kaloz ,3,13990022
+3000,Qi Zheng ,1,0
+3001,Qipeng Zha ,16,1681484
+3002,YD Tseng ,2,13460005
+3004,Aniket Sharma ,1,0
+3005,Adam Baker ,3,913872
+3006,Andrew Price ,4,5446527
+3007,Qais Yousef ,21,465488
+3008,Stephane Bryant ,3,146
+3009,Harald Freudenberger ,2,26691230
+3010,Jiebing Li ,1,0
+3011,Sebastian Siewior ,4,2970307
+3013,Okash Khawaja ,5,6634547
+3014,Parinay Kondekar ,6,927235
+3016,Kathryn Hampton ,1,0
+3017,Samuel Thibault ,7,4183924
+3019,Nik Nyby ,18,1386372
+3020,Heena Sirwani ,1,0
+3021,Dilek Uzulmez ,6,633076
+3022,Sam Horlbeck Olsen ,1,0
+3023,Kyle Kuffermann ,2,1412487
+3024,Roger H. Newell ,5,981881
+3025,JM Friedt ,3,12098148
+3026,Reinder de Haan ,5,3893701
+3027,Xue jiufei ,9,2969460
+3028,jiangyiwen ,9,2192272
+3029,Ryan Ding ,13,1461515
+3030,Anton Protopopov ,13,332934
+3031,Sheng Li ,4,56143
+3032,John Dahlstrom ,1,0
+3033,Souvik Kumar Chakravarty ,7,916499
+3034,Eric Curtin ,2,15803860
+3035,Bobi Mihalca ,3,297
+3036,MaJun ,5,1836054
+3037,Piotr Kwapulinski ,3,11746388
+3038,Stefani Seibold ,1,0
+3041,Marta Rybczynska ,1,0
+3042,Lan Tianyu ,7,1
+3043,Huaitong Han ,11,1652465
+3044,Tomas Elf ,7,3637900
+3045,Emil Bartczak ,1,0
+3046,Jakub Jelen ,1,0
+3047,John Lin ,17,1695556
+3048,Sohom Bhattacharjee ,1,0
+3049,Tero Roponen ,1,0
+3050,Jesse Barnes ,13,2447969
+3051,Jordan Justen ,6,2886036
+3053,Jesse Gross ,9,2203118
+3054,Stefan Eichenberger ,2,52
+3055,Victor Clément ,1,0
+3056,Matias Bjorling ,1,0
+3058,Cyan Ogilvie ,1,0
+3059,ludovic.desroches@atmel.com ,12,2209189
+3060,Keith Mok ,1,0
+3061,Richard Pospesel ,1,0
+3062,Ivan Delalande ,1,0
+3063,Rob Landley ,1,0
+3064,Dave Young ,4,5445211
+3065,YiPing Xu ,1,0
+3067,Joshua Hunt ,1,0
+3068,Nate Dailey ,1,0
+3069,Piet Delaney ,1,0
+3070,Alex Estrin ,2,2937720
+3071,Kaike Wan ,12,1570161
+3072,Brent Taylor ,2,24374517
+3073,Philip Elcan ,1,0
+3074,Nicolas Boichat ,23,1190243
+3075,Mihai Mihalache ,1,0
+3076,Nathan Schulte ,1,0
+3077,Slava Bacherikov ,1,0
+3078,Stanislav Kinsburskiy ,2,5759979
+3079,Geyslan G. Bem ,46,196439
+3080,San Mehat ,1,0
+3081,Jiufei Xue ,1,0
+3082,Lada Trimasova ,4,1324037
+3083,Yaniv Gardi ,50,504657
+3084,Bryn M. Reeves ,1,0
+3085,Michael Büsch ,9,592529
+3086,Soren Brinkmann ,21,982031
+3087,Robert Doebbelin ,1,0
+3088,Hans-Christian Egtvedt ,3,11381269
+3089,Aaron Plattner ,3,10237998
+3090,liping.zhang ,1,0
+3091,Xia Yang ,1,0
+3092,Martin Peres ,9,1423433
+3093,Varad Gautam ,1,0
+3094,vikram.jadhav07 ,1,0
+3095,Hubert Chrzaniuk ,4,4870894
+3096,"Chrzaniuk, Hubert ",1,0
+3097,Krzysztof Halasa ,1,0
+3098,James Johnston ,1,0
+3099,Isaac Huang ,2,15440274
+3100,G Pooja Shamili ,3,148
+3101,Derek Yerger ,1,0
+3102,Sandeep Jain ,1,0
+3103,Janani Ravichandran ,71,38490
+3104,Georgiana Chelu ,1,0
+3105,EunTaik Lee ,2,1878512
+3106,Shraddha Barke ,215,91395
+3107,Tapan Prakash T ,5,218372
+3108,Matthew Dawson ,3,2002215
+3109,Zvi Nachmani ,1,0
+3110,Scott Lawson ,1,0
+3111,Pingchao Yang ,9,2570393
+3112,Hector Marco-Gisbert ,1,0
+3113,Sheng Yang ,8,1268634
+3114,Jenny Derzhavetz ,18,901063
+3115,Quinn Tran ,16,1326837
+3116,Malcolm Priestley ,105,262120
+3117,Vennila Megavannan ,9,1465810
+3118,Hari Prasath Gujulan Elango ,45,542447
+3119,Sadanand Warrier ,1,0
+3120,Bryan Morgan ,1,0
+3121,Jim Snow ,5,2130181
+3122,Edward Mascarenhas ,2,2760521
+3123,Josh Hunt ,2,51
+3124,DingXiang ,1,0
+3125,Rajesh Borundia ,3,8855842
+3126,Xiangliang Yu ,4,2915466
+3127,"Wiebe, Wladislav (Nokia - DE/Ulm) ",1,0
+3128,"Luck, Tony ",3,10333838
+3129,Quan Nguyen ,4,582998
+3130,Eliad Peller ,44,635119
+3131,OGAWA Hirofumi ,3,4760096
+3132,Geoffrey Thomas ,1,0
+3133,Harb Abdulhamid ,1,0
+3134,Zhiyi Sun ,1,0
+3135,Philippe Loctaux ,2,343988
+3136,Kaiyen Chang ,1,0
+3137,Xuelin Shi ,2,35936
+3138,Saurabh Sengar ,24,492051
+3139,Huiquan Zhong ,1,0
+3140,Robin H. Johnson ,1,0
+3141,Chen Fan ,1,0
+3142,Bogicevic Sasa ,9,1424031
+3143,Kyeong Yoo ,1,0
+3144,Kostenzer Felix ,1,0
+3145,Luca Abeni ,10,2824304
+3146,Martin Koegler ,1,0
+3147,Grzegorz Bajorski ,2,1128095
+3148,Henry Paulissen ,2,109
+3149,Julien Grossholtz ,5,1186654
+3150,Phil Elwell ,1,0
+3151,Youngmin Nam ,2,1830324
+3152,Wilson Ding ,1,0
+3153,Miodrag Dinic ,2,3342998
+3154,Matwey V. Kornilov ,8,3320310
+3155,yankejian ,8,1793246
+3157,Krzysztof =?utf-8?Q?Ha=C5=82asa?= ,2,20483697
+3158,Yao Yuan ,8,2625197
+3159,Bill Sommerfeld ,1,0
+3160,Ujjal Roy ,3,65
+3161,Anthony Wong ,1,0
+3162,One Thousand Gnomes ,3,2645262
+3163,Dedy Lansky ,2,18500409
+3164,Hamad Kadmany ,6,4698771
+3166,Bernhard Walle ,3,1002968
+3167,Atsushi Nemoto ,3,8001285
+3169,Reilly Grant ,1,0
+3170,Grégor Boirie ,3,421207
+3171,Joseph McNally ,1,0
+3172,Sanchayan Maity ,15,1412418
+3173,Matthieu Rogez ,3,76866
+3174,Wang Dongsheng ,6,3459688
+3175,Huibin Hong ,1,0
+3176,Dudley Du ,11,1942189
+3177,Milosz Tanski ,1,0
+3178,Eric Laurent ,1,0
+3179,Antti Seppälä ,5,6368183
+3180,Haosdent Huang ,1,0
+3181,Thomas Klausner ,1,0
+3182,Vinayak Menon ,1,0
+3183,Christopher S. Hall ,8,10970
+3184,Nimrod Andy ,3,10987351
+3186,Dmitriy Baranov ,1,0
+3187,Loc Ho ,20,1270622
+3188,Hal Rosenstock ,5,5033606
+3189,RitwikGopi ,1,0
+3190,Jemma Denson ,29,894590
+3192,Asai Thambi SP ,17,1409790
+3194,Chaos.Chen ,1,0
+3195,Yu Ning ,2,2956860
+3196,GEORGE ,1,0
+3197,Philippe Valembois ,2,36
+3198,Marc-Antoine Perennou ,1,0
+3199,Aviv Greenberg ,2,7848696
+3200,Simon South ,1,0
+3201,Todd E Brandt ,2,23072619
+3202,Jeremy Filizetti ,1,0
+3203,Frank Zago ,10,1626379
+3204,Alyona Romanenko ,1,0
+3205,Olaf Weber ,2,14637414
+3206,Giuseppe Cavallaro ,15,1481125
+3208,Avinash Repaka ,1,0
+3209,Chunhao Lin ,1,0
+3210,Jason Hu ,2,2887464
+3211,Timo Teräs ,4,6847739
+3212,Liu Xue ,2,18152235
+3213,Alexander Gordeev ,11,1993581
+3214,Ben Chen ,1,0
+3215,Timothy Pearson ,1,0
+3216,Tony Cho ,121,155727
+3218,Dan Bogdan Nechita ,1,0
+3219,Michael Hennerich ,3,5551971
+3220,David Windsor ,1,0
+3221,David Gibson ,8,3314523
+3222,Jeffrey Huang ,8,1443633
+3223,Haggai Eran ,32,767988
+3225,jubin.john@intel.com ,2,107
+3226,Mark F. Brown ,2,8865556
+3227,Wesley Post ,1,0
+3228,Rob Kramer ,1,0
+3229,Ivan T. Ivanov ,36,760437
+3230,Devesh Sharma ,16,1268790
+3231,Woojung.Huh@microchip.com ,20,968567
+3232,Insu Yun ,34,357782
+3234,Abhilash Jindal ,8,2455014
+3235,sixiao@microsoft.com ,5,6281390
+3236,Naga Venkata Sai Indubhaskar Jupudi ,1,0
+3237,Vittorio Alfieri ,1,0
+3238,Patrik Halfar ,2,508610
+3239,Kelly Zytaruk ,1,0
+3240,Sushaanth Srirangapathi ,1,0
+3241,Daniel Sanders ,2,21548048
+3242,Shinobu Uehara ,4,7431781
+3243,Linus Luessing ,5,294
+3244,Bai Ping ,14,1038809
+3245,Denis Carikli ,4,6312846
+3246,Frank Li ,39,679404
+3247,Yadan Fan ,1,0
+3249,Stafford Horne ,3,1319433
+3250,Avri Altman ,16,1586259
+3251,Eyal Shapira ,12,2390984
+3252,Marcus Meissner ,3,928295
+3253,Zain Wang ,6,1659313
+3254,Daniel Cashman ,6,756336
+3255,MINOURA Makoto / 箕浦 真 ,1,0
+3256,Krzysztof Adamski ,11,156346
+3257,David Lamparter ,1,0
+3258,Sebastian Parschauer ,1,0
+3259,Mehmet Kayaalp ,2,105
+3260,Andrew Pinski ,2,864114
+3261,Miles Chen ,1,0
+3262,Michel Thierry ,51,556745
+3264,Maximilain Schneider ,1,0
+3265,Benjamin Romer ,21,1303227
+3266,Pascal Huerst ,6,5261844
+3267,Anton Bondarenko ,11,693423
+3268,Kevin Smith ,2,6
+3269,Varadarajan Narayanan ,2,805191
+3270,Jelle de Jong ,2,12910129
+3271,Gabor Juhos ,4,8476469
+3272,Darren Etheridge ,4,1
+3273,Thomas Betker ,3,9424003
+3274,Bruno Randolf ,3,1
+3275,David Henningsson ,19,1391379
+3276,Mike Krinkin ,5,4699203
+3277,Corinna Vinschen ,4,5271361
+3278,Roland Hii ,1,0
+3279,Takuma Ueba ,1,0
+3280,Raanan Avargil ,13,1461298
+3282,Bradley Pankow ,1,0
+3283,David E. Box ,2,4704484
+3284,waddlesplash ,1,0
+3285,Sathya Prakash M R ,1,0
+3287,Sunil Shahu ,6,4012999
+3288,Ola Olsson ,8,1393915
+3289,Jeremy Kerr ,8,3262479
+3290,Andreas Irestål ,5,402269
+3291,Sergei Ianovich ,1,0
+3294,Tomas Henzl ,10,2699597
+3295,Suganath Prabu Subramani ,1,0
+3296,Jose Castillo ,1,0
+3298,Bernie Harris ,2,2155512
+3299,Koen Zandberg ,1,0
+3300,J.J. Meijer ,1,0
+3301,ldewangan ,1,0
+3302,Clément Vuchener ,2,12592389
+3303,Takuya Yoshikawa ,19,624954
+3304,Benoit Parrot ,9,2385651
+3305,Simon Appleby ,1,0
+3306,Hou Pengyang ,5,6032975
+3307,Chris Park ,37,614764
+3308,Ray Bellis ,1,0
+3309,David Brown ,2,480676
+3310,Sai Praneeth ,6,2071488
+3311,Peter Korsgaard ,1,0
+3312,Ken Kawasaki ,2,453750
+3313,"Karicheri, Muralidharan ",13,1555028
+3314,Robert Shearman ,15,1246003
+3315,Gerhard Uttenthaler ,1,0
+3316,Victor Dodon ,1,0
+3317,Dave Penkler ,6,298413
+3318,Lisa Du ,1,0
+3320,Hemmo Nieminen ,2,1106763
+3321,Andrew Bradford ,2,759775
+3323,Thaissa Falbo ,6,3
+3324,Fu Yong Quah ,1,0
+3325,Shalin Mehta ,1,0
+3328,Lucas Tanure ,4,923686
+3329,Leif Liddy ,1,0
+3330,Simon Guinot ,17,1269077
+3331,Harald Hoyer ,1,0
+3332,Wouter van Kesteren ,1,0
+3333,Rainer Weikusat ,10,849337
+3334,Padmanabh Ratnakar ,6,4942246
+3335,Takashi Saito ,1,0
+3336,Wu-Cheng Li ,2,1
+3337,Pandi Kumar Maharajan ,1,0
+3338,John Underwood ,1,0
+3339,Gao Pan ,8,1458660
+3340,Josh Cartwright ,5,5967882
+3341,Felipe Franciosi ,1,0
+3342,David Wragg ,4,240144
+3343,Lior Amsalem ,7,3643727
+3344,Juerg Haefliger ,1,0
+3345,Uma Shankar ,1,0
+3346,Alexandra Yates ,10,1489652
+3347,Anatolij Gustschin ,1,0
+3348,Andrey Skvortsov ,3,12438726
+3349,Xu Jianqun ,1,0
+3350,Byongho Lee ,9,2082607
+3351,Ryo Kataoka ,4,8558913
+3352,Tom Rini ,1,0
+3353,Mahesh Khanwalkar ,1,0
+3354,"Lendacky, Thomas ",31,800761
+3355,Anjali Singhai ,5,3060390
+3356,"Tang, Jianqiang ",1,0
+3357,Pandi Maharajan ,1,0
+3359,Graeme Gregory ,3,11575487
+3361,José Bollo ,2,11216591
+3362,Andrey Smetanin ,44,458195
+3363,Kevin Cernekee ,10,2766726
+3364,Jason Andryuk ,1,0
+3365,Kirill Tkhai ,3,6734624
+3366,Shota Suzuki ,3,7824863
+3367,Stephan Olbrich ,4,159266
+3368,Ben Widawsky ,9,3318086
+3369,Leslie Lau ,1,0
+3370,Manuel Pégourié-Gonnard ,6,768042
+3371,Bogdan Sikora ,1,0
+3372,Denis Kirjanov ,7,1956720
+3373,Jonathan Tinkham ,3,24
+3374,Tomás Tormo ,1,0
+3375,Joseph Bisch ,1,0
+3376,Rakhi Sharma ,3,296882
+3377,Niranjan Dighe ,5,5610413
+3378,Lijun Pan ,3,4757514
+3379,Sebastian Hesselbarth ,11,2464115
+3380,Michael McConville ,1,0
+3381,Pau Pajuel ,1,0
+3382,Harry Wentland ,7,1471868
+3383,Liguo Zhang ,4,3225234
+3384,Abhay Kumar ,1,0
+3385,Emil Goode ,1,0
+3386,Ryan Ware ,1,0
+3387,Riley Andrews ,1,0
+3388,Haneen Mohammed ,3,90520
+3389,Aybuke Ozdemir ,13,955857
+3390,Daniel Chromik ,1,0
+3391,Thanneeru Srinivasulu ,5,4242268
+3392,Suman Tripathi ,12,2175390
+3393,Tycho Andersen ,4,6072009
+3394,Louis Yu ,2,1442415
+3395,andrew-ct.chen@mediatek.com ,1,0
+3396,Bayi Cheng ,4,2637351
+3397,saurabh ,4,2275071
+3398,Daniele Ceraolo Spurio ,1,0
+3399,James Chao ,1,0
+3400,Eric Yang ,3,2202497
+3401,David Rokhvarg ,3,2202338
+3402,Peter Loeffler ,1,0
+3403,Chris Paterson ,1,0
+3404,Enrico Jorns ,2,11559298
+3405,David Jander ,5,6041241
+3406,Jean Sacren ,19,1354173
+3407,Gabriel Feceoru ,1,0
+3408,Jerry Snitselaar ,3,11804807
+3409,Codarren Velvindron ,1,0
+3410,Stephane Gasparini ,1,0
+3411,Feng Wu ,29,820614
+3412,Nathan Rossi ,1,0
+3413,Tiago Vignatti ,3,3470
+3414,Mario Lange ,1,0
+3415,Sandeep Pillai ,1,0
+3416,Addy Ke ,4,5065111
+3417,Boojin Kim ,1,0
+3418,Marc Andre ,2,94
+3419,Andreas Schwab ,3,5751060
+3420,Ariel D'Alessandro ,16,1546225
+3421,Matthias Lange ,1,0
+3422,Jiaxing Wang ,4,2807353
+3423,Kamal Mostafa ,4,2524518
+3424,Anjali Menon ,9,1599698
+3425,Saatvik Arya ,2,2336
+3426,Benoit Hiller ,1,0
+3427,SirnamSwetha ,4,163
+3428,Amadeusz Pawlik ,1,0
+3429,Christian Colic ,8,122067
+3430,Sean MacLennan ,1,0
+3431,Byeoungwook Kim ,1,0
+3432,Yannik Schmidt ,1,0
+3433,Gavin Thomas Claugus ,3,4920843
+3434,Mauro Dreissig ,1,0
+3435,Michael Hornung ,7,2753128
+3436,Daniil Leshchev ,1,0
+3437,Anatoly Stepanov ,12,1634495
+3438,Jiading Gai ,1,0
+3440,Ben Gilbert ,1,0
+3441,Nizam Haider ,13,1969767
+3442,J. German Rivera ,36,325931
+3443,Gavin O'Leary ,4,2418076
+3445,maomao xu ,1,0
+3446,Sergey Lysanov ,1,0
+3447,Alexey Tulia ,2,293
+3448,Chris Elliott ,1,0
+3449,Matej Vasek ,1,0
+3450,Othmar Pasteka ,2,6919162
+3452,Spencer E. Olson ,9,21
+3453,Rohit kumar ,2,11116375
+3454,Bopamo Osaisai ,1,0
+3455,Rajmal Menariya ,1,0
+3456,Colin Cross ,3,11766213
+3457,Rom Lemarchand ,1,0
+3458,Hugo Camboulive ,6,2190286
+3459,Glen Lee ,236,54416
+3460,CHANG FU CHIAO ,2,17828384
+3461,Jakob Østergaard Jensen ,1,0
+3462,Herton R. Krzesinski ,6,4455303
+3463,Melchior FRANZ ,1,0
+3464,Aya Mahfouz ,12,653063
+3467,Paul Mcquade ,3,38
+3468,Jeremy McNicoll ,2,762587
+3469,Jeffy Chen ,9,641431
+3470,Jaeden Amero ,4,7025792
+3471,Frederik Völkel ,6,952291
+3472,Kevin Wern ,1,0
+3473,Swapnil Nagle ,2,17043896
+3474,"Gujulan Elango, Hari Prasath (H.) ",14,1875482
+3475,Nachiket Kukade ,2,11844528
+3476,tom.leiming@gmail.com ,4,1109217
+3477,Kim Jones ,1,0
+3478,"Wang, Rui Y ",7,1140134
+3479,Damien Horsley ,2,37
+3480,Marcin Ślusarz ,1,0
+3481,Vishnu Patekar ,12,1947601
+3482,Hersen Wu ,1,0
+3483,Michael Lange ,1,0
+3484,Manish Jaggi ,1,0
+3485,Zidan Wang ,34,700959
+3486,Carol L Soto ,9,2650014
+3487,Greg Bowers ,4,3406955
+3488,Sushuruth Sadagopan ,1,0
+3489,Jianqiang Tang ,1,0
+3490,Seth Jennings ,6,2279374
+3491,Robert Elliott ,22,1019017
+3492,Môshe van der Sterre ,1,0
+3493,Remi Pommarel ,4,1148866
+3494,Mark Kuo ,2,2
+3495,zengtao ,1,0
+3496,Max Stepanov ,1,0
+3497,Rodrigo Freire ,2,1521570
+3498,Hubert Tarasiuk ,1,0
+3499,Ernst Martin Witte ,5,33
+3500,Torbjörn Jansson ,1,0
+3501,Stefan Pöschel ,1,0
+3502,Andrei Koshkosh ,1,0
+3503,Mats Randgaard ,4,5727668
+3504,Jean-Baptiste Theou ,3,9374690
+3505,Nikola Forró ,2,11508651
+3506,"Wu, Xia ",1,0
+3507,wim.coekaerts@oracle.com ,1,0
+3508,Sandeep Tripathy ,1,0
+3509,Alexander Koch ,3,17
+3510,Ken-ichirou MATSUZAWA ,14,1058217
+3511,Jörg Thalheim ,1,0
+3512,Lev Lybin ,1,0
+3513,Jurgen Kramer ,5,3483072
+3514,ZhengShunQian ,9,1263749
+3515,W. Trevor King ,1,0
+3516,chunfan chen ,9,1823743
+3517,Uri Mashiach ,13,711230
+3518,Alex Bennée ,13,1626840
+3519,Francisco Jerez ,11,1968702
+3520,Jeff Becker ,3,6616150
+3521,Willy Tarreau ,2,798301
+3522,Ricardo Ruedas ,1,0
+3523,Daniel H. Hemmingsen ,2,3305665
+3524,Malcolm Crossley ,2,10566317
+3525,Damien.Horsley ,20,705733
+3526,Edwin Velds ,1,0
+3527,Thomas Abraham ,13,1595763
+3528,Peter Hung ,6,3066068
+3529,Jean-Christophe Dubois ,1,0
+3530,Gioh Kim ,3,8505038
+3531,Oreste Salerno ,4,1
+3532,Gautham R Shenoy ,1,0
+3533,Anders Roxell ,4,7295621
+3534,M'boumba Cedric Madianga ,5,1568033
+3535,Dmitry Lifshitz ,25,198150
+3536,Mohamed Jamsheeth Hajanajubudeen ,1,0
+3537,Andiii ,1,0
+3538,dcg ,1,0
+3539,Martin Wilck ,4,2247490
+3540,Markus Trippelsdorf ,3,1158
+3541,Alexander Tsoy ,1,0
+3542,Yanbo Li ,7,4206410
+3543,Anatoly Pugachev ,2,2
+3544,dann frazier ,2,19070043
+3545,Sachin Kulkarni ,1,0
+3546,Martin Michlmayr ,1,0
+3547,Guillaume Fougnies ,1,0
+3548,Paweł Jarosz ,3,104
+3549,Shikha Jain ,1,0
+3550,Danesh Petigara ,4,494252
+3551,Thomas Gardner ,1,0
+3552,Martin Roth ,2,3438866
+3553,Thomas Egerer ,2,14457847
+3554,Raphael Assenat ,2,23608738
+3555,Benjamin Larsson ,1,0
+3556,"Cabiddu, Giovanni ",1,0
+3557,"Atta, Ahsan ",1,0
+3559,Nicolas Sugino ,2,10519335
+3560,zhangqing ,7,141669
+3561,Patrick Boettcher ,9,2719116
+3562,Eduard Gavin ,1,0
+3563,Joseph Marrero ,2,4558787
+3564,John Ernberg ,1,0
+3565,Yoshihiko Mori ,1,0
+3566,Josh Wu ,34,677823
+3567,"Lad, Prabhakar ",7,3717248
+3568,Peter Dedecker ,1,0
+3569,Vasant Hegde ,5,3410281
+3570,Tim Gardner ,4,4994700
+3571,Jie Yang ,25,980505
+3572,Rahul Pathak ,3,1675888
+3573,Thorsten Leemhuis ,1,0
+3574,Hakjoo Kim ,2,6042132
+3575,Lukasz Duda ,2,14319768
+3576,Stuart Henderson ,2,3
+3577,Gavin Guo ,2,18273684
+3578,Tariq Saeed ,3,6007385
+3580,Alan Modra ,1,0
+3581,Manfred Rudigier ,1,0
+3582,Bongkyu Kim ,1,0
+3583,Namjae Jeon ,5,4877313
+3584,Junil Lee ,1,0
+3585,Tim Sander ,1,0
+3586,Weng Xuetian ,1,0
+3587,Yevgeny Pats ,1,0
+3588,Matthew Garrett ,4,7401717
+3589,Vinit Agnihotri ,1,0
+3590,Dominik Dingel ,18,1054423
+3591,Raghavendra K T ,7,2032133
+3593,huangdaode ,12,938670
+3594,Doron Tsur ,4,2707843
+3595,Vasily Kulikov ,3,5527450
+3596,Jianqun xu ,2,3862177
+3597,Martijn Coenen ,1,0
+3598,Jordan Hargrave ,2,11328904
+3599,Kyeongdon Kim ,1,0
+3600,Tsutomu Itoh ,2,11835535
+3601,Jiang Liu ,163,141847
+3602,Nathan Zimmer ,2,17097354
+3603,John Haxby ,2,9108232
+3604,Norton.Zhu ,3,5702584
+3605,Liu Jiang ,2,3781734
+3606,Arnd Hannemann ,1,0
+3607,Jamie Bainbridge ,1,0
+3608,Svetlin Ankov ,1,0
+3609,CQ Tang ,1,0
+3610,Ulrich Weigand ,2,84
+3611,Matti Vaittinen ,1,0
+3612,Javier Gonzalez ,3,2289238
+3614,Karl Heiss ,3,4526760
+3615,Enrico Scholz ,1,0
+3616,Rafael Lourenço de Lima Chehab ,2,18571144
+3617,willy tarreau ,1,0
+3618,Anton Ivanov ,4,1870699
+3619,DengChao ,5,565192
+3620,Roosen Henri ,1,0
+3621,"Boyer, Wayne ",1,0
+3622,Ryan C. Underwood ,1,0
+3623,Anil Veliyankara Madam ,1,0
+3624,Carlos Falgueras García ,1,0
+3625,Vasu Dev ,4,6481484
+3626,Ilya Ledvich ,10,369907
+3627,Dilip Kumar Uppugandla ,2,11571952
+3628,Alexei Potashnik ,10,1603453
+3629,Qiu Peiyang ,2,261214
+3630,Yuan Sun ,8,1295356
+3631,Alex Smith ,21,1087980
+3632,wanghaibin ,1,0
+3633,Marcus Weseloh ,3,2215839
+3634,Timo Sigurdsson ,9,2009012
+3635,Sam Tygier ,1,0
+3636,Alexandru Moise ,13,560707
+3637,Fengwei Yin ,2,2
+3638,Pawel Kulakowski ,1,0
+3639,Manoj Kumar ,9,742508
+3640,Christophe Vu-Brugier ,4,6355164
+3641,Jamie Pocas ,1,0
+3642,Christoph Biedl ,2,3646077
+3643,Wilfried Weissmann ,1,0
+3644,Chin-Ran Lo ,3,81339
+3645,Vince Weaver ,1,0
+3646,Roman Gushchin ,4,1930490
+3647,Sanyog Kale ,1,0
+3648,Grant Likely ,3,5743521
+3649,Jorge Fernandez Monteagudo ,1,0
+3650,Adrien Schildknecht ,6,2506155
+3651,Jack Yu ,1,0
+3653,Pierre-Loup A. Griffais ,4,5642696
+3654,Jens Wiklander ,4,96
+3655,Ouyang Zhaowei (Charles) ,1,0
+3656,Edward Cragg ,1,0
+3657,Ingi Kim ,8,2758893
+3658,Markus Hofstaetter ,1,0
+3659,Masatake YAMATO ,2,15381368
+3660,Brad Campbell ,1,0
+3661,Aurélien Francillon ,1,0
+3662,Christophe Le Roy ,1,0
+3663,Sifan Naeem ,17,1048896
+3664,Pi-Cheng Chen ,8,1510966
+3665,Leilk Liu ,27,532327
+3666,Bhupesh Sharma ,14,457273
+3667,Shahar Patury ,1,0
+3668,Gabriel de Perthuis ,3,3349910
+3669,Zheng Liu ,4,5035697
+3670,Daniel J Blueman ,6,1709202
+3671,Avinash Patil ,25,846315
+3672,Zhaoyang Liu ,18,1194679
+3673,Gary Wang ,5,2673398
+3674,William Dauchy ,1,0
+3675,Ani Sinha ,2,4937526
+3676,Shikha Singh ,4,2
+3677,chengang@emindsoft.com.cn ,1,0
+3678,Kailang ,1,0
+3679,Amy Wiles ,2,6349625
+3680,Guo Zeng ,13,1597929
+3681,"Mingarelli, Thomas ",1,0
+3682,Oliver Freyermuth ,1,0
+3683,David Christensen ,1,0
+3684,Denis Turischev ,1,0
+3685,Wim de With ,2,18143226
+3686,Pravin B Shelar ,27,456296
+3687,Nikesh Oswal ,3,5491260
+3688,Vijay Kumar ,1,0
+3689,Rob Gardner ,6,2398211
+3690,Hongtao Jia ,5,1467669
+3691,Tomáš Pilař ,1,0
+3692,Chuyu Hu ,1,0
+3693,Abel Vesa ,1,0
+3695,Leilei Zhao ,2,19921968
+3696,Wengang Wang ,6,3518652
+3697,li pengbo ,1,0
+3698,Daniel Walker ,1,0
+3699,Harninder Rai ,2,1
+3700,Vijay Pandurangan ,1,0
+3701,Mingkai Hu ,2,2
+3702,Yunzhi Li ,4,6884740
+3703,Gregory Herrero ,49,426415
+3704,Andrew Honig ,1,0
+3706,Sean Cross ,2,1
+3707,Shengjiu Wang ,12,1319713
+3708,Andrzej Zaborowski ,5,754841
+3709,Afzal Mohammed ,2,151063
+3710,Wenkai Du ,1,0
+3711,yangbo lu ,7,818120
+3712,Punit Vara ,17,496995
+3714,Jitendra Kumar Khasdev ,2,518
+3715,Ranjith Thangavel ,4,1
+3716,Erik E. Kahn ,1,0
+3717,Yash Shah ,3,6042786
+3718,Andrea Lowe ,1,0
+3719,Joel Rosenzweig ,1,0
+3720,Qiang Yu ,1,0
+3721,Jammy Zhou ,46,385652
+3722,David Woods ,1,0
+3724,Luka Karinja ,1,0
+3725,Julius Werner ,1,0
+3726,Darren Hart ,9,2241789
+3727,Yang Yingliang ,3,3416661
+3728,Sebastien Guiriec ,1,0
+3729,Elias Vanderstuyft ,3,2727498
+3730,James Chen ,3,5843153
+3731,Mario J. Rugiero ,1,0
+3732,Chandra S Gorentla ,10,1428352
+3733,Pascal Speck (Iktek) ,1,0
+3734,Anton V. Shokurov ,1,0
+3735,Doug Goldstein ,1,0
+3736,Junghak Sung ,12,614017
+3737,Roger Pau Monné ,2,5
+3738,Ma Jun ,4,57
+3739,Xiong Zhang ,4,3284896
+3740,"Fang, Yang A ",20,1067448
+3741,Rohit Ainapure ,3,152
+3742,Karsten Merker ,8,2031221
+3743,Kouei Abe ,4,782771
+3744,Yoshifumi Hosoya ,1,0
+3746,Alexander E. Patrakov ,1,0
+3747,Roman Kubiak ,4,5250390
+3748,Bill Huang ,8,330969
+3749,Prem Mallappa ,2,1
+3750,Prasanna Karthik ,30,584869
+3751,Haren Myneni ,2,5509135
+3752,Clement Calmels ,1,0
+3753,Hubert Sokolowski ,1,0
+3754,David Eccher ,1,0
+3755,Böszörményi Zoltán ,1,0
+3757,"Singhai, Anjali ",6,172505
+3758,qipeng.zha ,4,4887948
+3759,Ulrich Ölmann ,1,0
+3760,Måns Rullgård ,6,512211
+3761,tadeusz.struk@intel.com ,1,0
+3762,Tilman Schmidt ,6,2639515
+3763,Hans Ulli Kroll ,6,3167071
+3764,Guenther Hutzl ,3,9551314
+3765,Mian Yousaf Kaukab ,34,601625
+3766,Subbaraya Sundeep Bhatta ,3,8768799
+3767,The etnaviv authors ,1,0
+3768,Dmitry Eremin-Solenikov ,10,2074658
+3769,Frediano Ziglio ,14,1285934
+3770,Danilo Cesar Lemes de Paula ,6,2256682
+3771,Vlad Yasevich ,6,1866299
+3772,Olaf Hering ,7,950225
+3773,Joe Schultz ,2,196
+3774,Alan Ott ,1,0
+3775,Liam Girdwood ,10,1917856
+3776,Sam Protsenko ,1,0
+3777,Zeng Xin ,1,0
+3778,Amit Tomar ,1,0
+3779,Roy Franz ,1,0
+3780,Florian Achleitner ,1,0
+3781,Dmitry Fleytman ,1,0
+3782,Janusz Wolak ,2,232
+3783,Dmitriy Vyukov ,2,7022021
+3784,Joern Engel ,2,11665201
+3785,Chen Jie ,1,0
+3786,Anshul Garg ,5,3668085
+3787,Oliver Stäbler ,1,0
+3788,Harvijay Saini ,1,0
+3789,Kosuke Tatsukawa ,6,1170579
+3790,Danny Schweizer ,1,0
+3792,Stefan Tatschner ,3,6604519
+3793,Tom Hebb ,4,569573
+3794,Doug Smythies ,4,6330213
+3795,Andrei Emeltchenko ,5,454931
+3796,Ken Xue ,4,1379380
+3797,Anup Limbu ,1,0
+3798,Guoying Zhang ,2,4127705
+3799,Yonghui Zhang ,2,10975014
+3800,Holger Hoffstätte ,2,1289435
+3801,Gabriel Laskar ,21,257786
+3802,Wayne Boyer ,6,103477
+3803,Markus Mayer ,1,0
+3804,Yichen Zhao ,1,0
+3805,Jacob Tanenbaum ,4,1091761
+3806,Peter Maydell ,1,0
+3807,Gabriele Martino ,2,17665661
+3809,Harunobu Kurokawa ,1,0
+3810,Praveen Diwakar ,1,0
+3811,Omair M Abdullah ,5,3129465
+3812,Mousami Jana ,1,0
+3813,Ashley Towns ,2,55
+3814,Chris Dunlop ,1,0
+3815,Jungseok Lee ,5,3032249
+3816,Kapil Hali ,4,74
+3817,Seiichi Ikarashi ,2,8713728
+3818,Sudarsana Kalluru ,10,390661
+3819,Ariel Elior ,2,14276607
+3820,John Blackwood ,1,0
+3821,Venkatesh Srinivas ,1,0
+3822,Michael Petlan ,4,740813
+3823,Ravindra Lokhande ,1,0
+3824,Zeng Zhaoxiu ,1,0
+3825,lucien ,9,1093742
+3826,Yuanfang Chen ,1,0
+3827,Igor Mammedov ,7,2277343
+3828,Daniel Pieczko ,29,648348
+3829,Robert Kmiec ,1,0
+3830,Sylvain ETIENNE ,1,0
+3831,Sander Vermin ,2,5935840
+3832,Dongdong Liu ,1,0
+3833,Don Zickus ,35,533954
+3834,Leonidas Da Silva Barbosa ,10,2134377
+3835,Adam Welle ,1,0
+3836,Amit Khatri ,1,0
+3837,Michal Sojka ,4,1291806
+3839,Janusz.Dziedzic@tieto.com ,7,3743881
+3840,Hiroshi Shimamoto ,5,904353
+3841,"Wei, Gang ",1,0
+3842,zhuo-hao ,1,0
+3843,yzhu1 ,1,0
+3844,Jérôme Pouiller ,1,0
+3845,Yi Liu ,1,0
+3846,Nikita Kiryanov ,15,50349
+3847,Liviu Dudau (ARM) ,3,1
+3849,Anil Gurumurthy ,6,1505893
+3850,monk.liu ,24,682546
+3851,Patrick Brünn ,1,0
+3852,Helin Zhang ,12,312655
+3853,Dominik Behr ,1,0
+3854,Hans Yang ,1,0
+3855,Adrien Vergé ,2,14329
+3856,Guillaume Delbergue ,1,0
+3857,Stephan Günther ,3,870793
+3858,Derek Basehore ,1,0
+3859,"Dreyfuss, Haim ",2,12675595
+3860,Golan Ben Ami ,1,0
+3861,Dmitry Katsubo ,1,0
+3862,Arianna Avanzini ,4,5102041
+3863,Dmitry V. Krivenok ,3,3223
+3864,Marc-André Lureau ,2,10920517
+3865,Linda Knippers ,5,2717976
+3866,Nicola Corna ,5,2115842
+3867,Christian Fetzer ,3,153
+3869,Namrta Salonie ,2,923611
+3870,Hongzhou Yang ,11,1810311
+3871,Jan Engelhardt ,1,0
+3872,Jochen Schweflinghaus ,1,0
+3873,Xu Cang ,1,0
+3874,Ekaterina Tumanova ,2,66
+3875,Suzuki K. Poulose ,46,347793
+3876,Moshe Harel ,5,1127851
+3877,sudip ,2,5699070
+3878,Zhaolei ,15,666311
+3879,Patrick McHardy ,1,0
+3880,Philip Whineray ,1,0
+3882,Alan Tull ,13,1261231
+3883,Nishanth Aravamudan ,8,1887052
+3884,David Turner ,1,0
+3885,Robert Fekete ,2,1899393
+3886,Jim Davis ,4,4661024
+3887,Werner Johansson ,6,861570
+3888,Sachin Pandhare ,3,1867943
+3889,Stefan Monnier ,2,3
+3890,Michal Morawiec ,1,0
+3891,Nina Schiff ,1,0
+3892,Ian Morris ,17,528149
+3893,Andrzej Kaczmarek ,1,0
+3894,Jonas Jonsson ,2,114
+3895,Takao Indoh ,3,4448252
+3896,Mirza Krak ,3,7476771
+3897,Andrew Chew ,1,0
+3898,Ioana Ciornei ,40,111364
+3900,Jason J. Herne ,2,5649386
+3901,Conchúr Navid ,3,18
+3902,Danny Huang ,1,0
+3903,Michael van Slingerland ,1,0
+3904,Jon Ringle ,7,665226
+3905,Fan Chen ,1,0
+3906,lixiubo ,2,2
+3907,Jimmy Berry ,1,0
+3908,Niranjana Vishwanathapura ,2,2047709
+3909,Arno Bauernöppel ,1,0
+3910,Walter Cheuk ,1,0
+3911,Nate Weibley ,1,0
+3912,Alberto Mardegan ,1,0
+3913,Helmut Klein ,1,0
+3914,Andrew Cooper ,1,0
+3915,Mikhail Ulyanov ,7,1647299
+3916,Daniel Walter ,1,0
+3917,Ben Pope ,1,0
+3918,Bastian Stender ,1,0
+3919,Rajmohan Mani ,2,10267505
+3920,Mythri P K ,2,2327667
+3922,Martin Zhang ,1,0
+3923,Damien Lespiau ,69,282323
+3924,Ben McCauley ,1,0
+3925,Prashant Laddha ,15,1236052
+3926,Tommi Franttila ,1,0
+3927,Junsu Shin ,5,2043453
+3928,Alec Leamas ,1,0
+3929,Graham Whaley ,3,5724130
+3930,Lawrence Yu ,2,4407514
+3931,Adam Sampson ,6,3526798
+3932,Dragos Tatulea ,1,0
+3933,Ben Cartwright-Cox ,1,0
+3934,Jiada Wang ,5,4188935
+3935,Drew Richardson ,6,3246600
+3936,Charles_Rose@Dell.com ,1,0
+3937,Maxim Sheviakov ,2,4646527
+3938,Guillaume Gomez ,3,1547012
+3939,David Gstir ,2,1
+3940,Aleksander Morgado ,1,0
+3941,Jean-Yves Faye ,1,0
+3942,Anatol Pomozov ,9,1986311
+3943,Hardik T Shah ,4,2904842
+3944,Clemens Ladisch ,3,10
+3945,sujayraaj ,1,0
+3946,Ignacio Hernandez ,2,1711176
+3947,Jareer Abdel-Qader ,2,1712605
+3948,Abdul Hussain ,15,963748
+3950,Sunny Kumar ,2,10041463
+3952,Amarjargal Gundjalam ,15,122996
+3953,Burcin Akalin ,21,95321
+3954,Jason Liu ,2,447571
+3955,Chris Lesiak ,3,7168874
+3956,Giuseppe Barba ,6,1969453
+3957,Dominique Martinet ,4,4511693
+3958,Ryan Hsu ,1,0
+3959,Bartosz Markowski ,10,2404502
+3960,Kapileshwar Singh ,5,4138493
+3961,Animesh Manna ,13,1269030
+3962,Amanieu d'Antras ,4,2804322
+3963,Eddie Kovsky ,3,2673800
+3964,Sathyavathi M ,1,0
+3965,Gregory Fong ,13,1316678
+3966,Tzvetelin Katchov ,1,0
+3967,Egbert Eich ,4,1396220
+3968,Raphael Poggi ,1,0
+3969,Vito Caputo ,1,0
+3970,Jonathan Richardson ,2,7335995
+3971,Eric Northup ,1,0
+3972,Ravishankar N ,1,0
+3973,Benjamin Rood ,9,73862
+3974,Jack Wang ,4,2160630
+3975,John Soni Jose ,9,1818034
+3976,Chun Chen ,1,0
+3977,Mathieu Desnoyers ,8,1772782
+3978,Eric B Munson ,7,2507178
+3979,Luca Porzio ,1,0
+3980,Anthony Lineham ,1,0
+3981,Adam Majer ,1,0
+3982,Ivan Grimaldi ,2,9
+3983,Krzysztof Mazur ,1,0
+3984,Anish Bhatt ,23,539657
+3985,Ben Segall ,2,13175578
+3987,Cody P Schafer ,1,0
+3988,Martin Kletzander ,2,2912441
+3990,Sergey SENOZHATSKY ,4,1947842
+3991,Aaron Tomlin ,1,0
+3992,"Suthikulpanit, Suravee ",17,780257
+3993,Wang Long ,18,936463
+3994,Ulrich Obergfell ,14,413077
+3995,alex chen ,2,11587509
+3996,Deepak S ,10,2102277
+3997,Shobhit Kumar ,11,1581380
+3998,Vivek Kasireddy ,1,0
+3999,Kuba Pawlak ,7,984001
+4000,Markus Brunner ,1,0
+4001,Vincent Cuissard ,27,485482
+4002,Vivek Natarajan ,5,1798432
+4003,Manikanta Pubbisetty ,7,1488796
+4004,Scott Matheina ,1,0
+4005,Jassi Brar ,1,0
+4006,JongHo Kim ,1,0
+4008,libin ,1,0
+4009,chandan ,5,3155123
+4010,Chaitanya T K ,2,9421347
+4011,Fida Mohammad ,2,8
+4012,Jiri Prchal ,2,10265101
+4013,Pierre Moreau ,1,0
+4014,Samuel Pitoiset ,33,266861
+4015,sumit.saxena@avagotech.com ,22,20512
+4016,Neil Brown ,4,4015301
+4017,"Zhu, Caifeng ",1,0
+4018,Robert Sesek ,1,0
+4019,Zhou Wang ,9,1931967
+4020,Boris Barbulovski ,38,45121
+4021,Thiago Macieira ,2,1669364
+4022,Zhenzhong Duan ,1,0
+4023,Sriram Raghunathan ,2,2934388
+4024,Jon Medhurst \(Tixy\) ,1,0
+4025,Laurent Meunier ,1,0
+4026,Aniroop Mathur ,1,0
+4027,Maneet Singh ,1,0
+4028,Nadav Haklai ,6,1678520
+4029,Ronny Hegewald ,1,0
+4030,Ørjan Eide ,1,0
+4031,Borun Fu ,1,0
+4032,Micky Ching ,1,0
+4033,Grigoryev Denis ,2,2187678
+4034,Philippe De Muyter ,1,0
+4035,Sanjeev Sharma ,1,0
+4036,Scott Feldman ,74,201829
+4037,Sean O. Stalley ,6,881282
+4038,Ben Shelton ,1,0
+4041,David Cohen ,1,0
+4042,Émeric MASCHINO ,1,0
+4043,Maharaja ,1,0
+4044,yfw ,1,0
+4045,John Linville ,6,1783648
+4046,Guy Shapiro ,4,1695289
+4047,Abhimanyu ,1,0
+4048,Stephen Chandler Paul ,3,4464738
+4049,Tiejun Chen ,7,1909470
+4050,Dirk Steinmetz ,1,0
+4051,Thomas Daniel ,1,0
+4052,Caz Yokoyama ,1,0
+4053,Vinayak Kale ,2,5940
+4054,Munehisa Kamata ,1,0
+4055,emmanuel.grumbach@intel.com ,1,0
+4056,Gabríel Arthúr Pétursson ,1,0
+4057,Dāvis Mosāns ,1,0
+4058,Ketan Mukadam ,2,42
+4059,Shirish Pargaonkar ,1,0
+4060,Ian Mitchell ,1,0
+4061,Bodo Stroesser ,1,0
+4062,Firo Yang ,12,1360305
+4063,Werner Pawlitschko ,1,0
+4064,Daniel Granat ,1,0
+4065,Antoine Ténart ,8,848351
+4066,Alexandru M Stan ,10,1277878
+4067,Weijun Yang ,5,3182298
+4068,Yousong Zhou ,4,1532159
+4069,Michael Grzeschik ,13,905482
+4070,Tomasz Stanislawski ,1,0
+4071,Jonas Hesselmann ,1,0
+4072,Samuel Ortiz ,7,1999245
+4073,Dustin Byford ,2,198
+4074,Cristina Opriceana ,24,420451
+4075,Teodora Baluta ,7,1612156
+4076,Assaf Krauss ,4,2353496
+4077,Alexander Bondar ,3,3530260
+4078,Dennis Menschel ,6,196481
+4079,Anton Tatuev ,1,0
+4080,Mateusz Kulikowski ,430,34195
+4081,Navya Sri Nizamkari ,6,115
+4083,Frederic Saunier ,1,0
+4084,Joshua Walgenbach ,1,0
+4085,Sanne Wouda ,1,0
+4086,Anand Moon ,11,1233644
+4087,Vincent Donnefort ,4,1616970
+4088,Andrew Shewmaker ,1,0
+4089,Rohit Vaswani ,1,0
+4090,Tan Xiaojun ,3,765228
+4091,Stephane Viau ,14,884625
+4092,Hai Li ,24,500005
+4093,Andrew Y. Kuksov ,1,0
+4094,David Mosberger-Tang ,1,0
+4096,Himangi Saraogi ,5,3132345
+4097,Hezi Shahmoon ,1,0
+4098,Renato Westphal ,1,0
+4099,"Arad, Ronen ",3,388045
+4100,Adam Richter ,2,221301
+4101,Sangwoo ,1,0
+4102,Naga Irrinki ,1,0
+4103,Dave Goodell \(dgoodell\) ,1,0
+4104,Shan Hai ,1,0
+4105,Samuel Li ,10,17
+4106,Joe Jin ,1,0
+4107,Gao feng ,1,0
+4108,Philipp Kirchhofer ,2,3
+4109,Stefan Achatz ,1,0
+4110,Derek Foreman ,2,1
+4111,Nikunj A Dadhania ,2,5515025
+4112,Santtu Rekilä ,1,0
+4113,Salva Peiró ,3,3373524
+4114,Barry Song ,8,1046545
+4115,Patrick Doyle ,1,0
+4116,Hans-Werner Hilse ,4,3341026
+4117,Zbigniew Jasinski ,1,0
+4118,Sylvain Rochet ,3,1202854
+4119,Michael Opdenacker ,4,169731
+4120,Adrian Alonso ,6,288818
+4121,Ricard Wanderlof ,13,470428
+4122,Chuck Ebbert ,1,0
+4123,lisheng ,1,0
+4124,Chenny Xu ,1,0
+4125,Chia-Sheng Chang ,1,0
+4126,Arun Parameswaran ,6,183485
+4127,Hon Ching \(Vicky\) Lo ,7,1786625
+4128,Dmitry Kalinkin ,32,417336
+4129,Andy Leiserson ,1,0
+4130,Frederic Danis ,27,517061
+4131,Lukas Czerner ,8,1622899
+4132,"Lu, Baolu ",1,0
+4133,Sakshi Bansal ,1,0
+4134,Ronit Halder ,5,2055084
+4135,poonam aggrwal ,2,1
+4136,Roman Alyautdin ,1,0
+4137,Thomas Hebb ,4,2678613
+4138,Jingjing Wu ,2,869
+4139,Andrej Ota ,1,0
+4140,Jakub Pawlowski ,10,812892
+4141,Romain Bezut ,1,0
+4142,Sam bobroff ,5,2550923
+4143,Tudor Laurentiu ,5,1162545
+4144,Karen Xie ,5,3076112
+4145,Ben Gardner ,1,0
+4146,Il Han ,1,0
+4147,"Kővágó, Zoltán ",1,0
+4148,Jeff Johnson ,1,0
+4149,Frans Klaver ,62,185368
+4150,Christian Zander ,1,0
+4151,Robin Ruede ,1,0
+4152,Lars Svensson ,5,1489354
+4153,Gerhard Bertelsmann ,6,447701
+4154,Kalesh AP ,8,1933248
+4155,Gerlando Falauto ,2,1
+4156,Dmitry Shmidt ,1,0
+4157,"Williams, Dan J ",1,0
+4158,Parshuram Thombare ,1,0
+4159,Stanislav Kholmanskikh ,5,2681291
+4160,Paul McQuade ,1,0
+4161,Binbin Zhou ,2,13637380
+4162,Edward Jee ,2,1
+4163,Aurelien Chanot ,1,0
+4164,Ryan Van Quinlan ,1,0
+4165,Robert Nelson ,1,0
+4166,Manjeet Pawar ,1,0
+4167,Arnaud Ebalard ,7,1657296
+4168,Bill O'Donnell ,7,7856
+4169,Jan Tulak ,2,63
+4170,Zhaohongjiang ,1,0
+4171,Pranith Kumar ,4,3947643
+4172,Benoit Lemarchand ,1,0
+4173,Siarhei Siamashka ,4,177803
+4174,Keith A. Milner ,1,0
+4175,Hartmut Knaack ,92,126219
+4176,Ludovic Tancerel ,6,117639
+4177,Dario Scarpa ,1,0
+4178,Erik Lundgren ,1,0
+4179,Lukasz Pawelczyk ,2,12724603
+4180,Jay Sternberg ,1,0
+4181,Wei Xu ,1,0
+4182,Sarbojit Ganguly ,1,0
+4183,Ido Shamay ,6,2269538
+4184,David Ward ,11,1291800
+4185,Peter E. Berger ,10,672175
+4186,Vladimir Shulman ,2,5536519
+4187,Matt Jared ,1,0
+4188,Emilio Lopez ,1,0
+4189,Paul M Stillwell Jr ,1,0
+4190,Christian Melki ,1,0
+4191,Yuvaraja Mariappan ,1,0
+4192,Feng Kan ,9,1594114
+4193,Andrey Gelman ,1,0
+4194,Patrick Marlier ,1,0
+4195,Jeff Squyres ,1,0
+4196,xiaofeng.yan ,1,0
+4197,Tyler Baker ,7,2337742
+4198,Samuel Mendoza-Jonas ,3,2035157
+4199,Sonika Jindal ,18,925149
+4200,Peter Nørlund ,3,37464
+4201,Yoichi Yuasa ,1,0
+4202,Ritesh Raj Sarraf ,1,0
+4203,Flavio Leitner ,1,0
+4204,David B. Robins ,1,0
+4205,Levente Kurusa ,1,0
+4206,Oliver Schmitt ,1,0
+4207,covici@ccs.covici.com ,1,0
+4208,Julian Andres Klode ,1,0
+4209,Abhimanyu Kapur ,1,0
+4210,Aleksandar Mitev ,1,0
+4211,Taichi Kageyama ,1,0
+4213,Xavier Deguillard ,4,1718036
+4214,Rickard Strandqvist ,3,10835173
+4215,Manuel Schölling ,1,0
+4216,Siva Yerramreddy ,1,0
+4217,Ulf Magnusson ,6,355769
+4218,Alexander Inyukhin ,1,0
+4219,Yao-Wen Mao ,3,2898995
+4220,Kris Borer ,10,705577
+4221,Rocco Folino ,1,0
+4222,Maciek Borzecki ,3,33258
+4223,shengyong ,12,969046
+4224,Andrew Murray ,2,363777
+4225,Roald Frederickx ,1,0
+4226,Erik Andresen ,1,0
+4227,Graham Eccleston ,1,0
+4228,Adam YH Lee ,6,1401457
+4229,John Flatness ,1,0
+4230,Roman Bacik ,1,0
+4231,Matt Bennett ,3,336336
+4232,yitian ,1,0
+4233,Sunil Kamath ,1,0
+4234,Robin Gong ,2,6861694
+4235,Diego Elio Pettenò ,1,0
+4236,Yitian Bu ,1,0
+4237,mike dupuis ,15,119431
+4238,Bryan Paul ,1,0
+4239,Arjun Krishna Babu ,2,6852473
+4240,Victorien Vedrine ,1,0
+4241,Steve Rutherford ,4,1
+4242,Dirk Müller ,2,1691
+4243,Rick Mann ,1,0
+4244,Joe.C ,1,0
+4245,Fabiano Fidêncio ,1,0
+4246,Gianluca Renzi ,2,95861
+4247,Łukasz Daniluk ,1,0
+4248,Robert Beckett ,3,7294169
+4249,Robb Manes ,1,0
+4250,S Twiss ,10,1262307
+4251,Tom Englund ,1,0
+4252,Rolf Eike Beer ,2,46
+4253,Rudhresh Kumar J ,1,0
+4254,Michael Rossberg ,1,0
+4255,Aniket Nagarnaik ,8,860830
+4256,Jan Kaisrlik ,1,0
+4257,Hiroaki KAWAI ,1,0
+4258,Yadwinder Singh Brar ,2,12402544
+4259,Alexander Couzens ,3,281797
+4260,Bendik Rønning Opstad ,1,0
+4261,Stefan Koch ,15,278478
+4262,Jayavant Kenjalkar ,1,0
+4263,Anton Gerasimov ,13,771661
+4264,fangwei ,1,0
+4265,duson ,2,7192223
+4266,Ian Wilson ,1,0
+4267,Eric Benard ,1,0
+4268,Nikhil Badola ,10,1146020
+4269,Yassin Jaffer ,1,0
+4270,Ralph Benadski ,1,0
+4271,Darek Zielski ,1,0
+4272,Zahari Doychev ,2,3885602
+4273,Andrew Milkovich ,1,0
+4274,Georgios Toptsidis ,1,0
+4275,huang lin ,1,0
+4276,Wilson Kok ,2,10533120
+4277,Alex Henrie ,1,0
+4278,Jason Jin ,2,3233604
+4279,WingMan Kwok ,10,562526
+4280,Siva Mannem ,1,0
+4281,Anatoli Antonovitch ,1,0
+4282,Roger Pau Monne ,1,0
+4283,Richard Purdie ,1,0
+4284,Daniel Martin ,2,313847
+4285,Donavan Lance ,1,0
+4286,Kristen Carlson Accardi ,4,1970519
+4287,Francois Romieu ,1,0
+4288,Peter Seiderer ,4,3846647
+4289,Sergey Dyasly ,1,0
+4290,Tomer Barletz ,4,1437074
+4291,Thomas Elste ,2,9989187
+4292,Amber N. Adams ,1,0
+4293,Ting-Chih Hsiao ,2,4053666
+4294,Duson Lin ,5,2261104
+4295,Daniel Drake ,5,2568143
+4296,John Griffin ,1,0
+4297,Knuth Posern ,1,0
+4298,Patrice Vilchez ,1,0
+4299,Bo Shen ,2,3622459
+4300,Holger Busse ,1,0
+4301,Henrik Austad ,2,699404
+4302,Cyril Hrubis ,1,0
+4303,Kyle Evans ,1,0
+4304,Mitchel Humpherys ,2,11449685
+4305,Ariel Nahum ,2,1527159
+4306,Mark Hounschell ,1,0
+4307,Simon Fels ,1,0
+4308,Marcos Canán ,1,0
+4309,Juston Li ,22,449150
+4310,Alex Gartrell ,18,329324
+4312,Marek Majtyka ,1,0
+4313,Nicolas Joseph ,1,0
+4315,Lucas Georges ,1,0
+4316,Sakshi Vaid ,2,216207
+4317,Ann Koehler ,1,0
+4318,Hiroya Nozaki ,1,0
+4319,Zhang Zhen ,6,1918594
+4320,Carl Frederik Werner ,1,0
+4321,Samuel Dominguez Lorenzo ,1,0
+4322,Jonathan (Zhixiong) Zhang ,5,800136
+4323,Liu.Zhao ,1,0
+4324,George Beshers ,2,7429190
+4325,Junesung Lee ,2,1885285
+4326,Ravi Teja Darbha ,8,739802
+4327,Anders Fridlund ,3,2632634
+4328,Matthew Needes ,3,4536526
+4329,"Kim, Leo ",5,975994
+4330,Johnny Kim ,13,800639
+4331,Michał Bartoszkiewicz ,1,0
+4332,Trung Thanh Le ,1,0
+4334,Maxime Lorrillere ,2,7505611
+4335,Xiaolong Ye ,1,0
+4336,Jonathon Jongsma ,1,0
+4337,Michael Niewoehner ,1,0
+4339,Jan Harkes ,1,0
+4340,Wei Liu ,3,4249866
+4341,Gaurav K Singh ,3,2994740
+4342,Francesco Lavra ,1,0
+4343,Greta Zhang ,2,6
+4344,Kolmakov Dmitriy ,1,0
+4345,Wang Kai ,1,0
+4346,Vishnu Pratap Singh ,2,6474886
+4347,Eugene Shatokhin ,2,1186410
+4349,Brad Hubbard ,1,0
+4350,Benoît Canet ,3,3248506
+4351,Denis V. Lunev ,3,1477843
+4352,Fam Zheng ,1,0
+4353,Chee Nouk Phoon ,2,10
+4354,Bernd Weiberg ,2,7
+4355,Johan Rastén ,2,7599592
+4356,Nagarajkumar Narayanan ,1,0
+4357,Richard Laing ,1,0
+4358,Mitja Spes ,1,0
+4359,Suneel Garapati ,8,1081731
+4360,Bibek Basu ,1,0
+4361,Niranjan Sivakumar ,1,0
+4363,Henri Roosen ,1,0
+4365,minkyung88.kim ,1,0
+4366,Pavel Emelyanov ,1,0
+4367,yangwenfang ,1,0
+4369,WeiWei Wang ,2,6217502
+4370,Sanidhya Kashyap ,2,4936750
+4371,Alexander Spyridakis ,1,0
+4372,Maciej Zuk ,1,0
+4373,Fernando D S Lima ,1,0
+4374,Harald Brinkmann ,1,0
+4375,Shailendra Verma ,31,305073
+4376,Neelesh Gupta ,1,0
+4378,Subhendu Sekhar Behera ,1,0
+4379,Vishal Bhoj ,1,0
+4380,Alexis Ballier ,2,1740367
+4381,Jeffery Miller ,1,0
+4382,Zhiyuan Lv ,4,80
+4383,"Tan, Jui Nee ",1,0
+4384,Vatika Harlalka ,1,0
+4385,Tom Barbette ,1,0
+4386,Naresh Kamboju ,3,206712
+4387,Marius Tomaschewski ,2,22041
+4388,Philip Downey ,2,255710
+4389,Jialing Fu ,1,0
+4390,Matt Turner ,1,0
+4391,Adir Lev ,1,0
+4392,Jenny Falkovich ,1,0
+4393,David Dueck ,2,5108823
+4394,Yotam Kenneth ,1,0
+4395,Spencer Baugh ,1,0
+4396,Shradha Shah ,24,417070
+4397,Chas Williams ,2,423187
+4398,Minjune Kim ,1,0
+4399,Aaron Skomra ,3,5505499
+4400,Michael Powell ,1,0
+4401,Tony Jones ,1,0
+4402,Mark Drayton ,1,0
+4403,Srinidhi Kasagar ,3,1897514
+4404,Adam Lee ,2,1928604
+4405,Robin van der Gracht ,1,0
+4406,Keith Mange ,7,1257632
+4407,Arun Easi ,1,0
+4408,Hiral Patel ,1,0
+4409,Saurav Kashyap ,2,2863517
+4410,jiang.biao2@zte.com.cn ,1,0
+4411,Viswas G ,8,108
+4412,shane.seymour ,1,0
+4413,Scott Benesh ,1,0
+4414,Joe Handzik ,4,2511553
+4415,Zdenko Pulitika ,3,6
+4416,Andreas Herz ,1,0
+4417,Stefan Brüns ,1,0
+4418,Guillermo A. Amaral ,1,0
+4419,Alok Pandey ,1,0
+4420,Maoguang Meng ,1,0
+4421,huaibin Wang ,1,0
+4422,Mukesh Kacker ,1,0
+4423,David Teigland ,1,0
+4424,Aleksa Sarai ,8,1220070
+4425,Jan H. Schönherr ,2,9596988
+4426,"Xiao, Nan ",1,0
+4428,Shenwei Wang ,4,2377200
+4429,Loganaden Velvindron ,1,0
+4430,Nan Xiao ,1,0
+4431,Mario Carrillo ,1,0
+4432,Markus Osterhoff ,1,0
+4433,"Thulasimani,Sivakumar ",7,603552
+4434,Michael van der Westhuizen ,4,2198160
+4435,Kyle Huey ,1,0
+4436,Raducu Deaconu ,1,0
+4437,Benjamin Cama ,2,1291299
+4438,Dean Nelson ,1,0
+4439,Yalin Wang ,1,0
+4440,Vincent Pelletier ,1,0
+4441,Christopher Oo ,2,1283696
+4442,Richard Yao ,1,0
+4443,Marcin Chojnacki ,1,0
+4444,Jianwei Wang ,3,104
+4445,Mario Smarduch ,2,159
+4446,Bernhard Thaler ,11,914407
+4447,Michael Jones ,1,0
+4448,Christian Kujau ,1,0
+4449,Rick Sherman ,1,0
+4450,David Härdeman ,13,709387
+4451,Gerhard Sittig ,1,0
+4452,Andrew Schwartzmeyer ,3,269081
+4453,Matthijs Kooijman ,1,0
+4454,Philipp Hachtmann ,5,324389
+4455,Yanchang Li ,1,0
+4456,Hiral Shah ,1,0
+4457,Emil Medve ,1,0
+4458,Jaiprakash Singh ,2,852102
+4459,Priyanka Jain ,1,0
+4460,Igor Plyatov ,1,0
+4461,David Zhang ,11,590302
+4462,Karsten Blees ,1,0
+4463,Rob Taylor ,2,18
+4464,William Towle ,4,1186820
+4465,jilai wang ,9,856197
+4466,Wentao Xu ,6,295067
+4467,Peter Poklop ,1,0
+4468,Swee Hua Law ,5,13
+4469,Jacob Kiefer ,2,2672749
+4470,Adrian Remonda ,5,1641631
+4471,Tomas Melin ,1,0
+4472,jianwei wang ,1,0
+4473,Antti Koskipaa ,1,0
+4474,Su Kang Yin ,1,0
+4475,Bertold Van den Bergh ,5,83228
+4476,Matthias May ,1,0
+4477,Ben YoungTae Kim ,1,0
+4478,David Drysdale ,1,0
+4479,Tim Bird ,4,435574
+4480,Dongsu Park ,1,0
+4481,Paul Walmsley ,2,2442904
+4482,Cheolhyun Park ,2,8993690
+4484,Rick Jones ,3,939898
+4485,Wei-Chun Chao ,2,1453674
+4486,Ron Angeles ,1,0
+4487,Venkat Venkatsubra ,1,0
+4488,linux ,1,0
+4489,Suresh Thiagarajan ,1,0
+4490,Neha Bhende ,1,0
+4491,Boyuan Zhang ,1,0
+4492,Andrea Parri ,4,1489575
+4493,Bruno Prémont ,1,0
+4494,pradheep ,1,0
+4495,Kozlov Sergey ,5,370
+4496,Christian Löpke ,1,0
+4497,Ruben Wisniewski ,1,0
+4498,Haikun Wang ,6,1886191
+4499,Antonio Borneo ,10,488447
+4500,Inha Song ,4,2491423
+4501,Constantine Shulyupin ,7,586327
+4502,Nathan Lynch ,6,1142706
+4503,Sebastian Krzyszkowiak ,1,0
+4504,Łukasz Stelmach ,1,0
+4505,Atzm Watanabe ,1,0
+4507,Shahed Shaikh ,7,666639
+4508,Harish Patil ,1,0
+4509,Victoria Milhoan ,15,341674
+4510,Steve Cornelius ,1,0
+4511,Alban Crequy ,1,0
+4512,Yipeng Yao ,1,0
+4513,Shouming Wang ,1,0
+4514,Leilei Shang ,1,0
+4515,George Joseph ,1,0
+4516,Daniel Machon ,6,567229
+4517,Reyad Attiyat ,3,1745622
+4518,Joo Aun Saw ,5,344822
+4519,Pengyu Ma ,2,420239
+4520,Shengzhou Liu ,8,815333
+4521,Miguel Bernabeu Diaz ,8,194597
+4522,Navy Cheng ,2,600965
+4523,Fabio Falzoi ,13,365338
+4524,Johannes Postma ,3,1027616
+4525,Wenyu Zhang ,1,0
+4526,Scott Shu ,1,0
+4527,Benjamin Herr ,2,1207502
+4528,Andreas Schultz ,1,0
+4529,Mathieu Olivari ,5,1475212
+4530,Adheer Chandravanshi ,1,0
+4531,Tej Parkash ,2,5632756
+4532,Marcus Gelderie ,1,0
+4533,Ethan Zhao ,1,0
+4534,Allen Xu ,1,0
+4535,Anthoine Bourgeois ,9,752800
+4536,Partha Pratim Mukherjee ,1,0
+4537,Jürg Billeter ,1,0
+4538,Saurabh Karajgaonkar ,12,9030
+4539,Ankit Gupta ,1,0
+4540,Lior Pugatch ,1,0
+4541,Ted Chen ,1,0
+4542,Jandy Gou ,3,750608
+4543,Andy Sun ,1,0
+4544,Huayi Li ,1,0
+4545,Dongli Li ,1,0
+4546,Xiaofeng Fei ,1,0
+4547,Qipan Li ,22,410545
+4549,Lily.Li ,1,0
+4550,Balaji T K ,1,0
+4551,Marc Herbert ,1,0
+4552,Dor Shaish ,1,0
+4553,Lorenzo Nava ,1,0
+4554,"Liang, Kan ",1,0
+4555,Mayank Bareja ,2,265703
+4556,Zoltán Lajos Kis ,5,1166349
+4557,Kent Gustavsson ,1,0
+4558,Satish Ashok ,8,512332
+4559,Richard Watts ,1,0
+4560,Glenn Griffin ,1,0
+4561,Salvatore Mesoraca ,1,0
+4562,Ni Wade ,1,0
+4563,Radivoje Jovanovic ,4,75769
+4564,Fupan Li ,1,0
+4565,James Cowgill ,2,21685
+4566,Benjamin Randazzo ,2,8202
+4567,Alex Wilson ,2,52118
+4568,Jignesh R Patel ,1,0
+4569,Freeman Zhang ,1,0
+4570,Ciprian Manea ,1,0
+4571,Peter Huewe ,3,742747
+4572,Kevin Darbyshire-Bryant ,2,226295
+4573,Dave Perez ,1,0
+4574,Mario Bambagini ,6,270222
+4576,Mark Janssen ,1,0
+4577,Remy van Elst ,1,0
+4578,Ezra Savard ,1,0
+4579,Brian Bunker ,1,0
+4580,Luis Felipe Dominguez Vega ,1,0
+4581,Chris Zankel ,2,84
+4582,Tony Battersby ,1,0
+4583,Dmitry Skorodumov ,1,0
+4584,Sanjay Singh Rawat ,1,0
+4585,Lennert Buytenhek ,11,560195
+4586,Arron Wang ,7,734357
+4587,Haggai Abramonvsky ,5,1193756
+4588,Thomas Graf ,29,268830
+4590,Jon Maloy ,1,0
+4591,Jude.Lee ,2,70
+4592,U. Artie Eoff ,1,0
+4593,Perry Hung ,13,1396182
+4594,Kukjin Kim ,15,416966
+4596,Николай Кудрявцев ,1,0
+4597,Hanno Böck ,2,66
+4598,David Liu ,1,0
+4599,Qi Zhou ,1,0
+4600,Alexander Drozdov ,2,6637453
+4601,zilong.liu ,1,0
+4602,Jim Quinlan ,1,0
+4603,John Horan ,1,0
+4604,Henrik Rydberg ,2,1
+4605,Lars Westerhoff ,1,0
+4606,Dave P Martin ,10,382660
+4607,Rohit Thapliyal ,1,0
+4609,Kanoj Sarcar ,1,0
+4610,Buţiu Alexandru Octavian ,4,1578226
+4611,Ahmed Mohamed Abd EL Mawgood ,1,0
+4612,Yang Bo ,1,0
+4613,Jingju Hou ,1,0
+4614,Joakim Tjernlund ,2,4583515
+4615,Patrick Donnelly ,1,0
+4616,Bo Svangård ,1,0
+4617,Dongxing Zhang ,1,0
+4618,Bernhard Bender ,1,0
+4619,Seungyoun Ju ,1,0
+4620,Varka Bhadram ,19,354330
+4621,Mihai Donțu ,1,0
+4622,Eugene Korenevsky ,1,0
+4623,Steve Pennington ,1,0
+4624,Antoine BLIN ,1,0
+4625,Aaron Ouellette ,1,0
+4627,Kolbeinn Karlsson ,1,0
+4628,Kevin Strasser ,1,0
+4629,Lai Jiangshan ,11,745643
+4630,Aaron Raimist ,1,0
+4632,Brian Campbell ,1,0
+4633,AMAN DEEP ,1,0
+4634,Vivek Trivedi ,1,0
+4635,Erik Kline ,2,5346114
+4636,Yaniv Rosner ,1,0
+4637,Arun Chandran ,2,3170142
+4638,Dan Murphy ,6,1282962
+4639,Dalon Westergreen ,1,0
+4640,Edward Hyunkoo Jee ,1,0
+4641,Russell Joyce ,1,0
+4642,Rafa? Mi?ecki ,1,0
+4643,Raphaël Poggi ,1,0
+4644,Josef Gajdusek ,1,0
+4645,Aparna Balasubramanian ,1,0
+4646,Paolo Pisati ,1,0
+4647,Pieter Hollants ,2,71094
+4648,Andreas Faerber ,1,0
+4649,Reinhard Speyerer ,2,65146
+4650,Beata Michalska ,1,0
+4651,dingtianhong ,1,0
+4652,Umesh Tiwari ,2,6
+4653,Gil Fruchter ,2,3
+4654,Sergei Trofimovich ,1,0
+4655,Alexey Firago ,1,0
+4656,Andrea Galbusera ,1,0
+4657,akpm@linux-foundation.org ,1,0
+4659,Sandeep Paulraj ,1,0
+4660,Jonathan Bell ,1,0
+4661,Alex Porosanu ,1,0
+4662,Ben Goz ,12,368411
+4663,Mateusz Sylwestrzak ,1,0
+4664,Viorel Suman ,1,0
+4666,Horacio Mijail Anton Quiles ,1,0
+4667,Iago López Galeiras ,2,1899555
+4668,Krishna Chaitanya ,1,0
+4669,Jesse Jones ,2,2
+4670,Alexis Green ,4,1086892
+4671,Wojciech Dubowik ,1,0
+4672,Heloise NH ,1,0
+4673,Tom Hughes ,1,0
+4674,Cristian Ardelean ,1,0
+4675,Tim Howe ,1,0
+4676,Pedro Marzo Perez ,4,1343428
+4677,Vasiliy Korchagin ,1,0
+4678,Raphaël Teysseyre ,1,0
+4679,YOSHIFUJI Hideaki ,1,0
+4681,YOSHIFUJI Hideaki/吉藤英明 ,2,424008
+4682,Richard Stearn ,1,0
+4683,Shilpa Sreeramalu ,1,0
+4684,David Milburn ,1,0
+4686,Leung Timothy Chi King ,1,0
+4687,Sreenath Madasu ,1,0
+4688,Peter Karlsson ,5,581972
+4689,Greg Donald ,2,2241724
+4690,Joglekar Tejas ,4,1044393
+4692,Henri Chain ,1,0
+4693,Ken Cox ,1,0
+4694,Pawel Orlowski ,1,0
+4695,Santhosh Pai ,1,0
+4696,Guillermo O. Freschi ,1,0
+4697,Lukasz Janyst ,1,0
+4698,SungEun Kim ,1,0
+4699,Sébastien Hinderer ,4,184048
+4700,Ash Charles ,2,1
+4701,Arun Bharadwaj ,2,1787520
+4702,Perry Hooker ,1,0
+4703,Kris Baumann ,1,0
+4704,Matt Mooney ,1,0
+4705,Laurent Bigonville ,1,0
+4706,yao mark ,2,1
+4707,Enrico Mioso ,2,195232
+4708,Ana Calinov ,2,96
+4711,Olivier C. Larocque ,1,0
+4712,Alex Ivanov ,1,0
+4713,Jérémy Bobbio ,1,0
+4714,Aleksey S. Kazantsev ,1,0
+4715,Daniel Grimshaw ,1,0
+4716,Sage Weil ,2,425
+4717,Grigori Goronzy ,4,27567
+4718,Steven J. Magnani ,1,0
+4719,Chad Versace ,1,0
+4720,Joël Porquet ,1,0
+4721,Peter Dunning ,1,0
+4722,Anda-Maria Nicolae ,8,571902
+4723,Xi Wang ,4,1680348
+4724,Mazhar Rana ,1,0
+4725,Carol Soto ,3,1503208
+4726,Kristina Martsenko ,1,0
+4727,"Li, Liang Z ",2,854619
+4728,Y Vo ,3,1570119
+4729,Guilhem Lettron ,1,0
+4730,Brent Adam ,1,0
+4731,"Vutla, Lokesh ",6,33818
+4732,Pankaj Dev ,2,99568
+4733,Walter Lozano ,3,2454692
+4735,Zhao Junwang ,1,0
+4736,Sergey Kiselev ,1,0
+4737,bsegall@google.com ,1,0
+4738,Sunghoon Cho ,8,257986
+4739,Sergej Sawazki ,8,671394
+4740,Uwe Geuder ,1,0
+4741,Takeshi Yoshimura ,5,823919
+4742,Howard Chen ,1,0
+4743,Zhu Guihua ,3,497124
+4744,"Niu,Bing ",1,0
+4745,Peter Sanford ,1,0
+4746,Roman Byshko ,2,10
+4747,Nibble Max ,1,0
+4748,Ian Molton ,5,759891
+4749,Pablo Anton ,1,0
+4750,Damian Hobson-Garcia ,1,0
+4751,Sei Fumizono ,1,0
+4752,Nobuhiro Iwamatsu ,4,1522199
+4753,Jan Roemisch ,1,0
+4754,Claudio Cappelli ,1,0
+4755,Abdiel Janulgue ,4,216
+4756,Vaidyanathan Srinivasan ,1,0
+4757,Dennis Yang ,1,0
+4758,Tomasz Duszynski ,3,2408467
+4759,Shixin Zeng ,1,0
+4760,Angga ,1,0
+4761,Roger Lucas ,1,0
+4762,Szabolcs Nagy ,1,0
+4763,John Harrison ,58,140952
+4764,James C Boyd ,4,1008542
+4765,Shilong Wang ,1,0
+4766,gongzg ,1,0
+4767,Sascha Wildner ,1,0
+4768,"Stevens, Nick ",1,0
+4769,Dominic Sacré ,1,0
+4770,Lars Poeschel ,3,390261
+4771,Josh Triplett ,3,220931
+4772,Pekka Enberg ,16,265865
+4776,Yang Dongsheng ,1,0
+4777,Marek Marczykowski-Górecki ,1,0
+4778,Phong Tran ,14,350501
+4779,Shreyas Bhatewara ,4,176435
+4780,Gilad Ben-Yossef ,2,467082
+4781,Noel Power ,1,0
+4782,Damian Eppel ,1,0
+4783,Yanir Lubetkin ,15,141845
+4784,preeti ,1,0
+4785,Maxim Uvarov ,1,0
+4786,Alex Dowad ,2,2236827
+4788,Hong Zhiguo ,1,0
+4789,Zhihui Zhang ,1,0
+4790,Jan Kardell ,1,0
+4791,Jingoo Han ,2,114958
+4792,Tianping Fang ,1,0
+4793,Selvan Mani ,1,0
+4794,Silvan Wicki ,2,537610
+4795,Thomas Langer ,1,0
+4796,Jens Freimann ,2,3978684
+4797,"Palik, Imre ",2,356114
+4798,Christoph Paasch ,1,0
+4799,Hiroaki SHIMODA ,1,0
+4800,Claudiu Zissulescu ,1,0
+4801,Dan Haab ,1,0
+4802,Zhaowei Yuan ,1,0
+4803,Martin Liška ,3,1001326
+4804,Kevin Mulvey ,2,1
+4805,Zhiqiang Zhang ,2,2683649
+4806,Isaac Assegai ,20,86796
+4807,Jimmy Devine ,1,0
+4808,Eric W Biederman ,1,0
+4809,Florian Grandel ,21,101921
+4810,Harout Hedeshian ,1,0
+4811,Raimund Roth ,1,0
+4812,Ohad Ben-Cohen ,1,0
+4813,Gnanachandran Dhanapal ,2,447967
+4814,Gaston Gonzalez ,3,402975
+4816,Ilya Faenson ,2,17276
+4817,Chan-yeol Park ,2,1964075
+4818,Dean Lee ,4,156172
+4819,Frodo Lai ,1,0
+4820,Yuanhan Liu ,3,6
+4821,Daniel Lockyer ,1,0
+4822,Hisashi Nakamura ,1,0
+4823,Ding Wang ,1,0
+4824,Vincent Wan ,3,40256
+4825,Dominik Brodowski ,3,1398990
+4826,ChengYi He ,1,0
+4827,matt mooney ,1,0
+4828,Chandra Konduru ,19,318587
+4829,Todd Broch ,1,0
+4830,Jeremiah Mahler ,1,0
+4831,Chunfan Chen ,1,0
+4832,Kenneth Klette Jonassen ,6,720476
+4833,Naidu Tellapati ,1,0
+4834,Sergey Popovich ,16,183657
+4836,Dogukan Ergun ,1,0
+4837,Ryan Underwood ,1,0
+4838,Fernando Guzman Lugo ,1,0
+4840,Joakim Nordell ,1,0
+4841,Harisangam Sharvari ,2,540
+4842,Ranjit Waghmode ,2,24
+4843,Terry Junge ,1,0
+4844,Arun Ramamurthy ,4,913803
+4845,Tim Kryger ,1,0
+4846,Prabu Thangamuthu ,1,0
+4847,Janet Liu ,2,5568
+4848,Gustavo Zacarias ,1,0
+4849,Jan Klötzke ,5,125
+4850,Milos Vyletel ,2,1191236
+4851,Christoffer Holmstedt ,1,0
+4852,Piotr S. Staszewski ,1,0
+4853,Tommi Rantala ,1,0
+4854,Madhusudhanan Ravindran ,3,38447
+4855,Qiaowei Ren ,1,0
+4856,Tomas Krcka ,1,0
+4857,Thomas de Beauchene ,1,0
+4858,Jeffrey Rogers ,1,0
+4859,Mark A. Greer ,12,125032
+4860,Oleg Zhurakivskyy ,1,0
+4861,Alexey Sokolov ,1,0
+4862,Tolga Ceylan ,2,2726216
+4863,Chaitanya Dhere ,3,1567
+4864,Douglas Barbonaglia Sathler Figueiredo ,1,0
+4865,Abhishek Sharma ,3,387
+4866,Hari Prasath Gujulan yyElango ,1,0
+4867,Xavier Roche ,1,0
+4869,Aparna Karuthodi ,1,0
+4870,Josh Stone ,1,0
+4871,David Moore ,1,0
+4872,Aleksei Volkov ,1,0
+4873,Hao Liu ,1,0
+4874,Juergen Gier ,1,0
+4875,Nikhil Devshatwar ,1,0
+4876,Jaganath Kanakkassery ,1,0
+4877,Sergiy Kibrik ,1,0
+4878,Bintian Wang ,7,27874
+4879,Jack Xiao ,3,68282
+4880,Marek Milkovic ,1,0
+4881,Chao Xie ,3,10
+4882,Gaël PORTAY ,12,275541
+4883,Rojhalat Ibrahim ,2,243394
+4884,David Malcolm ,1,0
+4885,kongxinwei ,2,303
+4886,Alexey Skidanov ,3,645369
+4887,Yair Shachar ,9,25
+4888,Sébastien Szymanski ,3,651120
+4889,Thomas Niederprüm ,12,54058
+4890,Xie Xiaobo ,1,0
+4891,Peter Chubb ,1,0
+4892,Nilesh Javali ,1,0
+4893,dashsriram ,1,0
+4894,Laurentiu Palcu ,4,290475
+4895,Hiep Cao Minh ,3,1125066
+4896,Dan Ehrenberg ,1,0
+4897,Teunis van Beelen ,1,0
+4898,Chenxi Mao ,1,0
+4899,hujianyang ,2,12
+4900,Neil McKee ,1,0
+4901,Nan Jia ,2,59550
+4902,Sumit.Saxena@avagotech.com ,10,66708
+4903,Dennis O'Brien ,1,0
+4904,Goffredo Baroncelli ,2,274
+4905,Vladimirs Ambrosovs ,4,37888
+4907,Ludek Hlavacek ,1,0
+4908,Lee Campbell ,1,0
+4909,Webb Scales ,10,2575
+4910,Xudong Chen ,1,0
+4911,Drew Fustini ,1,0
+4912,Rama Kiran Kumar Indrakanti ,2,1
+4913,Fanael Linithien ,1,0
+4914,Stephen Cameron ,9,123
+4915,Ramneek Mehresh ,2,571471
+4916,Robert Schlabbach ,1,0
+4917,Abhishek Bist ,1,0
+4919,Michel von Czettritz ,1,0
+4920,Sai.Jiang ,1,0
+4921,Jaime Arrocha ,2,1777794
+4922,Colin Cronin ,6,198572
+4923,Marcus Folkesson ,1,0
+4924,chaehyun lim ,1,0
+4925,Sorin Dumitru ,2,284663
+4926,Mike Shuey ,8,24
+4927,"Gunasundar, Balamanikandan (B.) ",1,0
+4928,Ankit Garg ,1,0
+4929,Vasily Khoruzhick ,2,40
+4930,Jim Cromie ,1,0
+4931,Mikhail Klementyev ,1,0
+4932,Milan Broz ,1,0
+4933,Lidong Zhong ,1,0
+4934,Eran Harary ,1,0
+4935,Peter Crosthwaite ,3,963343
+4936,Gobinda Charan Maji ,1,0
+4937,Patrick Daly ,1,0
+4938,Christian Riesch ,1,0
+4939,Martin Liska ,1,0
+4940,Nam T. Nguyen ,1,0
+4941,Andrew Andrianov ,1,0
+4942,Martin Kelly ,1,0
+4943,Sri Jayaramappa ,1,0
+4944,Kevin Lo ,1,0
+4945,Vincent Fann ,1,0
+4946,Shao Fu ,5,1
+4947,Chin-ran Lo ,1,0
+4948,Lauri Kenttä ,1,0
+4949,Toshi Kikuchi ,2,1
+4950,Dylan Reid ,2,4
+4951,Martin Walch ,1,0
+4953,Nikhil Rao ,1,0
+4954,Ira Snyder ,1,0
+4955,Matt Campbell ,1,0
+4956,David Fries ,1,0
+4957,Dmitry Khromov ,1,0
+4958,Krzysztof Kolasa ,1,0
+4959,Ramakrishna Pallala ,3,217600
+4960,Urs Fässler ,1,0
+4961,Saravana Kannan ,1,0
+4962,Rajeev Kumar ,1,0
+4963,Badhri Jagan Sridharan ,1,0
+4964,Jane Wan ,1,0
+4965,Roberto Sassu ,4,239843
+4966,long.wanglong ,1,0
+4967,Wenlin Kang ,1,0
+4968,Zhiwu Song ,1,0
+4969,jean-michel.hautbois@vodalys.com ,2,1665412
+4970,Arnaud Patard (Rtp) ,1,0
+4971,Andy Zhou ,4,19983
+4972,Suchang Ko ,2,689251
+4973,Andrew Lewycky ,4,976
+4974,Martin Townsend ,1,0
+4975,Jin Qian ,2,954673
+4977,Adir Kuhn ,1,0
+4978,Kuppuswamy Sathyanarayanan ,7,411164
+4979,Zhichang Yuan ,1,0
+4980,Evgeniy Dushistov ,2,1
+4981,Brendan McGrath ,1,0
+4982,Brian Haley ,1,0
+4984,Zhang Chunyu ,1,0
+4985,Thomas Reitmayr ,1,0
+4986,Justin Cormack ,2,55235
+4987,Kast Bernd ,1,0
+4988,Chen Hanxiao ,4,575086
+4989,Joe Konno ,1,0
+4990,Michael Niewöhner ,1,0
+4991,Vince Bridgers ,2,1
+4992,Gong Zhaogang ,1,0
+4993,"Allan, Bruce W ",2,1139223
+4994,Arno Tiemersma ,2,159
+4995,Nick Kossifidis ,11,1
+4996,Fathi Boudra ,2,78783
+4997,Rebecca N. Palmer ,1,0
+4998,Todd Previte ,8,271346
+4999,Suketu Shah ,6,382752
+5000,A.Sunil Kamath ,3,957089
+5001,Preeti U Murthy ,2,265975
+5002,Palmer Dabbelt ,3,70
+5003,Maxime Coquelin stm32 ,1,0
+5004,Leonardo Carreras ,1,0
+5005,Guillaume Brogi ,1,0
+5006,Nickolaus Woodruff ,1,0
+5007,Robin Karlsson ,1,0
+5008,Carlos E. Garcia ,1,0
+5009,Rupesh Tatiya ,1,0
+5011,Sylvain BERTRAND ,1,0
+5012,James Sullivan ,2,1
+5014,Semen Protsenko ,3,85727
+5015,Sonic Zhang ,1,0
+5016,Shawn Landden ,1,0
+5018,Robert Callicotte ,1,0
+5019,Andreas Sandberg ,1,0
+5020,Ajay Thomas ,1,0
+5021,Petr Holasek ,1,0
+5022,David Riley ,1,0
+5023,Steven Toth ,6,54
+5024,Brian Bian ,1,0
+5025,"Ong, Boon Leong ",1,0
+5026,Roberta Dobrescu ,4,614017
+5027,Gbenga Adalumo ,1,0
+5028,Andrei Maresu ,1,0
+5030,Andreas Theodosiou ,1,0
+5031,Dzmitry Sledneu ,1,0
+5032,Karim BEN BELGACEM ,1,0
+5033,Jingwu Lin ,1,0
+5034,Nicolas Dechesne ,2,9
+5035,Jin Yao ,1,0
+5036,Sonny Rao ,1,0
+5037,firo yang ,1,0
+5038,Andreas Fleig ,1,0
+5039,Hagen Paul Pfeifer ,1,0
+5040,Josef Holzmayr ,1,0
+5041,Vianney le Clément de Saint-Marcq ,6,159056
+5042,Satheeshakrishna M ,8,84213
+5043,Sagar Kamble ,2,241806
+5045,Sumit Singh ,1,0
+5046,Daisy Sun ,1,0
+5047,Sujith Manoharan ,1,0
+5048,Marek Puzyniak ,5,7
+5049,SenthilKumar Jegadeesan ,1,0
+5050,Matt Porter ,33,410104
+5051,Bill Pemberton ,3,58
